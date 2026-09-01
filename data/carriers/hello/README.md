@@ -73,14 +73,33 @@ kt엠모바일과 달리 **기간을 지어낼 일이 없다.** 사이트가 값
 | 무엇 | 몇 개 | 어떻게 알아보나 |
 |---|---|---|
 | 패드(태블릿) 요금제 | 9 | `dedicatedPriceGubun === 'T'` (「헬로 패드 USIM …」·「데이터플러스 …」·「데이터 유심 …」) |
-| 청소년·키즈 전용 | 7 | `dedicatedPriceGubun === 'J'` |
-| 시니어 전용 | 3 | `dedicatedPriceGubun === 'S'` |
 | 복지 대상 전용 | 2 | 이름에 「복지」 (분류 딱지는 `N`이라 이름으로만 잡힌다) |
-| 일 단위 데이터 | 5 | 월 제공량이 빈칸이고 `dedicatedDailyOfferValue` 만 있다 (「… 일5GB」) |
 | **휴대폰(기기) 요금제 전체** | 143 | `reqRateType=P`. 가입조건이 「LTE 휴대폰을 신규 또는 기기변경 가입 시」 = 단말결합 |
 
-→ 유심 144개 중 **118개**를 담았다. 자세한 근거는
-`sources/hello-phone-plans-2026-09-01-excluded.md` 와 각 요금제의 `-excluded.md` 스냅샷에 있다.
+→ 라운드 1(2026-09-01)에서 유심 144개 중 118개를 담고, 청소년·키즈 전용(`pg==='J'`, 7개)·시니어 전용
+(`pg==='S'`, 3개)·일 단위 데이터(월 제공량 빈칸+`dedicatedDailyOfferValue`만 있음, 5개)는 그릇이 없어 뺐다.
+자세한 근거는 `sources/hello-phone-plans-2026-09-01-excluded.md` 와 각 요금제의 `-excluded.md` 스냅샷에 있다.
+
+## ⭐⭑ 라운드 2(2026-09-01, 게이트 2) — 연령 전용·일 단위 그릇 신설로 되살린 것
+
+- **일 단위 데이터 5개** — 전부 `dedicatedMonthlyOfferValue` 빈칸 + `dedicatedDailyOfferValue=5`(G) 「일5GB」.
+  `dataGB=0, dailyDataGB=5`로 담았다. `dedicatedDataDepletionRate=4`(5Mbps) 공통. 전부 `directPromotionInfotext==='A'`
+  (평생요금)이라 `promo=null`.
+- **청소년·키즈 전용 7개(`pg==='J'`) + 시니어 전용 3개(`pg==='S'`)** — `phone/commNoticeNew.do` 유의사항에
+  공통 문구(요금제별로 동일하게 붙어 있음, 항목별 개별 문구가 아니라 「연령제한 요금제」 공통 안내 블록)로 나이가
+  적혀 있다: 「토이저러스 키즈 요금제 : 만 4세~만 12세 이하」·「청소년 요금제 : 만 4세~만 18세 이하」·「시니어 요금제 :
+  만 65세 이상」(모두 「1인 1회선 한정」 — 남용 방지 개수 제한이지 나이 외 조건이 아니다). 이름이 「토이저러스 키즈」인
+  2개는 ageMax=12, 나머지 「청소년 안심유심」류 5개는 ageMax=18로, 「시니어 …」 3개는 ageMin=65로 담았다.
+  나이 외 추가 조건(부모 명의·특정 기기 등)은 유의사항 어디에도 없음 — 10개 전부 확인.
+- ⚠️ **11GB/15GB+「일2GB」 겹침 요금제 9개는 라운드 1에 이미 담겨 있었는데 `dailyDataGB`가 빠져 있다.**
+  예: `hello-data-more-usim-11gb-lgu`(원문 `dedicatedDailyOfferValue=2`) — round1 코드가 daily 필드를 아예
+  읽지 않아서 `dataGB=11, dailyDataGB=null`로 저장됐다. 라운드 2 규칙(「기존 항목은 건드리지 않는다」)에 따라
+  고치지 않고 그대로 뒀다 — **총괄 재검토 필요**(데이터를 실제보다 적게 표시하는 안전한 쪽 오류이긴 하다).
+  정확한 9개(raw 목록에서 `dedicatedDailyOfferValue` 있는 14개 중 순수 일단위 5개를 뺀 나머지, 전부 원문 「일2GB」):
+  `hello-benefit-the-chakhan-data-usim-11gb-lgu`, `hello-couponpack-data-more-usim-11gb-lgu`,
+  `hello-couponpack-usim-11gb-lgu`, `hello-data-more-usim-11gb-lgu`, `hello-hyundai-usim-11gb-lgu`,
+  `hello-kyobo-usim-11gb-lgu`, `hello-the-chakhan-data-usim-11gb-lgu`, `hello-the-chakhan-data-usim-11gb-kt`,
+  `hello-the-chakhan-data-usim-15gb-kt`.
 
 ## 다시 찍는 법
 
