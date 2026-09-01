@@ -389,7 +389,7 @@
   "monthlyFee": 33000,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -397,7 +397,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00492",
   "checkedAt": "2026-09-01",
-  "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(33,000원)를 월정액으로 담았다. 원문 기본료(정가)는 49,060원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기)."
+  "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(33,000원)를 월정액으로 담았다. 원문 기본료(정가)는 49,060원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기). / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터=11GB 기본제공 후 소진 시 매일 2GB 추가 제공"
  },
  {
   "id": "seven-self-lte-usim-7gb-pc0rb00493",
@@ -769,7 +769,7 @@
   "monthlyFee": 34100,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -777,7 +777,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000174",
   "checkedAt": "2026-09-01",
-  "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(34,100원)를 월정액으로 담았다. 원문 기본료(정가)는 49,060원."
+  "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(34,100원)를 월정액으로 담았다. 원문 기본료(정가)는 49,060원. / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터=11GB 기본제공 후 소진 시 매일 2GB 추가 제공"
  },
  {
   "id": "seven-lte-usim-1gb-100-min-pd00000284",
@@ -1206,5 +1206,25 @@
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000430",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(11,000원)를 월정액으로 담았다. 원문 기본료(정가)는 33,000원."
+ },
+ {
+  "id": "seven-lte-elder3-500mb-pd00000283",
+  "carrier": "SK 세븐모바일",
+  "carrierType": "mvno",
+  "network": "SKT",
+  "name": "LTE 어르신 3",
+  "generation": "LTE",
+  "monthlyFee": 22000,
+  "promo": null,
+  "dataGB": 0.5,
+  "dailyDataGB": null,
+  "throttleMbps": null,
+  "voiceMinutes": null,
+  "smsIncluded": true,
+  "ageMin": 60,
+  "ageMax": null,
+  "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=PHONE&prodCd=PD00000283",
+  "checkedAt": "2026-09-01",
+  "memo": "상세(PD00000283, 카테고리 PROD_LTE_TYPE_006 「어르신/복지」) 유의사항 원문 인용: 「만 60세 이상에 한해 가입이 가능(1인 1회선 한정)합니다」 — ageMin=60으로 담았다. 데이터 500MB·음성 기본제공(무제한)·문자 기본제공. 「기본료 22,000원」이 정가, 「약정 할인 후 기본료 16,500원」은 다른 5개 약정할인 항목과 같은 사유(약정 기간을 원문이 말하지 않음)로 monthlyFee는 정가 22,000원을 담았다. 소진 후 속도제어·추가제공 문구가 없고 요율표에 22.5원/MB 초과과금만 있어 throttleMbps는 null(소진 후 제공 없음)로 담았다."
  }
 ]

@@ -949,7 +949,7 @@
   "monthlyFee": 36000,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -957,7 +957,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,000원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=40,700원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 기프티쇼 5,000포인트 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL227R375"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,000원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=40,700원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 기프티쇼 5,000포인트 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL227R375 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-11-0gb-genie-pl222n229",
@@ -969,7 +969,7 @@
   "monthlyFee": 35800,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -977,7 +977,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 35,800원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=36,300원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「지니뮤직 8,000포인트 매월 평생 제공!」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL222N229"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 35,800원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=36,300원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「지니뮤직 8,000포인트 매월 평생 제공!」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL222N229 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-11gb-cu-pl244n954",
@@ -989,7 +989,7 @@
   "monthlyFee": 33000,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -997,7 +997,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 33,000원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=38,500원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 CU 20% 결제할인 + get커피 아이스 50% 할인권 2매」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL244N954"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 33,000원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=38,500원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 CU 20% 결제할인 + get커피 아이스 50% 할인권 2매」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL244N954 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-11gb-pay-5000-pl226t134",
@@ -1009,7 +1009,7 @@
   "monthlyFee": 35300,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -1017,7 +1017,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 35,300원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=40,700원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 네이버페이 5,000포인트 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL226T134"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 35,300원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=40,700원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 네이버페이 5,000포인트 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL226T134 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-11gb-daiso-5000-pl254t546",
@@ -1029,7 +1029,7 @@
   "monthlyFee": 36300,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -1037,7 +1037,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,300원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=44,000원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 다이소 5,000포인트 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL254T546"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,300원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=44,000원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 다이소 5,000포인트 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL254T546 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-11gb-melon-pl24ai858",
@@ -1049,7 +1049,7 @@
   "monthlyFee": 36300,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": null,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -1057,7 +1057,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,300원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=40,700원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 멜론뮤직 이용권 (6,900캐쉬) 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL24AI858"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,300원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=40,700원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 멜론뮤직 이용권 (6,900캐쉬) 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL24AI858 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-11gb-moazine-pl256c798",
@@ -1069,7 +1069,7 @@
   "monthlyFee": 33000,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -1077,7 +1077,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 33,000원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=38,500원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「모아진 국내+해외매거진 구독 매월 평생 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL256C798"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 33,000원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=38,500원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「모아진 국내+해외매거진 구독 매월 평생 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL256C798 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-11gb-millie-pl234l638",
@@ -1089,7 +1089,7 @@
   "monthlyFee": 33100,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -1097,7 +1097,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 33,100원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=38,500원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 밀리의 서재 구독권 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL234L638"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 33,100원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=38,500원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 밀리의 서재 구독권 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL234L638 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-11gb-baemin-pl225k736",
@@ -1109,7 +1109,7 @@
   "monthlyFee": 36300,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -1117,7 +1117,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,300원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=41,800원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 배달의 민족 2,500원 쿠폰 2장 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL225K736"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,300원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=41,800원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 배달의 민족 2,500원 쿠폰 2장 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL225K736 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-11gb-oliveyoung-5000-pl254t548",
@@ -1129,7 +1129,7 @@
   "monthlyFee": 36300,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -1137,7 +1137,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,300원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=44,000원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 올리브영 5,000포인트 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL254T548"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,300원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=44,000원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 올리브영 5,000포인트 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL254T548 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-11gb-watcha-pl221o942",
@@ -1149,7 +1149,7 @@
   "monthlyFee": 35900,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -1157,7 +1157,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 35,900원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=35,900원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 왓챠 베이직 제공 (동시시청 1개, 오프라인 재생 5개)」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL221O942"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 35,900원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=35,900원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 왓챠 베이직 제공 (동시시청 1개, 오프라인 재생 5개)」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL221O942 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-11gb-yogiyo-pl225k740",
@@ -1169,7 +1169,7 @@
   "monthlyFee": 36300,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -1177,7 +1177,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,300원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=41,800원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 요기요 2,500원 쿠폰 2장 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL225K740"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,300원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=41,800원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 요기요 2,500원 쿠폰 2장 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL225K740 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-11gb-wavve-pl239f703",
@@ -1189,7 +1189,7 @@
   "monthlyFee": 36600,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -1197,7 +1197,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,600원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=40,700원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 웨이브(Wavve) 베이직 이용권 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL239F703"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 36,600원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=40,700원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 웨이브(Wavve) 베이직 이용권 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL239F703 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-11gb-ansim-pl246o442",
@@ -1209,7 +1209,7 @@
   "monthlyFee": 33000,
   "promo": null,
   "dataGB": 11.0,
-  "dailyDataGB": null,
+  "dailyDataGB": 2,
   "throttleMbps": 3.0,
   "voiceMinutes": null,
   "smsIncluded": true,
@@ -1217,7 +1217,7 @@
   "ageMax": null,
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
-  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 33,000원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=38,500원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 보이스피싱 차단 서비스 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL246O442"
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 33,000원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=38,500원은 화면에 노출되지 않는다. / 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」 / 원문 한 줄 소개 「매월 평생 보이스피싱 차단 서비스 제공」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL246O442 / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터 설명 「(소진 시 매일 2GB+3Mbps 속도로 무제한)」의 매일 2GB"
  },
  {
   "id": "skylife-modu-15gb-cu-pl247t531",
@@ -1838,5 +1838,225 @@
   "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
   "checkedAt": "2026-09-01",
   "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 10,900원)를 담았다. 화면에는 취소선 정가 표기가 전혀 없고(line-through 0건), 할인·프로모션·기간 문구도 없다. 페이지 내부 데이터의 baseFee=11,900원은 화면에 노출되지 않는다. / 원문 한 줄 소개 「통화량이 많다면? 통화는 무제한~데이터는 필요한 만큼!」 / 원문에 요금제별 개별 URL이 없어(목록 한 페이지에서 서랍으로 펼침) sourceUrl은 목록 주소다. 원문 코드 PL22BS573"
+ },
+ {
+  "id": "skylife-modu-daily5gb-watcha-pl221o962",
+  "carrier": "kt스카이라이프",
+  "carrierType": "mvno",
+  "network": "KT",
+  "name": "모두 충분 일5GB+(왓챠)",
+  "generation": "LTE",
+  "monthlyFee": 41100,
+  "promo": null,
+  "dataGB": 0,
+  "dailyDataGB": 5,
+  "throttleMbps": 5,
+  "voiceMinutes": null,
+  "smsIncluded": true,
+  "ageMin": null,
+  "ageMax": null,
+  "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
+  "checkedAt": "2026-09-01",
+  "memo": "스카이라이프 공식 온라인샵 「모바일 요금제」 목록의 표시가(월 41,100원)를 담았다. 화면에는 취소선 정가 표기가 없고, 페이지 내부 데이터의 baseFee=41,900원은 화면에 노출되지 않는다. 원문 데이터 설명 「(매일 5GB + 소진시 5Mbps 속도로 무제한)」 — 월 기본 제공량이 없고 매일 5GB만 주는 구조라 dataGB=0, dailyDataGB=5로 담았다(게이트 2 결정 2026-09-01). 원문 한 줄 소개 「매월 평생 왓챠 베이직 제공(동시시청 1개, 오프라인 재생 5개)」. 원문에 요금제별 개별 URL이 없어 sourceUrl은 목록 주소다. 원문 코드 PL221O962"
+ },
+ {
+  "id": "skylife-school-2gb-pl226k881",
+  "carrier": "kt스카이라이프",
+  "carrierType": "mvno",
+  "network": "KT",
+  "name": "스쿨 2GB+",
+  "generation": "LTE",
+  "monthlyFee": 6400,
+  "promo": null,
+  "dataGB": 2,
+  "dailyDataGB": null,
+  "throttleMbps": 0.4,
+  "voiceMinutes": null,
+  "smsIncluded": true,
+  "ageMin": null,
+  "ageMax": 18,
+  "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
+  "checkedAt": "2026-09-01",
+  "memo": "스카이라이프 공식 온라인샵 목록의 표시가(월 6,400원)를 담았다. baseFee=11,000원은 화면에 노출되지 않는다. TAG 객체 「주니어」로 분류. 원문 한 줄 소개 인용 「※ 만 19세 미만 가입 가능 ※ 데이터 통화 무제한 요금제」 — 「만 19세 미만」을 ageMax=18로 담았다(19세 미만 = 최대 만 18세). 원문 데이터 설명 「(소진 시 400Kbps 속도로 무제한)」. sourceUrl은 목록 주소(개별 URL 없음). 원문 코드 PL226K881"
+ },
+ {
+  "id": "skylife-school-4gb-pl226k882",
+  "carrier": "kt스카이라이프",
+  "carrierType": "mvno",
+  "network": "KT",
+  "name": "스쿨 4GB+",
+  "generation": "LTE",
+  "monthlyFee": 10900,
+  "promo": null,
+  "dataGB": 4,
+  "dailyDataGB": null,
+  "throttleMbps": 0.4,
+  "voiceMinutes": null,
+  "smsIncluded": true,
+  "ageMin": null,
+  "ageMax": 18,
+  "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
+  "checkedAt": "2026-09-01",
+  "memo": "스카이라이프 공식 온라인샵 목록의 표시가(월 10,900원)를 담았다. baseFee=13,000원은 화면에 노출되지 않는다. TAG 객체 「주니어」로 분류. 원문 한 줄 소개 인용 「※ 만 19세 미만 가입 가능 ※ 데이터 통화 무제한 요금제」 — 「만 19세 미만」을 ageMax=18로 담았다. 원문 데이터 설명 「(소진 시 400Kbps 속도로 무제한)」. sourceUrl은 목록 주소(개별 URL 없음). 원문 코드 PL226K882"
+ },
+ {
+  "id": "skylife-school-8gb-pl226k883",
+  "carrier": "kt스카이라이프",
+  "carrierType": "mvno",
+  "network": "KT",
+  "name": "스쿨 8GB+",
+  "generation": "LTE",
+  "monthlyFee": 14900,
+  "promo": null,
+  "dataGB": 8,
+  "dailyDataGB": null,
+  "throttleMbps": 0.4,
+  "voiceMinutes": null,
+  "smsIncluded": true,
+  "ageMin": null,
+  "ageMax": 18,
+  "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
+  "checkedAt": "2026-09-01",
+  "memo": "스카이라이프 공식 온라인샵 목록의 표시가(월 14,900원)를 담았다. baseFee=17,000원은 화면에 노출되지 않는다. TAG 객체 「주니어」로 분류. 원문 한 줄 소개 인용 「※ 만 19세 미만 가입 가능 ※ 데이터 통화 무제한 요금제」 — 「만 19세 미만」을 ageMax=18로 담았다. 원문 데이터 설명 「(소진 시 400Kbps 속도로 무제한)」. sourceUrl은 목록 주소(개별 URL 없음). 원문 코드 PL226K883"
+ },
+ {
+  "id": "skylife-school-7gb-millie-pl237i261",
+  "carrier": "kt스카이라이프",
+  "carrierType": "mvno",
+  "network": "KT",
+  "name": "스쿨 7GB+(밀리의 서재)",
+  "generation": "LTE",
+  "monthlyFee": 16200,
+  "promo": null,
+  "dataGB": 7,
+  "dailyDataGB": null,
+  "throttleMbps": 1,
+  "voiceMinutes": null,
+  "smsIncluded": true,
+  "ageMin": null,
+  "ageMax": 18,
+  "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
+  "checkedAt": "2026-09-01",
+  "memo": "스카이라이프 공식 온라인샵 목록의 표시가(월 16,200원)를 담았다. baseFee=19,800원은 화면에 노출되지 않는다. TAG 객체 「주니어」로 분류. 원문 한 줄 소개 인용 「※ 만 19세 미만 가입 가능※ 매월 평생 밀리의 서재 구독권 제공」 — 「만 19세 미만」을 ageMax=18로 담았다. 원문 데이터 설명 「(소진 시 1Mbps 속도로 무제한)」. sourceUrl은 목록 주소(개별 URL 없음). 원문 코드 PL237I261"
+ },
+ {
+  "id": "skylife-gold-500mb-pl207r829",
+  "carrier": "kt스카이라이프",
+  "carrierType": "mvno",
+  "network": "KT",
+  "name": "골드 500MB+",
+  "generation": "LTE",
+  "monthlyFee": 5900,
+  "promo": null,
+  "dataGB": 0.5,
+  "dailyDataGB": null,
+  "throttleMbps": 0.4,
+  "voiceMinutes": 300,
+  "smsIncluded": true,
+  "ageMin": 65,
+  "ageMax": null,
+  "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
+  "checkedAt": "2026-09-01",
+  "memo": "스카이라이프 공식 온라인샵 목록의 표시가(월 5,900원, 정가와 동일 — 할인 없음)를 담았다. TAG 객체 「시니어」로 분류. 원문 한 줄 소개 인용 「※ 만 65세 이상 가입 가능 ※ 데이터 통화 무제한 요금제」 — 「만 65세 이상」을 ageMin=65로 담았다. 원문 음성 설명은 「기본제공」이 아니라 「300분」으로 명시되어 voiceMinutes=300으로 담았다(다른 시니어 요금제와 다름). 원문 데이터 설명 「(소진 시 400Kbps 속도로 무제한)」. sourceUrl은 목록 주소(개별 URL 없음). 원문 코드 PL207R829"
+ },
+ {
+  "id": "skylife-gold-2gb-pl207r830",
+  "carrier": "kt스카이라이프",
+  "carrierType": "mvno",
+  "network": "KT",
+  "name": "골드 2GB+",
+  "generation": "LTE",
+  "monthlyFee": 5900,
+  "promo": null,
+  "dataGB": 2,
+  "dailyDataGB": null,
+  "throttleMbps": 0.4,
+  "voiceMinutes": null,
+  "smsIncluded": true,
+  "ageMin": 65,
+  "ageMax": null,
+  "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
+  "checkedAt": "2026-09-01",
+  "memo": "스카이라이프 공식 온라인샵 목록의 표시가(월 5,900원)를 담았다. baseFee=8,900원은 화면에 노출되지 않는다. TAG 객체 「시니어」로 분류. 원문 한 줄 소개 인용 「※ 만 65세 이상 가입 가능 ※ 데이터 통화 무제한 요금제」 — 「만 65세 이상」을 ageMin=65로 담았다. 원문 데이터 설명 「(소진 시 400Kbps 속도로 무제한)」. sourceUrl은 목록 주소(개별 URL 없음). 원문 코드 PL207R830"
+ },
+ {
+  "id": "skylife-gold-4gb-pl21cm681",
+  "carrier": "kt스카이라이프",
+  "carrierType": "mvno",
+  "network": "KT",
+  "name": "골드 4.0GB+",
+  "generation": "LTE",
+  "monthlyFee": 9900,
+  "promo": null,
+  "dataGB": 4,
+  "dailyDataGB": null,
+  "throttleMbps": 1,
+  "voiceMinutes": null,
+  "smsIncluded": true,
+  "ageMin": 65,
+  "ageMax": null,
+  "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
+  "checkedAt": "2026-09-01",
+  "memo": "스카이라이프 공식 온라인샵 목록의 표시가(월 9,900원)를 담았다. baseFee=10,900원은 화면에 노출되지 않는다. TAG 객체 「시니어」로 분류. 원문 한 줄 소개 인용 「※ 만 65세 이상 가입 가능 ※ 데이터 통화 무제한 요금제」 — 「만 65세 이상」을 ageMin=65로 담았다. 원문 데이터 설명 「(소진 시 1Mbps 속도로 무제한)」. sourceUrl은 목록 주소(개별 URL 없음). 원문 코드 PL21CM681"
+ },
+ {
+  "id": "skylife-gold-8gb-pl21cm686",
+  "carrier": "kt스카이라이프",
+  "carrierType": "mvno",
+  "network": "KT",
+  "name": "골드 8.0GB+",
+  "generation": "LTE",
+  "monthlyFee": 13900,
+  "promo": null,
+  "dataGB": 8,
+  "dailyDataGB": null,
+  "throttleMbps": 1,
+  "voiceMinutes": null,
+  "smsIncluded": true,
+  "ageMin": 65,
+  "ageMax": null,
+  "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
+  "checkedAt": "2026-09-01",
+  "memo": "스카이라이프 공식 온라인샵 목록의 표시가(월 13,900원)를 담았다. baseFee=14,900원은 화면에 노출되지 않는다. TAG 객체 「시니어」로 분류. 원문 한 줄 소개 인용 「※ 만 65세 이상 가입 가능 ※ 데이터 통화 무제한 요금제」 — 「만 65세 이상」을 ageMin=65로 담았다. 원문 데이터 설명 「(소진 시 1Mbps 속도로 무제한)」. sourceUrl은 목록 주소(개별 URL 없음). 원문 코드 PL21CM686"
+ },
+ {
+  "id": "skylife-ansim-gold-2gb-pl225k718",
+  "carrier": "kt스카이라이프",
+  "carrierType": "mvno",
+  "network": "KT",
+  "name": "안심 골드 2GB+",
+  "generation": "LTE",
+  "monthlyFee": 7400,
+  "promo": null,
+  "dataGB": 2,
+  "dailyDataGB": null,
+  "throttleMbps": 0.4,
+  "voiceMinutes": null,
+  "smsIncluded": true,
+  "ageMin": 65,
+  "ageMax": null,
+  "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
+  "checkedAt": "2026-09-01",
+  "memo": "스카이라이프 공식 온라인샵 목록의 표시가(월 7,400원)를 담았다. baseFee=11,000원은 화면에 노출되지 않는다. TAG 객체 「시니어」로 분류. 원문 한 줄 소개 인용 「※ 만 65세 이상 가입 가능 ※ 매월 평생 후후 보이스피싱 차단」 — 「만 65세 이상」을 ageMin=65로 담았다. 원문 데이터 설명 「(소진 시 400Kbps 속도로 무제한)」. sourceUrl은 목록 주소(개별 URL 없음). 원문 코드 PL225K718"
+ },
+ {
+  "id": "skylife-ansim-gold-4gb-pl225k719",
+  "carrier": "kt스카이라이프",
+  "carrierType": "mvno",
+  "network": "KT",
+  "name": "안심 골드 4GB+",
+  "generation": "LTE",
+  "monthlyFee": 9900,
+  "promo": null,
+  "dataGB": 4,
+  "dailyDataGB": null,
+  "throttleMbps": 1,
+  "voiceMinutes": null,
+  "smsIncluded": true,
+  "ageMin": 65,
+  "ageMax": null,
+  "sourceUrl": "https://www.skylife.co.kr/product/mobile/all",
+  "checkedAt": "2026-09-01",
+  "memo": "스카이라이프 공식 온라인샵 목록의 표시가(월 9,900원)를 담았다. baseFee=14,300원은 화면에 노출되지 않는다. TAG 객체 「시니어」로 분류. 원문 한 줄 소개 인용 「※ 만 65세 이상 가입 가능 ※ 매월 평생 후후 보이스피싱 차단」 — 「만 65세 이상」을 ageMin=65로 담았다. 원문 데이터 설명 「(소진 시 1Mbps 속도로 무제한)」. sourceUrl은 목록 주소(개별 URL 없음). 원문 코드 PL225K719"
  }
 ]
