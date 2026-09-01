@@ -52,6 +52,38 @@ GET https://www.tworld.co.kr/core-product/v1/submain/filters?idxCtgCd=F01100
 - 묶음 목록도 있다: `GET /core-product/v1/submain/grp-prcplns?size=100&page=1&order=&idxCtgCd=F02087`
   (**F0208x/F0210x 분류 코드에만 응답한다.** 기기/대상 코드를 넣으면 빈 `result`)
 
+### 4) ⭐ 나이(대상)별 목록 — 라운드 2에서 뚫음 (2026-09-01)
+
+「만 34세 이하 요금제만 보여줘」처럼 대상 코드로 **골라 받는 길**이다.
+쓰는 열쇠말은 `prodFltId`가 아니라 **`targetProdFltIds`** — 이걸 몰라서 헤맸다(아래 「뒤진 곳」).
+
+```
+GET https://www.tworld.co.kr/core-product/v1/product/mobile/plan-filter-list
+      ?idxCtgCd=F01100&size=200&page=1&order=&targetProdFltIds=<대상코드>
+Referer: https://www.tworld.co.kr/web/product/plan/list
+```
+
+2026-09-01 기준 결과(= SKT가 **지금 새로 받는** 연령/대상 전용 요금제 전부):
+
+| 대상코드 | 뜻 | 개수 | 요금제 |
+|---|---|---|---|
+| F01166 | 만 12세 이하 | 3 | ZEM플랜 퍼펙트·베스트·스마트 |
+| F01162 | 만 18세 이하 | 3 | (위와 같은 ZEM플랜 3개 — **따로 있는 청소년 요금제가 아니다**) |
+| F01165 | 만 34세 이하 | 11 | 0 청년 다이렉트 30/34/42/48/55/62/69(T 우주/넷플릭스×2/티빙/디즈니+) |
+| F01163 / F01167 / F01168 | 만 65 / 70 / 80세 이상 | **0** | **없다** — SKT엔 지금 새로 받는 시니어 요금제가 하나도 없다 |
+| F02030 | 군인 | **0** | 없다 |
+| F01164 | 복지 | 4 | 손누리 3.0G/1.5G · 소리누리 2.4G/1.2G (장애인 복지 — 담지 않는다) |
+
+- 즉 **SKT의 연령 전용은 「어린이(ZEM) 3개 + 청년 11개」가 전부**다. 시니어·청소년 전용은 없다.
+- 나이 문구는 목록이 아니라 **공시(`ledger/<prodId>/contents`)의 「가입 조건」·「가입 대상」 항목**에 있다.
+  0 청년 다이렉트: 「5G/LTE 스마트폰을 사용하시는 **만 34세 이하** 고객님만 가입하실 수 있습니다.」
+  단 OTT 묶음판은 다르다 — 넷플릭스판은 「**만 19세 이상~만 34세 이하** 개인 고객님」,
+  디즈니+판은 「만 19세 이상 고객님만 가입」 + 「만 34세 이하만 가입 가능」. **묶음판마다 따로 읽어야 한다.**
+  ZEM플랜: 「**만 12세 이하** 개인명의 고객님에 한하여 1인 1회선 가입 가능」.
+- ⚠️ 0 청년 다이렉트에는 나이 말고 **가입 경로 조건**이 붙는다 —
+  「T 다이렉트샵에서 신규가입/기기변경 또는 유심을 개통한 경우에만(개통일 포함 15일 안에)」.
+  라운드 1이 같은 조건의 `다이렉트5G`를 담았기에 라운드 2도 같은 기준으로 담았다.
+
 ### 길 찾은 방법 (다음에 막히면 이렇게)
 
 1. playwright로 `/web/product/plan/list`를 열고 `page.on('response')`로 xhr/fetch만 걸러 본다.
@@ -70,6 +102,10 @@ GET https://www.tworld.co.kr/core-product/v1/submain/filters?idxCtgCd=F01100
   대신 위 3번(페이지 안에서 `oTw.Api.getBffApiCmd` 호출)으로 풀었다.
 - `grp-prcplns`에 기기 코드(F01713 5G, F01121 LTE)나 대상 코드(F01161)를 넣으면 `result`가 빈 객체.
   분류별 목록은 2026 라인업 코드로만 된다.
+- `plan-filter-list`에 `prodFltId=<코드>`를 넣으면 **필터가 안 먹고 110개 전부**가 온다(조용히 무시된다).
+  열쇠말은 `targetProdFltIds`다 — 목록 페이지 스크립트
+  `https://www.tworld.co.kr/web/js/product/plan/list/plan.list.js`의
+  `params.targetProdFltIds = this.filterList` 줄에서 찾았다. (2026-09-01 라운드 2)
 - `ledger/<prodId>/summaries|contents`를 목록 페이지 Referer로 부르면 **401**. Referer를 그 요금제
   상세 페이지(`/web/product/callplan/<prodId>`)로 바꾸면 200. 쿠키는 필요 없었다.
 - 스마트초이스 발견 목록의 SKT 요금제(`../smartchoice/sources/planlist-*-discovery.json`의
@@ -86,3 +122,13 @@ GET https://www.tworld.co.kr/core-product/v1/submain/filters?idxCtgCd=F01100
   `memo`에 원문 문장을 남겼다. 스키마에 「둘 다」 칸이 없다.
 - 담지 않은 것: 연령/대상 전용 18개 · 태블릿·워치·투넘버 11개 · 선불(PPS) 12개 ·
   외국인 전용(Easy) 4개 · 라우터/IoT 3개. 자세한 근거는 `sources/planlist-2026-09-01-discovery.json`.
+
+## 2026-09-01 라운드 2에서 담은 것 (연령 전용)
+
+- 라운드 1이 뺐던 **연령 전용 18개 중 14개를 담았다**(위 ④의 F01166/F01162/F01165).
+  나머지 4개(복지 F01164 — 손누리·소리누리)는 **장애인 복지 등록자 전용**이라 나이 조건이 아니어서 계속 뺐다.
+- 담은 값의 기준은 라운드 1과 같다: `monthlyFee` = `basFeeInfo`(공시 정가·부가세 포함), `promo`는 전부 null.
+- `generation`은 라운드 1과 같이 **`prodFltList`의 기기 필터**로 판정했다
+  (0 청년 다이렉트·ZEM 퍼펙트/베스트 = `5G` 하나뿐 → `5G`, ZEM 스마트 = `5G`+`LTE` → `5G/LTE`).
+- ZEM플랜 스마트의 음성 원문은 「60분 +SKT 지정 2회선 음성 무제한」 → **일반 통화 제공량인 60분만** 담았다
+  (지정 2회선 무제한은 담을 칸이 없다).
