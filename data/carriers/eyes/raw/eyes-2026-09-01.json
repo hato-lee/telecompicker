@@ -1,0 +1,8419 @@
+[
+ {
+  "id": "10674",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10674/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   }
+  ],
+  "name": "[L]foreigner(500분/7GB+3Mbps)",
+  "dataText": [
+   "7GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "500분",
+   "500건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 24,200원",
+  "discount": null,
+  "benefits": [
+   "(외국인Only) : 내국인 가입불가"
+  ]
+ },
+ {
+  "id": "528",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/528/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "올리브영"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]올리브영100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "55,000원",
+  "period": "첫 7개월간",
+  "curP": "월 10,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 55000,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 올리브영 7,000원 상품권 (정가 7,000원)",
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "527",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/527/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "올리브영"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]올리브영11GB+",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "48,400원",
+  "period": "첫 7개월간",
+  "curP": "월 9,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 9900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 48400,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 올리브영 7,000원 상품권 (정가 7,000원)",
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "525",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/525/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "올리브영"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]올리브영10GB+1Mbps",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "33,000원",
+  "period": "첫 7개월간",
+  "curP": "월 9,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 9500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 33000,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 올리브영 7,000원 상품권 (정가 7,000원)",
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "524",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/524/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "올리브영"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]올리브영100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "37,400원",
+  "period": "첫 7개월간",
+  "curP": "월 7,700원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 7700,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 37400,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 올리브영 7,000원 상품권 (정가 7,000원)",
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "10673",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10673/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   }
+  ],
+  "name": "아이즈 200분 10GB",
+  "dataText": [
+   "10GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 15,400원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "10672",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10672/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "Npay"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]5G 네이버페이 200GB+",
+  "dataText": [
+   "200GB",
+   "10Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "66,000원",
+  "period": "첫 7개월간",
+  "curP": "월 25,000원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 25000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 66000,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 Npay 5,000P (정가 5,000원)"
+  ]
+ },
+ {
+  "id": "613",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/613/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "다이소"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]다이소 100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "53,900원",
+  "period": "첫 7개월간",
+  "curP": "월 20,000원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 20000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 53900,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 다이소 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "578",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/578/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[K]울트라(500분/20GB)",
+  "dataText": [
+   "20GB"
+  ],
+  "infoLines": [
+   "500분",
+   "300건"
+  ],
+  "orgP": "33,000원",
+  "period": "평생",
+  "curP": "월 6,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 6900,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "360",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/360/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   }
+  ],
+  "name": "아이즈 6GB+",
+  "dataText": [
+   "6GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 16,800원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "276",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/276/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "밀리의서재"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[K]무한7GB+ 밀리의서재",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "25,300원",
+  "period": "평생",
+  "curP": "월 14,000원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 14000,
+    "rate": 100
+   }
+  ],
+  "benefits": [
+   "밀리의서재 전자책 월 정기구독 무료 (정가 11,900원)",
+   "SOLO 결합 시 추가 5GB"
+  ]
+ },
+ {
+  "id": "220",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/220/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[L]무한11GB+",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "44,000원",
+  "period": "평생",
+  "curP": "월 25,500원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 25500,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "172",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/172/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[S]벤티(300분/7GB)",
+  "dataText": [
+   "7GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "18,500원",
+  "period": "첫 12개월간",
+  "curP": "월 90원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 90,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 18500,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "629",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/629/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]울트라(500분/20GB)",
+  "dataText": [
+   "20GB"
+  ],
+  "infoLines": [
+   "500분",
+   "100건"
+  ],
+  "orgP": "33,000원",
+  "period": "평생",
+  "curP": "월 7,300원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 7300,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "250",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/250/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "Npay"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]무한11GB+ Npay",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "48,400원",
+  "period": "첫 7개월간",
+  "curP": "월 10,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 48400,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 Npay 5,000P (정가 5,000원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "612",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/612/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "다이소"
+   }
+  ],
+  "name": "[K]다이소 10GB+",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 28,600원",
+  "discount": null,
+  "benefits": [
+   "매 월 다이소 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "141",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/141/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "18개월 할인"
+   }
+  ],
+  "name": "[L]그란데(100분/6GB)",
+  "dataText": [
+   "6GB"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "15,100원",
+  "period": "첫 18개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "18개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 15100,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "590",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/590/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "다이소"
+   }
+  ],
+  "name": "[K]다이소 15GB+",
+  "dataText": [
+   "15GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 30,800원",
+  "discount": null,
+  "benefits": [
+   "매 월 다이소 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "589",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/589/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "올리브영"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]올리브영 100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "53,900원",
+  "period": "첫 7개월간",
+  "curP": "월 20,000원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 20000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 53900,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 올리브영 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "585",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/585/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "올리브영"
+   }
+  ],
+  "name": "[K]올리브영 15GB+",
+  "dataText": [
+   "15GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 30,800원",
+  "discount": null,
+  "benefits": [
+   "매 월 올리브영 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "584",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/584/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "올리브영"
+   }
+  ],
+  "name": "[K]올리브영 10GB+",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 28,600원",
+  "discount": null,
+  "benefits": [
+   "매 월 올리브영 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "583",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/583/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "올리브영"
+   }
+  ],
+  "name": "[K]올리브영 7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 25,300원",
+  "discount": null,
+  "benefits": [
+   "매 월 올리브영 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 5GB"
+  ]
+ },
+ {
+  "id": "582",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/582/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "다이소"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]다이소 11GB+일2GB",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "47,300원",
+  "period": "첫 7개월간",
+  "curP": "월 19,000원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 19000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 47300,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 다이소 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "581",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/581/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "다이소"
+   }
+  ],
+  "name": "[K]다이소 7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 25,300원",
+  "discount": null,
+  "benefits": [
+   "매 월 다이소 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 5GB"
+  ]
+ },
+ {
+  "id": "580",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/580/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "다이소"
+   }
+  ],
+  "name": "[K]다이소 100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 37,400원",
+  "discount": null,
+  "benefits": [
+   "매 월 다이소 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "579",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/579/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "다이소"
+   }
+  ],
+  "name": "[K]다이소 300분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 39,600원",
+  "discount": null,
+  "benefits": [
+   "매 월 다이소 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "577",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/577/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]울트라(500분/15GB)",
+  "dataText": [
+   "15GB"
+  ],
+  "infoLines": [
+   "500분",
+   "300건"
+  ],
+  "orgP": "27,500원",
+  "period": "첫 7개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 27500,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "576",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/576/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]울트라(300분/20GB)",
+  "dataText": [
+   "20GB"
+  ],
+  "infoLines": [
+   "300분",
+   "200건"
+  ],
+  "orgP": "30,800원",
+  "period": "첫 7개월간",
+  "curP": "월 100원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 100,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 30800,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "575",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/575/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]울트라(100분/20GB)",
+  "dataText": [
+   "20GB"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "28,600원",
+  "period": "첫 7개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 28600,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "574",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/574/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "period",
+    "text": "10개월 할인"
+   }
+  ],
+  "name": "[K]울트라(300분/15GB)",
+  "dataText": [
+   "15GB"
+  ],
+  "infoLines": [
+   "300분",
+   "200건"
+  ],
+  "orgP": "25,300원",
+  "period": "첫 10개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "10개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 25300,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "529",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/529/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "아이즈 100분 10GB",
+  "dataText": [
+   "10GB"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "14,300원",
+  "period": "첫 7개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 14300,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "Npay 1만원 지급 (정가 10,000원)"
+  ]
+ },
+ {
+  "id": "459",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/459/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "CU & 롯시"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]CU&롯시 100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "55,000원",
+  "period": "첫 7개월간",
+  "curP": "월 9,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 9900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 55000,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "매 월 CU 편의점 20% 할인 (정가 5,000원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "458",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/458/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "CU & 롯시"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]CU&롯시 11GB+일2GB",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "48,400원",
+  "period": "첫 7개월간",
+  "curP": "월 5,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 5900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 48400,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "매 월 CU 편의점 20% 할인 (정가 5,000원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "415",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/415/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "롯시 & 밀리"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]롯시&밀리 100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "55,000원",
+  "period": "첫 7개월간",
+  "curP": "월 9,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 9900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 55000,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "밀리의서재 전자책 월 정기구독 무료 (정가 11,900원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "414",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/414/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "롯시 & 밀리"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]롯시&밀리 11GB+일2GB",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "48,400원",
+  "period": "첫 7개월간",
+  "curP": "월 5,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 5900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 48400,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "밀리의서재 전자책 월 정기구독 무료 (정가 11,900원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "413",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/413/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "롯시 & 밀리"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]롯시&밀리 100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "38,500원",
+  "period": "첫 7개월간",
+  "curP": "월 6,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 6900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 38500,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "밀리의서재 전자책 월 정기구독 무료 (정가 11,900원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "412",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/412/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "롯시 & 밀리"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]롯시&밀리 15GB+",
+  "dataText": [
+   "15GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "34,100원",
+  "period": "첫 7개월간",
+  "curP": "월 7,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 7500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 34100,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "밀리의서재 전자책 월 정기구독 무료 (정가 11,900원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "411",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/411/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "롯시 & 밀리"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]롯시&밀리 10GB+",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "31,900원",
+  "period": "첫 7개월간",
+  "curP": "월 5,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 5500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 31900,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "밀리의서재 전자책 월 정기구독 무료 (정가 11,900원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "410",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/410/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "롯시 & 밀리"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]롯시&밀리 7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "28,600원",
+  "period": "첫 7개월간",
+  "curP": "월 3,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 3900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 28600,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "밀리의서재 전자책 월 정기구독 무료 (정가 11,900원)",
+   "SOLO 결합 시 추가 5GB"
+  ]
+ },
+ {
+  "id": "373",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/373/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   }
+  ],
+  "name": "[K]아이즈특판7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 19,800원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "221",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/221/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[L]매일5GB+",
+  "dataText": [
+   "",
+   "5GB/일",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "53,000원",
+  "period": "평생",
+  "curP": "월 28,500원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 28500,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "364",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/364/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]아이즈특판7GB+1Mbps",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "18,900원",
+  "period": "첫 7개월간",
+  "curP": "월 5,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 5500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 18900,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "SOLO 결합 시 추가 5GB X 24개월"
+  ]
+ },
+ {
+  "id": "366",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/366/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]아이즈특판100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "26,400원",
+  "period": "첫 7개월간",
+  "curP": "월 7,700원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 7700,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 26400,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "367",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/367/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]아이즈특판300분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "29,900원",
+  "period": "첫 7개월간",
+  "curP": "월 10,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 29900,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "368",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/368/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]아이즈특판11GB+일2GB",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "36,300원",
+  "period": "첫 7개월간",
+  "curP": "월 9,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 9900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 36300,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "369",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/369/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]아이즈특판100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "45,100원",
+  "period": "첫 7개월간",
+  "curP": "월 11,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 11900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 45100,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "58",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/58/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "아이즈 (10GB/400분)",
+  "dataText": [
+   "10GB"
+  ],
+  "infoLines": [
+   "400분",
+   "400건"
+  ],
+  "orgP": "25,300원",
+  "period": "평생",
+  "curP": "월 2,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 2900,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "523",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/523/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "[S]5G 울트라(200분/20GB)",
+  "dataText": [
+   "20GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 29,700원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "515",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/515/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "아이즈(100분/5GB)",
+  "dataText": [
+   "5GB"
+  ],
+  "infoLines": [
+   "100분",
+   "50건"
+  ],
+  "orgP": "8,000원",
+  "period": "평생",
+  "curP": "월 500원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 500,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "513",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/513/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "CU & 롯시"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]CU&롯시 10GB+",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "33,000원",
+  "period": "첫 7개월간",
+  "curP": "월 5,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 5500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 33000,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "매 월 CU 편의점 20% 할인 (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "510",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/510/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]스페셜300분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "34,100원",
+  "period": "첫 7개월간",
+  "curP": "월 12,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 12900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 34100,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "462",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/462/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[S]음성자유/7GB",
+  "dataText": [
+   "7GB"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 30분",
+   "100건"
+  ],
+  "orgP": "25,300원",
+  "period": "첫 12개월간",
+  "curP": "월 1,980원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 1980,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 25300,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "390",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/390/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]울트라(200분/20GB)",
+  "dataText": [
+   "20GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "29,700원",
+  "period": "첫 7개월간",
+  "curP": "월 2,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 2900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 29700,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "168",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/168/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "18개월 할인"
+   }
+  ],
+  "name": "[S]그란데(100분/6GB)",
+  "dataText": [
+   "6GB"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "15,100원",
+  "period": "첫 18개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "18개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 15100,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "95",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/95/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "아이즈팡팡(200분/4G)",
+  "dataText": [
+   "4GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 7,900원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "476",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/476/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "세이브머니유심(200분/5GB+)",
+  "dataText": [
+   "5GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "11,770원",
+  "period": "평생",
+  "curP": "월 3,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 3900,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "475",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/475/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "세이브머니유심(기본제공/5GB+)",
+  "dataText": [
+   "5GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "13,970원",
+  "period": "평생",
+  "curP": "월 5,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 5900,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "457",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/457/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "CU & 롯시"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]CU&롯시 300분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "41,800원",
+  "period": "첫 7개월간",
+  "curP": "월 8,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 8900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 41800,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "매 월 CU 편의점 20% 할인 (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "491",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/491/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "6개월 할인"
+   }
+  ],
+  "name": "[L]벤티(300분/9GB)",
+  "dataText": [
+   "9GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "22,200원",
+  "period": "첫 6개월간",
+  "curP": "월 900원",
+  "discount": [
+   {
+    "label": "6개월 동안",
+    "price": 900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 22200,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "Npay 2만원 지급 (정가 20,000원)"
+  ]
+ },
+ {
+  "id": "54",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/54/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "18개월 할인"
+   }
+  ],
+  "name": "아이즈팡팡(200분/6G)",
+  "dataText": [
+   "6GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "11,000원",
+  "period": "첫 18개월간",
+  "curP": "월 90원",
+  "discount": [
+   {
+    "label": "18개월 동안",
+    "price": 90,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 11000,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "456",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/456/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "CU & 롯시"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]CU&롯시 100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "39,600원",
+  "period": "첫 7개월간",
+  "curP": "월 6,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 6900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 39600,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "매 월 CU 편의점 20% 할인 (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "388",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/388/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]울트라(100분/15GB)",
+  "dataText": [
+   "15GB"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "23,100원",
+  "period": "평생",
+  "curP": "월 4,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 4900,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "389",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/389/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]울트라(300분/15GB)",
+  "dataText": [
+   "15GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "25,300원",
+  "period": "첫 7개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 25300,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "175",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/175/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]벤티(200분/9GB)",
+  "dataText": [
+   "9GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "21,400원",
+  "period": "평생",
+  "curP": "월 8,750원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 8750,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "384",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/384/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "유심사"
+   }
+  ],
+  "name": "[K]글로벌로밍100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 57,200원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "383",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/383/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "유심사"
+   }
+  ],
+  "name": "[K]글로벌로밍11GB+",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 200분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 50,600원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "382",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/382/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "유심사"
+   }
+  ],
+  "name": "[K]글로벌로밍100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 39,600원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "381",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/381/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "유심사"
+   }
+  ],
+  "name": "[K]글로벌로밍7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 30,800원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "380",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/380/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "Npay"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]무한100GB+ Npay",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "55,000원",
+  "period": "첫 7개월간",
+  "curP": "월 13,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 13500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 55000,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 Npay 5,000P (정가 5,000원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "379",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/379/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "Npay"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]무한7GB+ Npay",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "26,400원",
+  "period": "첫 7개월간",
+  "curP": "월 7,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 7500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 26400,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 Npay 5,000P (정가 5,000원)",
+   "SOLO 결합 시 추가 5GB"
+  ]
+ },
+ {
+  "id": "365",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/365/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]아이즈특판10GB+1Mbps",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "20,900원",
+  "period": "첫 7개월간",
+  "curP": "월 10,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 20900,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "228",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/228/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]무한100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "33,900원",
+  "period": "평생",
+  "curP": "월 21,000원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 21000,
+    "rate": 100
+   }
+  ],
+  "benefits": [
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "338",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/338/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]무한10GB+",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "35,200원",
+  "period": "평생",
+  "curP": "월 18,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 18900,
+    "rate": 100
+   }
+  ],
+  "benefits": [
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "246",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/246/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]무한100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "53,000원",
+  "period": "평생",
+  "curP": "월 33,000원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 33000,
+    "rate": 100
+   }
+  ],
+  "benefits": [
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "227",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/227/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]무한7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "23,900원",
+  "period": "평생",
+  "curP": "월 15,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 15900,
+    "rate": 100
+   }
+  ],
+  "benefits": [
+   "SOLO 결합 시 추가 5GB X 24개월"
+  ]
+ },
+ {
+  "id": "370",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/370/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[L]무한10GB+1Mbps",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "27,500원",
+  "period": "평생",
+  "curP": "월 18,000원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 18000,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "188",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/188/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[K]톨(100분/3GB)",
+  "dataText": [
+   "3GB"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "9,600원",
+  "period": "평생",
+  "curP": "월 4,430원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 4430,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "170",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/170/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "[S]그란데(500분/6GB)",
+  "dataText": [
+   "6GB"
+  ],
+  "infoLines": [
+   "500분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 18,300원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "164",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/164/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]톨(500분/3GB)",
+  "dataText": [
+   "3GB"
+  ],
+  "infoLines": [
+   "500분",
+   "100건"
+  ],
+  "orgP": "12,800원",
+  "period": "평생",
+  "curP": "월 5,100원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 5100,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "163",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/163/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]톨(200분/3GB)",
+  "dataText": [
+   "3GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "10,400원",
+  "period": "평생",
+  "curP": "월 4,350원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 4350,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "160",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/160/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]톨(300분/2GB)",
+  "dataText": [
+   "2GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "9,400원",
+  "period": "평생",
+  "curP": "월 3,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 3900,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "147",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/147/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   }
+  ],
+  "name": "[L]벤티(300분/8GB)",
+  "dataText": [
+   "8GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 20,300원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "48",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/48/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   }
+  ],
+  "name": "아이즈(100분/1GB+)",
+  "dataText": [
+   "1GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 8,200원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "371",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/371/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[L]무한15GB+1Mbps",
+  "dataText": [
+   "15GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "29,700원",
+  "period": "평생",
+  "curP": "월 19,000원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 19000,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "219",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/219/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[L]무한7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "23,900원",
+  "period": "평생",
+  "curP": "월 12,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 12900,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "218",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/218/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[L]무한300분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "36,900원",
+  "period": "평생",
+  "curP": "월 20,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 20900,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "226",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/226/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]무한11GB+",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "44,000원",
+  "period": "평생",
+  "curP": "월 27,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 27900,
+    "rate": 100
+   }
+  ],
+  "benefits": [
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "217",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/217/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[L]무한100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "33,900원",
+  "period": "평생",
+  "curP": "월 18,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 18900,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "347",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/347/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]음성자유/3GB",
+  "dataText": [
+   "3GB"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 30분",
+   "100건"
+  ],
+  "orgP": "20,400원",
+  "period": "평생",
+  "curP": "월 3,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 3900,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "245",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/245/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]무한300분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "36,300원",
+  "period": "평생",
+  "curP": "월 24,000원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 24000,
+    "rate": 100
+   }
+  ],
+  "benefits": [
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "249",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/249/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "Npay"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]무한100분/15GB+ Npay",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "38,500원",
+  "period": "첫 7개월간",
+  "curP": "월 12,000원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 12000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 38500,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 Npay 5,000P (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "204",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/204/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[K]벤티(200분/10GB)",
+  "dataText": [
+   "10GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "23,200원",
+  "period": "평생",
+  "curP": "월 1,980원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 1980,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "198",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/198/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   }
+  ],
+  "name": "[K]벤티(300분/7GB)",
+  "dataText": [
+   "7GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 18,500원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "169",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/169/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]그란데(200분/6GB)",
+  "dataText": [
+   "6GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "15,900원",
+  "period": "평생",
+  "curP": "월 6,600원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 6600,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "196",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/196/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[K]그란데(500분/6GB)",
+  "dataText": [
+   "6GB"
+  ],
+  "infoLines": [
+   "500분",
+   "100건"
+  ],
+  "orgP": "18,300원",
+  "period": "평생",
+  "curP": "월 6,200원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 6200,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "194",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/194/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   }
+  ],
+  "name": "[K]그란데(100분/6GB)",
+  "dataText": [
+   "6GB"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 15,100원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "193",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/193/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   }
+  ],
+  "name": "[K]그란데(300분/5GB)",
+  "dataText": [
+   "5GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 14,900원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "187",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/187/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[K]톨(500분/2GB)",
+  "dataText": [
+   "2GB"
+  ],
+  "infoLines": [
+   "500분",
+   "100건"
+  ],
+  "orgP": "10,900원",
+  "period": "평생",
+  "curP": "월 4,740원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 4740,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "184",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/184/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[K]톨(300분/1GB)",
+  "dataText": [
+   "1GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "7,500원",
+  "period": "평생",
+  "curP": "월 4,200원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 4200,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "159",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/159/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]톨(200분/2GB)",
+  "dataText": [
+   "2GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "8,600원",
+  "period": "평생",
+  "curP": "월 3,650원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 3650,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "161",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/161/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]톨(500분/2GB)",
+  "dataText": [
+   "2GB"
+  ],
+  "infoLines": [
+   "500분",
+   "100건"
+  ],
+  "orgP": "10,900원",
+  "period": "평생",
+  "curP": "월 4,300원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 4300,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "134",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/134/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]톨(500분/2GB)",
+  "dataText": [
+   "2GB"
+  ],
+  "infoLines": [
+   "500분",
+   "100건"
+  ],
+  "orgP": "10,900원",
+  "period": "첫 24개월간",
+  "curP": "월 3,200원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 3200,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 10900,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "162",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/162/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]톨(100분/3GB)",
+  "dataText": [
+   "3GB"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "9,600원",
+  "period": "평생",
+  "curP": "월 4,100원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 4100,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "165",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/165/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]그란데(300분/4GB)",
+  "dataText": [
+   "4GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "13,000원",
+  "period": "평생",
+  "curP": "월 5,300원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 5300,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "137",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/137/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]톨(500분/3GB)",
+  "dataText": [
+   "3GB"
+  ],
+  "infoLines": [
+   "500분",
+   "100건"
+  ],
+  "orgP": "12,800원",
+  "period": "첫 24개월간",
+  "curP": "월 4,000원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 4000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 12800,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "166",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/166/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]그란데(1000분/4GB)",
+  "dataText": [
+   "4GB"
+  ],
+  "infoLines": [
+   "1,000분",
+   "100건"
+  ],
+  "orgP": "18,600원",
+  "period": "평생",
+  "curP": "월 7,600원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 7600,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "142",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/142/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]그란데(200분/6GB)",
+  "dataText": [
+   "6GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "15,900원",
+  "period": "첫 24개월간",
+  "curP": "월 6,000원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 6000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 15900,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "144",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/144/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]벤티(200분/7GB)",
+  "dataText": [
+   "7GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "17,700원",
+  "period": "첫 24개월간",
+  "curP": "월 6,700원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 6700,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 17700,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "146",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/146/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]벤티(200분/8GB)",
+  "dataText": [
+   "8GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "19,600원",
+  "period": "첫 24개월간",
+  "curP": "월 7,500원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 7500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 19600,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "176",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/176/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "[S]벤티(300분/9GB)",
+  "dataText": [
+   "9GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 22,200원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "174",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/174/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "[S]벤티(300분/8GB)",
+  "dataText": [
+   "8GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 20,300원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "352",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/352/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "유심사"
+   }
+  ],
+  "name": "[S]글로벌로밍100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 57,200원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "351",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/351/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "유심사"
+   }
+  ],
+  "name": "[S]글로벌로밍11GB+",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 48,400원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "350",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/350/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "유심사"
+   }
+  ],
+  "name": "[S]글로벌로밍100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 38,500원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "349",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/349/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "유심사"
+   }
+  ],
+  "name": "[S]글로벌로밍7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 29,700원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "171",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/171/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]벤티(200분/7GB)",
+  "dataText": [
+   "7GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "17,700원",
+  "period": "평생",
+  "curP": "월 550원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 550,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "132",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/132/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]톨(200분/2GB)",
+  "dataText": [
+   "2GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "8,600원",
+  "period": "첫 24개월간",
+  "curP": "월 3,100원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 3100,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 8600,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "99",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/99/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   }
+  ],
+  "name": "세이브머니유심(태블릿/스마트기기 10GB)",
+  "dataText": [
+   "10GB"
+  ],
+  "infoLines": [
+   "0분",
+   "0건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 8,800원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "100",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/100/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   }
+  ],
+  "name": "세이브머니유심(태블릿/스마트기기 20GB)",
+  "dataText": [
+   "20GB"
+  ],
+  "infoLines": [
+   "0분",
+   "0건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 12,100원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "101",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/101/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   }
+  ],
+  "name": "세이브머니유심(태블릿/스마트기기 25GB+)",
+  "dataText": [
+   "25GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "0분",
+   "0건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 36,300원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "136",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/136/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]톨(200분/3GB)",
+  "dataText": [
+   "3GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "10,400원",
+  "period": "첫 24개월간",
+  "curP": "월 3,800원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 3800,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 10400,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "213",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/213/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "세이브머니유심(100분/10GB+)",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "18,700원",
+  "period": "평생",
+  "curP": "월 4,700원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 4700,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "212",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/212/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "세이브머니유심(200분/6GB+)",
+  "dataText": [
+   "6GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "14,960원",
+  "period": "평생",
+  "curP": "월 4,400원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 4400,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "59",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/59/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "아이즈우정(100분/3G)",
+  "dataText": [
+   "3GB"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 6,000원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "60",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/60/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "아이즈팡팡(300분/1.5G)",
+  "dataText": [
+   "1.5GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 5,500원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "244",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/244/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "아이즈팡팡(300분/2G)",
+  "dataText": [
+   "2GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 4,900원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "55",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/55/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "아이즈포스트(500분/5G)",
+  "dataText": [
+   "5GB"
+  ],
+  "infoLines": [
+   "500분",
+   "500건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 9,900원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "1",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/1/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "아이즈 (10GB/200분)",
+  "dataText": [
+   "10GB"
+  ],
+  "infoLines": [
+   "200분",
+   "200건"
+  ],
+  "orgP": "22,900원",
+  "period": "평생",
+  "curP": "월 2,500원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 2500,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "57",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/57/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "아이즈 (10GB/300분)",
+  "dataText": [
+   "10GB"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "24,200원",
+  "period": "첫 12개월간",
+  "curP": "월 900원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 24200,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "30",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/30/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "데이터없는 29 (LTE)",
+  "dataText": [
+   "100MB"
+  ],
+  "infoLines": [
+   "180분",
+   "80건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 2,950원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "148",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/148/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]벤티(200분/9GB)",
+  "dataText": [
+   "9GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "21,400원",
+  "period": "첫 24개월간",
+  "curP": "월 8,970원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 8970,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 21400,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "167",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/167/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]그란데(300분/5GB)",
+  "dataText": [
+   "5GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "14,900원",
+  "period": "평생",
+  "curP": "월 6,100원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 6100,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "374",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/374/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   }
+  ],
+  "name": "[K]아이즈특판10GB+",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 22,000원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "131",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/131/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]톨(300분/1GB)",
+  "dataText": [
+   "1GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "7,500원",
+  "period": "첫 24개월간",
+  "curP": "월 2,550원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 2550,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 7500,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "135",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/135/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]톨(100분/3GB)",
+  "dataText": [
+   "3GB"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "9,600원",
+  "period": "첫 24개월간",
+  "curP": "월 3,000원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 3000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 9600,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "138",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/138/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]그란데(300분/4GB)",
+  "dataText": [
+   "4GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "13,000원",
+  "period": "첫 24개월간",
+  "curP": "월 4,200원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 4200,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 13000,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "455",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/455/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "CU & 롯시"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]CU&롯시 15GB+",
+  "dataText": [
+   "15GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "35,200원",
+  "period": "첫 7개월간",
+  "curP": "월 7,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 7500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 35200,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "매 월 CU 편의점 20% 할인 (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "49",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/49/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   }
+  ],
+  "name": "세이브머니유심(250분/2.5GB+)",
+  "dataText": [
+   "2.5GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "250분",
+   "250건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 12,100원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "275",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/275/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   }
+  ],
+  "name": "세이브머니유심(기본제공/1GB+)",
+  "dataText": [
+   "1GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 110분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 8,030원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "274",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/274/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "세이브머니유심(기본제공/4.5GB+)",
+  "dataText": [
+   "4.5GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "12,430원",
+  "period": "평생",
+  "curP": "월 5,500원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 5500,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "177",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/177/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]벤티(200분/10GB)",
+  "dataText": [
+   "10GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "23,200원",
+  "period": "평생",
+  "curP": "월 9,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 9900,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "355",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/355/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "유심사"
+   }
+  ],
+  "name": "[S]글로벌로밍(300분/1GB)",
+  "dataText": [
+   "1GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 14,300원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "354",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/354/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "유심사"
+   }
+  ],
+  "name": "[S]글로벌로밍(300분/3GB)",
+  "dataText": [
+   "3GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 16,500원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "353",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/353/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "유심사"
+   }
+  ],
+  "name": "[S]글로벌로밍(500분/5GB)",
+  "dataText": [
+   "5GB"
+  ],
+  "infoLines": [
+   "500분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 18,700원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "66",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/66/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   }
+  ],
+  "name": "아이즈 100분 5GB",
+  "dataText": [
+   "5GB"
+  ],
+  "infoLines": [
+   "100분",
+   "150건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 9,900원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "120",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/120/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "18개월 할인"
+   }
+  ],
+  "name": "아이즈우정(300분/5G)",
+  "dataText": [
+   "5GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "8,500원",
+  "period": "첫 18개월간",
+  "curP": "월 90원",
+  "discount": [
+   {
+    "label": "18개월 동안",
+    "price": 90,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 8500,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "517",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/517/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]아이즈7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "27,500원",
+  "period": "첫 7개월간",
+  "curP": "월 4,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 4900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 27500,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "518",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/518/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]아이즈10GB+1Mbps",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "27,500원",
+  "period": "첫 7개월간",
+  "curP": "월 6,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 6900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 27500,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "519",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/519/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]아이즈15GB+1Mbps",
+  "dataText": [
+   "15GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "29,700원",
+  "period": "첫 7개월간",
+  "curP": "월 8,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 8900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 29700,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "520",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/520/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]아이즈100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "37,400원",
+  "period": "첫 7개월간",
+  "curP": "월 10,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 37400,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "521",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/521/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]아이즈11GB+일2GB",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "48,400원",
+  "period": "첫 7개월간",
+  "curP": "월 8,300원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 8300,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 48400,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "377",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/377/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   }
+  ],
+  "name": "[K]아이즈특판11GB+일2GB",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 200분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 37,400원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "378",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/378/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   }
+  ],
+  "name": "[K]아이즈특판100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 45,100원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "375",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/375/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   }
+  ],
+  "name": "[K]아이즈특판100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 28,600원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "376",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/376/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   }
+  ],
+  "name": "[K]아이즈특판300분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 30,800원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "533",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/533/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "올리브영"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]올리브영7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "27,500원",
+  "period": "첫 7개월간",
+  "curP": "월 5,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 5500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 27500,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 올리브영 7,000원 상품권 (정가 7,000원)",
+   "SOLO 결합 시 추가 5GB X 24개월"
+  ]
+ },
+ {
+  "id": "140",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/140/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]그란데(300분/5GB)",
+  "dataText": [
+   "5GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "14,900원",
+  "period": "첫 24개월간",
+  "curP": "월 5,000원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 5000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 14900,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "133",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/133/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   }
+  ],
+  "name": "[L]톨(300분/2GB)",
+  "dataText": [
+   "2GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 9,400원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "596",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/596/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]울트라(300분/30GB)",
+  "dataText": [
+   "30GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "44,000원",
+  "period": "평생",
+  "curP": "월 13,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 13900,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "602",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/602/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "OK캐쉬백"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[S]OK캐쉬백 100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "55,000원",
+  "period": "첫 12개월간",
+  "curP": "월 30,900원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 30900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 55000,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매월 OK캐쉬백 5,000P (정가 5,000원)",
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "600",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/600/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "OK캐쉬백"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[S]OK캐쉬백 300분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "41,800원",
+  "period": "첫 12개월간",
+  "curP": "월 24,500원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 24500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 41800,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매월 OK캐쉬백 5,000P (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "601",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/601/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "OK캐쉬백"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[S]OK캐쉬백 11GB+",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "48,400원",
+  "period": "첫 12개월간",
+  "curP": "월 26,900원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 26900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 48400,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매월 OK캐쉬백 5,000P (정가 5,000원)",
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "599",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/599/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "OK캐쉬백"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[S]OK캐쉬백 100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "37,400원",
+  "period": "첫 12개월간",
+  "curP": "월 21,900원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 21900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 37400,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매월 OK캐쉬백 5,000P (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "598",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/598/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "OK캐쉬백"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[S]OK캐쉬백 10GB+",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "31,900원",
+  "period": "첫 12개월간",
+  "curP": "월 19,900원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 19900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 31900,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매월 OK캐쉬백 5,000P (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "597",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/597/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "OK캐쉬백"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[S]OK캐쉬백 7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "28,600원",
+  "period": "첫 12개월간",
+  "curP": "월 16,900원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 16900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 28600,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매월 OK캐쉬백 5,000P (정가 5,000원)",
+   "SOLO 결합 시 추가 5GB X 24개월"
+  ]
+ },
+ {
+  "id": "42",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/42/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "세이브머니유심(100분/5GB)",
+  "dataText": [
+   "5GB"
+  ],
+  "infoLines": [
+   "100분",
+   "50건"
+  ],
+  "orgP": "8,800원",
+  "period": "평생",
+  "curP": "월 660원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 660,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "490",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/490/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]벤티(200분/10GB)",
+  "dataText": [
+   "10GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "23,200원",
+  "period": "첫 7개월간",
+  "curP": "월 90원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 90,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 23200,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "605",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/605/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "이디야"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]이디야 화이트 20GB",
+  "dataText": [
+   "20GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "17,900원",
+  "period": "평생",
+  "curP": "월 16,400원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 16400,
+    "rate": 100
+   }
+  ],
+  "benefits": [
+   "매 월 이디야 6,000원 카드 (정가 6,000원)"
+  ]
+ },
+ {
+  "id": "604",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/604/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "이디야"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]이디야 딥블루 100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "55,000원",
+  "period": "첫 7개월간",
+  "curP": "월 10,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 55000,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 이디야 9,000원 카드 (정가 9,000원)",
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "603",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/603/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "이디야"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]이디야 블루 11GB+",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "48,400원",
+  "period": "첫 7개월간",
+  "curP": "월 9,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 9900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 48400,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 이디야 9,000원 카드 (정가 9,000원)",
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "139",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/139/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   }
+  ],
+  "name": "[L]그란데(1000분/4GB)",
+  "dataText": [
+   "4GB"
+  ],
+  "infoLines": [
+   "1,000분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 18,600원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "387",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/387/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "밀리의서재"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[K]무한15GB+ 밀리의서재",
+  "dataText": [
+   "15GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "33,000원",
+  "period": "평생",
+  "curP": "월 18,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 18900,
+    "rate": 100
+   }
+  ],
+  "benefits": [
+   "밀리의서재 전자책 월 정기구독 무료 (정가 11,900원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "386",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/386/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "밀리의서재"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[K]무한10GB+ 밀리의서재",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "28,600원",
+  "period": "평생",
+  "curP": "월 17,000원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 17000,
+    "rate": 100
+   }
+  ],
+  "benefits": [
+   "밀리의서재 전자책 월 정기구독 무료 (정가 11,900원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "614",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/614/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "이디야"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]이디야 화이트 7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "28,600원",
+  "period": "첫 7개월간",
+  "curP": "월 5,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 5500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 28600,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 이디야 6,000원 카드 (정가 6,000원)",
+   "SOLO 결합 시 추가 5GB X 24개월"
+  ]
+ },
+ {
+  "id": "615",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/615/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "이디야"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]이디야 화이트 10GB+",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "31,900원",
+  "period": "첫 7개월간",
+  "curP": "월 9,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 9500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 31900,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 이디야 6,000원 카드 (정가 6,000원)",
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "616",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/616/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "이디야"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]이디야 블루 15GB+/100분",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "37,400원",
+  "period": "첫 7개월간",
+  "curP": "월 7,700원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 7700,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 37400,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 이디야 6,000원 카드 (정가 6,000원)",
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "617",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/617/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "이디야"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]이디야 블루 15GB+/300분",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "41,800원",
+  "period": "첫 7개월간",
+  "curP": "월 10,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 41800,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 이디야 6,000원 카드 (정가 6,000원)",
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "588",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/588/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "올리브영"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]올리브영 11GB+일2GB",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "47,300원",
+  "period": "첫 7개월간",
+  "curP": "월 19,000원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 19000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 47300,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 올리브영 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "587",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/587/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "올리브영"
+   }
+  ],
+  "name": "[K]올리브영 300분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 39,600원",
+  "discount": null,
+  "benefits": [
+   "매 월 올리브영 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "586",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/586/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "올리브영"
+   }
+  ],
+  "name": "[K]올리브영 100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 37,400원",
+  "discount": null,
+  "benefits": [
+   "매 월 올리브영 5,000원 상품권 (정가 5,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "618",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/618/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "아이즈팩"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]아이즈팩 7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "27,500원",
+  "period": "첫 7개월간",
+  "curP": "월 5,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 5900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 27500,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "CU 10%할인 모바일상품권",
+   "온라인 뉴스콘텐츠 구독 (정가 15,000원)",
+   "교보문고 전자책 sam 이용 (정가 7,000원)",
+   "SOLO 결합 시 추가 5GB X 24개월"
+  ]
+ },
+ {
+  "id": "619",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/619/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "아이즈팩"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]아이즈팩 10GB+",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "30,800원",
+  "period": "첫 7개월간",
+  "curP": "월 9,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 9500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 30800,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "CU 10%할인 모바일상품권",
+   "온라인 뉴스콘텐츠 구독 (정가 15,000원)",
+   "교보문고 전자책 sam 이용 (정가 7,000원)",
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "620",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/620/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "아이즈팩"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]아이즈팩 100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "35,200원",
+  "period": "첫 7개월간",
+  "curP": "월 7,700원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 7700,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 35200,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "CU 10%할인 모바일상품권",
+   "온라인 뉴스콘텐츠 구독 (정가 15,000원)",
+   "교보문고 전자책 sam 이용 (정가 7,000원)",
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "621",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/621/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "아이즈팩"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]아이즈팩 11GB+",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "45,100원",
+  "period": "첫 7개월간",
+  "curP": "월 9,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 9500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 45100,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "CU 10%할인 모바일상품권",
+   "온라인 뉴스콘텐츠 구독 (정가 15,000원)",
+   "교보문고 전자책 sam 이용 (정가 7,000원)",
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "622",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/622/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "아이즈팩"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]아이즈팩 100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "53,900원",
+  "period": "첫 7개월간",
+  "curP": "월 11,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 11500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 53900,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "CU 10%할인 모바일상품권",
+   "온라인 뉴스콘텐츠 구독 (정가 15,000원)",
+   "교보문고 전자책 sam 이용 (정가 7,000원)",
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "624",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/624/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[S]음성자유/10GB",
+  "dataText": [
+   "10GB"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 30분",
+   "500건"
+  ],
+  "orgP": "27,500원",
+  "period": "첫 7개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 27500,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "630",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/630/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[L]무한100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "52,800원",
+  "period": "평생",
+  "curP": "월 28,500원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 28500,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "10630",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10630/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "6개월 할인"
+   }
+  ],
+  "name": "[L]5G 울트라(300분/15GB)",
+  "dataText": [
+   "15GB"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "25,300원",
+  "period": "첫 6개월간",
+  "curP": "월 990원",
+  "discount": [
+   {
+    "label": "6개월 동안",
+    "price": 990,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 25300,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "211",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/211/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "세이브머니유심(100분/5GB+)",
+  "dataText": [
+   "5GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "13,640원",
+  "period": "평생",
+  "curP": "월 3,500원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 3500,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "573",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/573/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[K]울트라(100분/15GB)",
+  "dataText": [
+   "15GB"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "23,100원",
+  "period": "평생",
+  "curP": "월 4,500원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 4500,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "481",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/481/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "롯데시네마"
+   }
+  ],
+  "name": "[K]롯데시네마11GB+",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 200분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 48,400원",
+  "discount": null,
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "628",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/628/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]벤티(100분/10GB)",
+  "dataText": [
+   "10GB"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "18,200원",
+  "period": "첫 7개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 18200,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "482",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/482/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "롯데시네마"
+   }
+  ],
+  "name": "[K]롯데시네마100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 55,000원",
+  "discount": null,
+  "benefits": [
+   "매 월 롯데시네마 관람권 & 콤보 할인 (정가 15,000원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "6",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/6/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "아이즈 (10GB/100분)",
+  "dataText": [
+   "10GB"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "21,900원",
+  "period": "첫 7개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 21900,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "Npay 5천원 지급 (정가 5,000원)"
+  ]
+ },
+ {
+  "id": "348",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/348/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[S]음성자유/5GB",
+  "dataText": [
+   "5GB"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 30분",
+   "100건"
+  ],
+  "orgP": "23,000원",
+  "period": "평생",
+  "curP": "월 1,590원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 1590,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "10641",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10641/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]100GB+5Mbps",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "61,600원",
+  "period": "첫 7개월간",
+  "curP": "월 8,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 8500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 61600,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "258",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/258/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "[S]스페셜7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 23,600원",
+  "discount": null,
+  "benefits": [
+   "SOLO 결합 시 추가 5GB X 24개월"
+  ]
+ },
+ {
+  "id": "623",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/623/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "[S]스페셜10GB+",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 27,500원",
+  "discount": null,
+  "benefits": [
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "259",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/259/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "[S]스페셜100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 30,300원",
+  "discount": null,
+  "benefits": [
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "257",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/257/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "[S]스페셜11GB+",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 38,600원",
+  "discount": null,
+  "benefits": [
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "261",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/261/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "[S]스페셜100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 53,000원",
+  "discount": null,
+  "benefits": [
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "10654",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10654/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "10개월 할인"
+   }
+  ],
+  "name": "[L]5G 데이터안심(100분/5GB+)",
+  "dataText": [
+   "5GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "15,400원",
+  "period": "첫 10개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "10개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 15400,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "10653",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10653/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]5G 데이터안심(200분/6GB+)",
+  "dataText": [
+   "6GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "16,500원",
+  "period": "첫 7개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 16500,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "10652",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10652/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]5G 데이터안심(100분/10GB+)",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "19,800원",
+  "period": "첫 7개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 19800,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "10651",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10651/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]5G 데이터안심(기본제공/5GB+)",
+  "dataText": [
+   "5GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "18,700원",
+  "period": "첫 7개월간",
+  "curP": "월 90원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 90,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 18700,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "10650",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10650/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]5G 데이터안심(기본제공/4.5GB+)",
+  "dataText": [
+   "4.5GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "17,600원",
+  "period": "첫 7개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 17600,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "10637",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10637/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]5G 데이터안심(300분/15GB+)",
+  "dataText": [
+   "15GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "33,000원",
+  "period": "첫 7개월간",
+  "curP": "월 2,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 2900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 33000,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "10656",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10656/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "국제전화"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[S]국제전화7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "27,500원",
+  "period": "첫 12개월간",
+  "curP": "월 23,000원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 23000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 27500,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "전세계 300분 무료 통화",
+   "국제전화 미이용시 올리브영 1만원 쿠폰 (정가 10,000원)",
+   "SOLO 결합 시 추가 5GB X 24개월"
+  ]
+ },
+ {
+  "id": "10657",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10657/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "국제전화"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[S]국제전화10GB+1Mbps",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "33,000원",
+  "period": "첫 12개월간",
+  "curP": "월 26,000원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 26000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 33000,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "전세계 300분 무료 통화",
+   "국제전화 미이용시 올리브영 1만원 쿠폰 (정가 10,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "10658",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10658/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "국제전화"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[S]국제전화100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "37,400원",
+  "period": "첫 12개월간",
+  "curP": "월 27,000원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 27000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 37400,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "전세계 300분 무료 통화",
+   "국제전화 미이용시 올리브영 1만원 쿠폰 (정가 10,000원)",
+   "SOLO 결합 시 추가 10GB"
+  ]
+ },
+ {
+  "id": "10659",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10659/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "국제전화"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[S]국제전화11GB+",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "48,400원",
+  "period": "첫 12개월간",
+  "curP": "월 32,000원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 32000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 48400,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "전세계 300분 무료 통화",
+   "국제전화 미이용시 올리브영 1만원 쿠폰 (정가 10,000원)",
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "10660",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10660/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "국제전화"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[S]국제전화100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "55,000원",
+  "period": "첫 12개월간",
+  "curP": "월 37,000원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 37000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 55000,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "전세계 300분 무료 통화",
+   "국제전화 미이용시 올리브영 1만원 쿠폰 (정가 10,000원)",
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "98",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/98/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "아이즈팡팡(300분/6.5G)",
+  "dataText": [
+   "6.5GB"
+  ],
+  "infoLines": [
+   "300분",
+   "300건"
+  ],
+  "orgP": "13,200원",
+  "period": "평생",
+  "curP": "월 990원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 990,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "10661",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10661/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "아이즈우정(300분/6G)",
+  "dataText": [
+   "6GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "8,000원",
+  "period": "첫 12개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 8000,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "471",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/471/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]5G 데이터125GB+5Mbps",
+  "dataText": [
+   "125GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "59,400원",
+  "period": "첫 24개월간",
+  "curP": "월 22,400원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 22400,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 59400,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "10662",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10662/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]5G 아이즈95GB+3Mbps",
+  "dataText": [
+   "95GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "53,900원",
+  "period": "첫 7개월간",
+  "curP": "월 12,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 12500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 53900,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "10646",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10646/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "올영"
+   }
+  ],
+  "name": "[S]올영100GB+",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 55,000원",
+  "discount": null,
+  "benefits": [
+   "매 월 올리브영 7,000원 상품권 (정가 7,000원)",
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "10645",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10645/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "올영"
+   }
+  ],
+  "name": "[S]올영11GB+",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 48,400원",
+  "discount": null,
+  "benefits": [
+   "매 월 올리브영 7,000원 상품권 (정가 7,000원)",
+   "SOLO 결합 시 추가 20GB X 24개월"
+  ]
+ },
+ {
+  "id": "10644",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10644/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "올영"
+   }
+  ],
+  "name": "[S]올영100분/15GB+",
+  "dataText": [
+   "15GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "100분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 37,400원",
+  "discount": null,
+  "benefits": [
+   "매 월 올리브영 7,000원 상품권 (정가 7,000원)",
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "10643",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10643/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "올영"
+   }
+  ],
+  "name": "[S]올영10GB+1Mbps",
+  "dataText": [
+   "10GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 33,000원",
+  "discount": null,
+  "benefits": [
+   "매 월 올리브영 7,000원 상품권 (정가 7,000원)",
+   "SOLO 결합 시 추가 10GB X 24개월"
+  ]
+ },
+ {
+  "id": "10642",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10642/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "올영"
+   }
+  ],
+  "name": "[S]올영7GB+",
+  "dataText": [
+   "7GB",
+   "1Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 27,500원",
+  "discount": null,
+  "benefits": [
+   "매 월 올리브영 7,000원 상품권 (정가 7,000원)",
+   "SOLO 결합 시 추가 5GB X 24개월"
+  ]
+ },
+ {
+  "id": "337",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/337/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   }
+  ],
+  "name": "든든아이즈 150분/1.5G",
+  "dataText": [
+   "1.5GB"
+  ],
+  "infoLines": [
+   "150분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 4,900원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "10",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "5G 스텐다드(150GB+5Mbps)",
+  "dataText": [
+   "150GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "57,000원",
+  "period": "첫 7개월간",
+  "curP": "월 10,900원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10900,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 57000,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "278",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/278/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "밀리의서재"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[K]무한100GB+ 밀리의서재",
+  "dataText": [
+   "100GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "55,000원",
+  "period": "평생",
+  "curP": "월 28,500원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 28500,
+    "rate": 100
+   }
+  ],
+  "benefits": [
+   "밀리의서재 전자책 월 정기구독 무료 (정가 11,900원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "277",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/277/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "밀리의서재"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[K]무한11GB+ 밀리의서재",
+  "dataText": [
+   "11GB",
+   "2GB/일",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "45,100원",
+  "period": "평생",
+  "curP": "월 25,500원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 25500,
+    "rate": 100
+   }
+  ],
+  "benefits": [
+   "밀리의서재 전자책 월 정기구독 무료 (정가 11,900원)",
+   "SOLO 결합 시 추가 20GB"
+  ]
+ },
+ {
+  "id": "627",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/627/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "24개월 할인"
+   }
+  ],
+  "name": "[L]5G 데이터95GB+3Mbps",
+  "dataText": [
+   "95GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "56,100원",
+  "period": "첫 24개월간",
+  "curP": "월 22,300원",
+  "discount": [
+   {
+    "label": "24개월 동안",
+    "price": 22300,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 56100,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "224",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/224/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "평생할인"
+   }
+  ],
+  "name": "[L]5G 데이터150GB+",
+  "dataText": [
+   "150GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "63,000원",
+  "period": "평생",
+  "curP": "월 24,900원",
+  "discount": [
+   {
+    "label": "평생",
+    "price": 24900,
+    "rate": 100
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "10639",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10639/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   }
+  ],
+  "name": "[L]아이즈특판11GB+일2GB",
+  "dataText": [
+   "11GB",
+   "3Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 37,400원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "10640",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10640/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   }
+  ],
+  "name": "[L]아이즈특판 일5GB+",
+  "dataText": [
+   "",
+   "5GB/일",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 46,200원",
+  "discount": null,
+  "benefits": []
+ },
+ {
+  "id": "143",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/143/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "12개월 할인"
+   }
+  ],
+  "name": "[L]그란데(500분/6GB)",
+  "dataText": [
+   "6GB"
+  ],
+  "infoLines": [
+   "500분",
+   "100건"
+  ],
+  "orgP": "18,300원",
+  "period": "첫 12개월간",
+  "curP": "월 550원",
+  "discount": [
+   {
+    "label": "12개월 동안",
+    "price": 550,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 18300,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "145",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/145/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "9개월 할인"
+   }
+  ],
+  "name": "[L]벤티(300분/7GB)",
+  "dataText": [
+   "7GB"
+  ],
+  "infoLines": [
+   "300분",
+   "100건"
+  ],
+  "orgP": "18,500원",
+  "period": "첫 9개월간",
+  "curP": "월 10원",
+  "discount": [
+   {
+    "label": "9개월 동안",
+    "price": 10,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 18500,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "10665",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10665/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "Npay"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[K]5G 네이버페이 110GB+",
+  "dataText": [
+   "110GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "58,300원",
+  "period": "첫 7개월간",
+  "curP": "월 19,000원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 19000,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 58300,
+    "rate": 50
+   }
+  ],
+  "benefits": [
+   "매 월 Npay 5,000P (정가 5,000원)"
+  ]
+ },
+ {
+  "id": "10664",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/10664/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "period",
+    "text": "7개월 할인"
+   }
+  ],
+  "name": "[L]5G 무한125GB+5Mbps",
+  "dataText": [
+   "125GB",
+   "5Mbps"
+  ],
+  "infoLines": [
+   "기본제공 + 영상/부가통화 300분",
+   "기본제공"
+  ],
+  "orgP": "64,900원",
+  "period": "첫 7개월간",
+  "curP": "월 10,500원",
+  "discount": [
+   {
+    "label": "7개월 동안",
+    "price": 10500,
+    "rate": 50
+   },
+   {
+    "label": "평생",
+    "price": 64900,
+    "rate": 50
+   }
+  ],
+  "benefits": []
+ },
+ {
+  "id": "230",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/230/C01",
+  "badges": [
+   {
+    "cls": "lg",
+    "text": "LGU+"
+   },
+   {
+    "cls": "collab",
+    "text": "복지요금제"
+   }
+  ],
+  "name": "[L]아이즈복지(200분/2GB)",
+  "dataText": [
+   "2GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 4,400원",
+  "discount": null,
+  "benefits": [
+   "복지카드 적용 시 1,000원 할인 (정가 1,000원)"
+  ]
+ },
+ {
+  "id": "130",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/130/C01",
+  "badges": [
+   {
+    "cls": "kt",
+    "text": "KT"
+   },
+   {
+    "cls": "collab",
+    "text": "복지요금제"
+   }
+  ],
+  "name": "[K]아이즈복지(200분/2GB)",
+  "dataText": [
+   "2GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 4,400원",
+  "discount": null,
+  "benefits": [
+   "복지카드 적용 시 1,000원 할인 (정가 1,000원)"
+  ]
+ },
+ {
+  "id": "102",
+  "url": "https://www.eyes.co.kr/payplan/plan_info/102/C01",
+  "badges": [
+   {
+    "cls": "skt",
+    "text": "SKT"
+   },
+   {
+    "cls": "collab",
+    "text": "복지요금제"
+   }
+  ],
+  "name": "[S]아이즈복지(200분/2GB)",
+  "dataText": [
+   "2GB"
+  ],
+  "infoLines": [
+   "200분",
+   "100건"
+  ],
+  "orgP": "",
+  "period": "",
+  "curP": "월 4,400원",
+  "discount": null,
+  "benefits": [
+   "복지카드 적용 시 1,000원 할인 (정가 1,000원)"
+  ]
+ }
+]

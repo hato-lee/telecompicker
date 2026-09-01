@@ -1,0 +1,3611 @@
+[
+ {
+  "id": 272,
+  "code": "PC0WB00030",
+  "planCode": "SKT_5G_250GB",
+  "mnoCarrier": "SKT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 200건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자 수신처가 월 3,000개 회선을 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": false,
+   "wifiName": "SKT의"
+  },
+  "displayName": "5G 라이트 250GB",
+  "carrierCode": "토스모바일SK",
+  "monthlyFee": 59800,
+  "promotionDiscountAmount": 0,
+  "network": "5G",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 3000,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "250",
+   "dailyAmount": null,
+   "maximumAmount": "250",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 54,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 33,
+   "overuseMessagePictureRate": 110,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "5G라이트",
+   "background": "linear-gradient(163deg, #0084f0 6.4191943416601%, hsl(177, 87%, 45%) 100.00000000001006%)",
+   "title": "5G 라이트 요금제",
+   "description": null,
+   "listTitle": "5G 라이트",
+   "priority": 5,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 196,
+  "code": "PL238L527",
+  "planCode": "KT_5G_200GB",
+  "mnoCarrier": "KT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 6,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 500건을 초과한 경우\n문자 사용 건수가 월 2,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "올레"
+  },
+  "displayName": "5G 라이트 200GB",
+  "carrierCode": "토스모바일KT",
+  "monthlyFee": 54800,
+  "promotionDiscountAmount": 0,
+  "network": "5G",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 19000,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "200",
+   "dailyAmount": null,
+   "maximumAmount": "200",
+   "speedLimit": 10,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 50,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 220,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "5G라이트",
+   "background": "linear-gradient(163deg, #0084f0 6.4191943416601%, hsl(177, 87%, 45%) 100.00000000001006%)",
+   "title": "5G 라이트 요금제",
+   "description": null,
+   "listTitle": "5G 라이트",
+   "priority": 5,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 268,
+  "code": "PC0WB00028",
+  "planCode": "SKT_5G_200GB",
+  "mnoCarrier": "SKT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 200건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자 수신처가 월 3,000개 회선을 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": false,
+   "wifiName": "SKT의"
+  },
+  "displayName": "5G 라이트 200GB",
+  "carrierCode": "토스모바일SK",
+  "monthlyFee": 54800,
+  "promotionDiscountAmount": 0,
+  "network": "5G",
+  "isWelfare": false,
+  "discountPolicyList": [],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "200",
+   "dailyAmount": null,
+   "maximumAmount": "200",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 40,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 33,
+   "overuseMessagePictureRate": 110,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "5G라이트",
+   "background": "linear-gradient(163deg, #0084f0 6.4191943416601%, hsl(177, 87%, 45%) 100.00000000001006%)",
+   "title": "5G 라이트 요금제",
+   "description": null,
+   "listTitle": "5G 라이트",
+   "priority": 5,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10425,
+  "code": "LPZ1005094",
+  "planCode": "LGU_180GB_5G_online",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "5G 180GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 56800,
+  "promotionDiscountAmount": 0,
+  "network": "5G",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 12000,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "180",
+   "dailyAmount": null,
+   "maximumAmount": "180",
+   "speedLimit": 10,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 20,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": null,
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "5G라이트",
+   "background": "linear-gradient(163deg, #0084f0 6.4191943416601%, hsl(177, 87%, 45%) 100.00000000001006%)",
+   "title": "5G 라이트 요금제",
+   "description": null,
+   "listTitle": "5G 라이트",
+   "priority": 5,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10423,
+  "code": "LPZ1005087",
+  "planCode": "LGU_150GB_5G_online",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "5G 150GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 52800,
+  "promotionDiscountAmount": 0,
+  "network": "5G",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 33000,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "150",
+   "dailyAmount": null,
+   "maximumAmount": "150",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 20,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": null,
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "5G라이트",
+   "background": "linear-gradient(163deg, #0084f0 6.4191943416601%, hsl(177, 87%, 45%) 100.00000000001006%)",
+   "title": "5G 라이트 요금제",
+   "description": null,
+   "listTitle": "5G 라이트",
+   "priority": 5,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10427,
+  "code": "LPZ1005089",
+  "planCode": "LGU_125GB_5G_online",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "5G 125GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 50800,
+  "promotionDiscountAmount": 0,
+  "network": "5G",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 31000,
+    "startMonthIndex": 0,
+    "numberOfMonths": 8,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "125",
+   "dailyAmount": null,
+   "maximumAmount": "125",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 5,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": null,
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "5G라이트",
+   "background": "linear-gradient(163deg, #0084f0 6.4191943416601%, hsl(177, 87%, 45%) 100.00000000001006%)",
+   "title": "5G 라이트 요금제",
+   "description": null,
+   "listTitle": "5G 라이트",
+   "priority": 5,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 128,
+  "code": "PC0WB00022",
+  "planCode": "SKT_5G_110GB",
+  "mnoCarrier": "SKT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 200건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자 수신처가 월 3,000개 회선을 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": false,
+   "wifiName": "SKT의"
+  },
+  "displayName": "5G 라이트 110GB",
+  "carrierCode": "토스모바일SK",
+  "monthlyFee": 49800,
+  "promotionDiscountAmount": 0,
+  "network": "5G",
+  "isWelfare": false,
+  "discountPolicyList": [],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "110",
+   "dailyAmount": null,
+   "maximumAmount": "110",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 48,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 33,
+   "overuseMessagePictureRate": 110,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "5G라이트",
+   "background": "linear-gradient(163deg, #0084f0 6.4191943416601%, hsl(177, 87%, 45%) 100.00000000001006%)",
+   "title": "5G 라이트 요금제",
+   "description": null,
+   "listTitle": "5G 라이트",
+   "priority": 5,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 194,
+  "code": "PL239J713",
+  "planCode": "KT_5G_110GB",
+  "mnoCarrier": "KT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 6,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 500건을 초과한 경우\n문자 사용 건수가 월 2,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "올레"
+  },
+  "displayName": "5G 라이트 110GB",
+  "carrierCode": "토스모바일KT",
+  "monthlyFee": 49800,
+  "promotionDiscountAmount": 0,
+  "network": "5G",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 22000,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "110",
+   "dailyAmount": null,
+   "maximumAmount": "110",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 40,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "토스포인트_캐시백",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 220,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 0,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "5G라이트",
+   "background": "linear-gradient(163deg, #0084f0 6.4191943416601%, hsl(177, 87%, 45%) 100.00000000001006%)",
+   "title": "5G 라이트 요금제",
+   "description": null,
+   "listTitle": "5G 라이트",
+   "priority": 5,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10569,
+  "code": "LPZ7101279",
+  "planCode": "LPZ7101279",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "페이스페이 100GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 43800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 27800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "100",
+   "dailyAmount": null,
+   "maximumAmount": "100",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 11,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "페이스페이",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "페이스페이",
+   "background": "linear-gradient(163deg, #5c84eb 0%, rgb(184, 201, 245) 100%)",
+   "title": "페이스페이",
+   "description": null,
+   "listTitle": "페이스페이",
+   "priority": 2,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 76,
+  "code": "PC0WB00017",
+  "planCode": "SKT_100GB",
+  "mnoCarrier": "SKT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 200건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자 수신처가 월 3,000개 회선을 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": false,
+   "wifiName": "SKT의"
+  },
+  "displayName": "캐시백 100GB",
+  "carrierCode": "토스모바일SK",
+  "monthlyFee": 59800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 26000,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "100",
+   "dailyAmount": null,
+   "maximumAmount": "100",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 30,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": null,
+   "isWifiAvailable": false,
+   "tossPayCashBack": 5000,
+   "subsidyBenefit": null,
+   "unusedDataCashback": {
+    "10": 10000,
+    "30": 5000,
+    "70": 2000
+   }
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 33,
+   "overuseMessagePictureRate": 110,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "캐시백",
+   "background": "linear-gradient(163deg, #2ab0fb 0%, #622eff 100%)",
+   "title": "캐시백 요금제",
+   "description": "데이터 및 쇼핑 혜택",
+   "listTitle": "캐시백",
+   "priority": 7,
+   "isSpecial": true
+  },
+  "type": "MVNO",
+  "category": "100GB",
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 290,
+  "code": "LPZ1001995",
+  "planCode": "LGU_100GB_LIFETIME",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "평생 할인 100GB",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 49800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 8000,
+    "startMonthIndex": 0,
+    "numberOfMonths": null,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "100",
+   "dailyAmount": null,
+   "maximumAmount": "100",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 11,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": null,
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "평생할인",
+   "background": "linear-gradient(163deg, #ff9214 6.4191943416601%, rgb(237, 227, 43) 100%)",
+   "title": "평생 할인 요금제",
+   "description": "평생 할인 혜택",
+   "listTitle": "평생 할인",
+   "priority": 2,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 110,
+  "code": "PC0WB00018",
+  "planCode": "SKT_100GB_LITE",
+  "mnoCarrier": "SKT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 200건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자 수신처가 월 3,000개 회선을 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": false,
+   "wifiName": "SKT의"
+  },
+  "displayName": "라이트 100GB",
+  "carrierCode": "토스모바일SK",
+  "monthlyFee": 49800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 25800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "100",
+   "dailyAmount": null,
+   "maximumAmount": "100",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 30,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "토스포인트_캐시백",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 33,
+   "overuseMessagePictureRate": 110,
+   "overuseMessageVideoRate": 0,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "라이트",
+   "background": "linear-gradient(163deg, #00c9db 6.4191943416601%, #0fd789 100.00000000001006%)",
+   "title": "라이트 요금제",
+   "description": "저렴한 기본 요금",
+   "listTitle": "라이트",
+   "priority": 1,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": "100GB",
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 90,
+  "code": "LPZ0012369",
+  "planCode": "LGU_100GB_LITE",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "라이트 100GB",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 49800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 35800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "100",
+   "dailyAmount": null,
+   "maximumAmount": "100",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 11,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": null,
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "라이트",
+   "background": "linear-gradient(163deg, #00c9db 6.4191943416601%, #0fd789 100.00000000001006%)",
+   "title": "라이트 요금제",
+   "description": "저렴한 기본 요금",
+   "listTitle": "라이트",
+   "priority": 1,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": "100GB",
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10324,
+  "code": "PL249P791",
+  "planCode": "KT_100GB_CU",
+  "mnoCarrier": "KT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "올레"
+  },
+  "displayName": "CU 100GB",
+  "carrierCode": "토스모바일KT",
+  "monthlyFee": 59800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 38800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "100",
+   "dailyAmount": null,
+   "maximumAmount": "100",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 100,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "KT_CU_할인",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 220,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "CU할인",
+   "background": "linear-gradient(163deg, #8E08DB 6.4191943416601%, #1E43D7 100.00000000001006%)",
+   "title": "CU 할인 요금제",
+   "description": "편의점 20% 할인",
+   "listTitle": "CU 할인 요금제",
+   "priority": 3,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 16,
+  "code": "LPZ0002880",
+  "planCode": "LGU_100GB",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "캐시백 100GB",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 59800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 18000,
+    "startMonthIndex": 0,
+    "numberOfMonths": 24,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "100",
+   "dailyAmount": null,
+   "maximumAmount": "100",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 11,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": null,
+   "isWifiAvailable": false,
+   "tossPayCashBack": 5000,
+   "subsidyBenefit": null,
+   "unusedDataCashback": {
+    "10": 10000,
+    "30": 5000,
+    "70": 2000
+   }
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "캐시백",
+   "background": "linear-gradient(163deg, #2ab0fb 0%, #622eff 100%)",
+   "title": "캐시백 요금제",
+   "description": "데이터 및 쇼핑 혜택",
+   "listTitle": "캐시백",
+   "priority": 7,
+   "isSpecial": true
+  },
+  "type": "MVNO",
+  "category": "100GB",
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10365,
+  "code": "LPZ1004536",
+  "planCode": "CU_100GB_PLUS",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "CU 100GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 49800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 18700,
+    "startMonthIndex": 0,
+    "numberOfMonths": 24,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "100",
+   "dailyAmount": null,
+   "maximumAmount": "100",
+   "speedLimit": 5,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 11,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "LGU_CU_할인",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 220,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": null,
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "CU할인",
+   "background": "linear-gradient(163deg, #8E08DB 6.4191943416601%, #1E43D7 100.00000000001006%)",
+   "title": "CU 할인 요금제",
+   "description": "편의점 20% 할인",
+   "listTitle": "CU 할인 요금제",
+   "priority": 3,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10429,
+  "code": "LPZ1005092",
+  "planCode": "LGU_95GB_5G_online",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "5G 95GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 47800,
+  "promotionDiscountAmount": 0,
+  "network": "5G",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 29000,
+    "startMonthIndex": 0,
+    "numberOfMonths": 8,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "95",
+   "dailyAmount": null,
+   "maximumAmount": "95",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 5,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": null,
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "5G라이트",
+   "background": "linear-gradient(163deg, #0084f0 6.4191943416601%, hsl(177, 87%, 45%) 100.00000000001006%)",
+   "title": "5G 라이트 요금제",
+   "description": null,
+   "listTitle": "5G 라이트",
+   "priority": 5,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 88,
+  "code": "LPZ0012373",
+  "planCode": "LGU_71GB_LITE",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "라이트 71GB",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 44800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 34900,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "DAILY_EXTRA",
+   "basicAmount": "11",
+   "dailyAmount": "2",
+   "maximumAmount": "71",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 11,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "토스포인트_캐시백",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "라이트",
+   "background": "linear-gradient(163deg, #00c9db 6.4191943416601%, #0fd789 100.00000000001006%)",
+   "title": "라이트 요금제",
+   "description": "저렴한 기본 요금",
+   "listTitle": "라이트",
+   "priority": 1,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": "71GB",
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10567,
+  "code": "LPZ7101276",
+  "planCode": "LPZ7101276",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "페이스페이 71GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 38800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 28900,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "DAILY_EXTRA",
+   "basicAmount": "11",
+   "dailyAmount": "2",
+   "maximumAmount": "71",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 11,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "페이스페이",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "페이스페이",
+   "background": "linear-gradient(163deg, #5c84eb 0%, rgb(184, 201, 245) 100%)",
+   "title": "페이스페이",
+   "description": null,
+   "listTitle": "페이스페이",
+   "priority": 2,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 276,
+  "code": "PC0WB00032",
+  "planCode": "SKT_71GB_LITE",
+  "mnoCarrier": "SKT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 200건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자 수신처가 월 3,000개 회선을 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": false,
+   "wifiName": "SKT의"
+  },
+  "displayName": "라이트 71GB",
+  "carrierCode": "토스모바일SK",
+  "monthlyFee": 42800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 24800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "DAILY_EXTRA",
+   "basicAmount": "11",
+   "dailyAmount": "2",
+   "maximumAmount": "71",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 11,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 33,
+   "overuseMessagePictureRate": 110,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "라이트",
+   "background": "linear-gradient(163deg, #00c9db 6.4191943416601%, #0fd789 100.00000000001006%)",
+   "title": "라이트 요금제",
+   "description": "저렴한 기본 요금",
+   "listTitle": "라이트",
+   "priority": 1,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 92,
+  "code": "PL224E554",
+  "planCode": "KT_71GB_LITE",
+  "mnoCarrier": "KT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "올레"
+  },
+  "displayName": "라이트 71GB",
+  "carrierCode": "토스모바일KT",
+  "monthlyFee": 46200,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 21200,
+    "startMonthIndex": 0,
+    "numberOfMonths": 12,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "DAILY_EXTRA",
+   "basicAmount": "11",
+   "dailyAmount": "2",
+   "maximumAmount": "71",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 71,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "토스포인트_캐시백",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 220,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 0,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "라이트",
+   "background": "linear-gradient(163deg, #00c9db 6.4191943416601%, #0fd789 100.00000000001006%)",
+   "title": "라이트 요금제",
+   "description": "저렴한 기본 요금",
+   "listTitle": "라이트",
+   "priority": 1,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": "71GB",
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 78,
+  "code": "PC0WB00016",
+  "planCode": "SKT_71GB",
+  "mnoCarrier": "SKT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 200건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자 수신처가 월 3,000개 회선을 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": false,
+   "wifiName": "SKT의"
+  },
+  "displayName": "캐시백 71GB",
+  "carrierCode": "토스모바일SK",
+  "monthlyFee": 54800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 26000,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "DAILY_EXTRA",
+   "basicAmount": "11",
+   "dailyAmount": "2",
+   "maximumAmount": "71",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 11,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": null,
+   "isWifiAvailable": false,
+   "tossPayCashBack": 5000,
+   "subsidyBenefit": null,
+   "unusedDataCashback": {
+    "10": 10000,
+    "20": 5000,
+    "40": 2000
+   }
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 33,
+   "overuseMessagePictureRate": 110,
+   "overuseMessageVideoRate": 0,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "캐시백",
+   "background": "linear-gradient(163deg, #2ab0fb 0%, #622eff 100%)",
+   "title": "캐시백 요금제",
+   "description": "데이터 및 쇼핑 혜택",
+   "listTitle": "캐시백",
+   "priority": 7,
+   "isSpecial": true
+  },
+  "type": "MVNO",
+  "category": "71GB",
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 288,
+  "code": "LPZ1001574",
+  "planCode": "LGU_71GB_LIFETIME",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "평생 할인 71GB",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 44800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 8000,
+    "startMonthIndex": 0,
+    "numberOfMonths": null,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "DAILY_EXTRA",
+   "basicAmount": "11",
+   "dailyAmount": "2",
+   "maximumAmount": "71",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 11,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "평생할인",
+   "background": "linear-gradient(163deg, #ff9214 6.4191943416601%, rgb(237, 227, 43) 100%)",
+   "title": "평생 할인 요금제",
+   "description": "평생 할인 혜택",
+   "listTitle": "평생 할인",
+   "priority": 2,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 6,
+  "code": "LPZ0019533",
+  "planCode": "LGU_71GB",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "캐시백 71GB",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 54800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 15000,
+    "startMonthIndex": 0,
+    "numberOfMonths": 24,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "DAILY_EXTRA",
+   "basicAmount": "11",
+   "dailyAmount": "2",
+   "maximumAmount": "71",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": null
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 11,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": null,
+   "isWifiAvailable": false,
+   "tossPayCashBack": 5000,
+   "subsidyBenefit": null,
+   "unusedDataCashback": {
+    "10": 10000,
+    "20": 5000,
+    "40": 2000
+   }
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "캐시백",
+   "background": "linear-gradient(163deg, #2ab0fb 0%, #622eff 100%)",
+   "title": "캐시백 요금제",
+   "description": "데이터 및 쇼핑 혜택",
+   "listTitle": "캐시백",
+   "priority": 7,
+   "isSpecial": true
+  },
+  "type": "MVNO",
+  "category": "71GB",
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10326,
+  "code": "PL249P792",
+  "planCode": "KT_71GB_CU",
+  "mnoCarrier": "KT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "올레"
+  },
+  "displayName": "CU 71GB",
+  "carrierCode": "토스모바일KT",
+  "monthlyFee": 54800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 33800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "DAILY_EXTRA",
+   "basicAmount": "11",
+   "dailyAmount": "2",
+   "maximumAmount": "71",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 71,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "KT_CU_할인",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 220,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "CU할인",
+   "background": "linear-gradient(163deg, #8E08DB 6.4191943416601%, #1E43D7 100.00000000001006%)",
+   "title": "CU 할인 요금제",
+   "description": "편의점 20% 할인",
+   "listTitle": "CU 할인 요금제",
+   "priority": 3,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10367,
+  "code": "LPZ1004539",
+  "planCode": "CU_71GB_PLUS",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "CU 71GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 44800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 17600,
+    "startMonthIndex": 0,
+    "numberOfMonths": 24,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "DAILY_EXTRA",
+   "basicAmount": "11",
+   "dailyAmount": "2",
+   "maximumAmount": "71",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 11,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "LGU_CU_할인",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "CU할인",
+   "background": "linear-gradient(163deg, #8E08DB 6.4191943416601%, #1E43D7 100.00000000001006%)",
+   "title": "CU 할인 요금제",
+   "description": "편의점 20% 할인",
+   "listTitle": "CU 할인 요금제",
+   "priority": 3,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 126,
+  "code": "PC0WB00021",
+  "planCode": "SKT_5G_54GB",
+  "mnoCarrier": "SKT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 200건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자 수신처가 월 3,000개 회선을 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": false,
+   "wifiName": "SKT의"
+  },
+  "displayName": "5G 라이트 54GB",
+  "carrierCode": "토스모바일SK",
+  "monthlyFee": 45800,
+  "promotionDiscountAmount": 0,
+  "network": "5G",
+  "isWelfare": false,
+  "discountPolicyList": [],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "54",
+   "dailyAmount": null,
+   "maximumAmount": "54",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 24,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 33,
+   "overuseMessagePictureRate": 110,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "5G라이트",
+   "background": "linear-gradient(163deg, #0084f0 6.4191943416601%, hsl(177, 87%, 45%) 100.00000000001006%)",
+   "title": "5G 라이트 요금제",
+   "description": null,
+   "listTitle": "5G 라이트",
+   "priority": 5,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 192,
+  "code": "PL239K742",
+  "planCode": "KT_5G_30GB",
+  "mnoCarrier": "KT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 6,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 500건을 초과한 경우\n문자 사용 건수가 월 2,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "올레"
+  },
+  "displayName": "5G 라이트 30GB",
+  "carrierCode": "토스모바일KT",
+  "monthlyFee": 43800,
+  "promotionDiscountAmount": 0,
+  "network": "5G",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 21000,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "30",
+   "dailyAmount": null,
+   "maximumAmount": "30",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 30,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 220,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "5G라이트",
+   "background": "linear-gradient(163deg, #0084f0 6.4191943416601%, hsl(177, 87%, 45%) 100.00000000001006%)",
+   "title": "5G 라이트 요금제",
+   "description": null,
+   "listTitle": "5G 라이트",
+   "priority": 5,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 124,
+  "code": "PC0WB00020",
+  "planCode": "SKT_5G_24GB",
+  "mnoCarrier": "SKT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 200건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자 수신처가 월 3,000개 회선을 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": false,
+   "wifiName": "SKT의"
+  },
+  "displayName": "5G 라이트 24GB",
+  "carrierCode": "토스모바일SK",
+  "monthlyFee": 42800,
+  "promotionDiscountAmount": 0,
+  "network": "5G",
+  "isWelfare": false,
+  "discountPolicyList": [],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "24",
+   "dailyAmount": null,
+   "maximumAmount": "24",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 24,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 33,
+   "overuseMessagePictureRate": 110,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "5G라이트",
+   "background": "linear-gradient(163deg, #0084f0 6.4191943416601%, hsl(177, 87%, 45%) 100.00000000001006%)",
+   "title": "5G 라이트 요금제",
+   "description": null,
+   "listTitle": "5G 라이트",
+   "priority": 5,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 4,
+  "code": "LPZ0019547",
+  "planCode": "LGU_15GB",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "라이트 15GB",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 35800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 19800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "15",
+   "dailyAmount": null,
+   "maximumAmount": "15",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "LIMITED",
+   "amount": 100,
+   "extraAmount": null
+  },
+  "messageUsage": {
+   "type": "LIMITED",
+   "amount": 100
+  },
+  "hotspotLimit": 15,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": null,
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": 1000,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "라이트",
+   "background": "linear-gradient(163deg, #00c9db 6.4191943416601%, #0fd789 100.00000000001006%)",
+   "title": "라이트 요금제",
+   "description": "저렴한 기본 요금",
+   "listTitle": "라이트",
+   "priority": 1,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": "15GB",
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10565,
+  "code": "LPZ7101273",
+  "planCode": "LPZ7101273",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "페이스페이 100분/15GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 30800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 17800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "15",
+   "dailyAmount": null,
+   "maximumAmount": "15",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "LIMITED",
+   "amount": 100,
+   "extraAmount": null
+  },
+  "messageUsage": {
+   "type": "LIMITED",
+   "amount": 100
+  },
+  "hotspotLimit": 15,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "페이스페이",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "페이스페이",
+   "background": "linear-gradient(163deg, #5c84eb 0%, rgb(184, 201, 245) 100%)",
+   "title": "페이스페이",
+   "description": null,
+   "listTitle": "페이스페이",
+   "priority": 2,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 286,
+  "code": "LPZ1001573",
+  "planCode": "LGU_15GB_LIFETIME",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "평생 할인 15GB",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 34800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 11000,
+    "startMonthIndex": 0,
+    "numberOfMonths": null,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "15",
+   "dailyAmount": null,
+   "maximumAmount": "15",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 15,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "평생할인",
+   "background": "linear-gradient(163deg, #ff9214 6.4191943416601%, rgb(237, 227, 43) 100%)",
+   "title": "평생 할인 요금제",
+   "description": "평생 할인 혜택",
+   "listTitle": "평생 할인",
+   "priority": 2,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 80,
+  "code": "PC0WB00015",
+  "planCode": "SKT_15GB",
+  "mnoCarrier": "SKT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 200건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자 수신처가 월 3,000개 회선을 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": false,
+   "wifiName": "SKT의"
+  },
+  "displayName": "라이트 15GB",
+  "carrierCode": "토스모바일SK",
+  "monthlyFee": 35800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 18800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "15",
+   "dailyAmount": null,
+   "maximumAmount": "15",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "LIMITED",
+   "amount": 100,
+   "extraAmount": null
+  },
+  "messageUsage": {
+   "type": "LIMITED",
+   "amount": 100
+  },
+  "hotspotLimit": 15,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": null,
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": 1000,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 33,
+   "overuseMessagePictureRate": 110,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "라이트",
+   "background": "linear-gradient(163deg, #00c9db 6.4191943416601%, #0fd789 100.00000000001006%)",
+   "title": "라이트 요금제",
+   "description": "저렴한 기본 요금",
+   "listTitle": "라이트",
+   "priority": 1,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": "15GB",
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10328,
+  "code": "PL249P793",
+  "planCode": "KT_15GB_100MIN_CU",
+  "mnoCarrier": "KT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "올레"
+  },
+  "displayName": "CU 100분 15GB",
+  "carrierCode": "토스모바일KT",
+  "monthlyFee": 35800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 17800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "15",
+   "dailyAmount": null,
+   "maximumAmount": "15",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "LIMITED",
+   "amount": 100,
+   "extraAmount": null
+  },
+  "messageUsage": {
+   "type": "LIMITED",
+   "amount": 100
+  },
+  "hotspotLimit": 15,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "KT_CU_할인",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 22,
+   "overuseMessagePictureRate": 22,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "CU할인",
+   "background": "linear-gradient(163deg, #8E08DB 6.4191943416601%, #1E43D7 100.00000000001006%)",
+   "title": "CU 할인 요금제",
+   "description": "편의점 20% 할인",
+   "listTitle": "CU 할인 요금제",
+   "priority": 3,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10330,
+  "code": "PL249P794",
+  "planCode": "KT_15GB_CU",
+  "mnoCarrier": "KT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "올레"
+  },
+  "displayName": "CU 15GB",
+  "carrierCode": "토스모바일KT",
+  "monthlyFee": 34800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 17800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "15",
+   "dailyAmount": null,
+   "maximumAmount": "15",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 15,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "KT_CU_할인",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 22,
+   "overuseMessagePictureRate": 22,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "CU할인",
+   "background": "linear-gradient(163deg, #8E08DB 6.4191943416601%, #1E43D7 100.00000000001006%)",
+   "title": "CU 할인 요금제",
+   "description": "편의점 20% 할인",
+   "listTitle": "CU 할인 요금제",
+   "priority": 3,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10369,
+  "code": "LPZ1004549",
+  "planCode": "CU_100M_15GB_PLUS",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "CU 100분/15GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 35800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 14300,
+    "startMonthIndex": 0,
+    "numberOfMonths": 24,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "15",
+   "dailyAmount": null,
+   "maximumAmount": "15",
+   "speedLimit": 3,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "LIMITED",
+   "amount": 100,
+   "extraAmount": null
+  },
+  "messageUsage": {
+   "type": "LIMITED",
+   "amount": 100
+  },
+  "hotspotLimit": 15,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "LGU_CU_할인",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "CU할인",
+   "background": "linear-gradient(163deg, #8E08DB 6.4191943416601%, #1E43D7 100.00000000001006%)",
+   "title": "CU 할인 요금제",
+   "description": "편의점 20% 할인",
+   "listTitle": "CU 할인 요금제",
+   "priority": 3,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10421,
+  "code": "LPZ1005085",
+  "planCode": "LGU_12GB_5G_online",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "5G 12GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 40800,
+  "promotionDiscountAmount": 0,
+  "network": "5G",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 15000,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "12",
+   "dailyAmount": null,
+   "maximumAmount": "12",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 5,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": null,
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "5G라이트",
+   "background": "linear-gradient(163deg, #0084f0 6.4191943416601%, hsl(177, 87%, 45%) 100.00000000001006%)",
+   "title": "5G 라이트 요금제",
+   "description": null,
+   "listTitle": "5G 라이트",
+   "priority": 5,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 284,
+  "code": "LPZ1001568",
+  "planCode": "LGU_10GB_LIFETIME",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "평생 할인 10GB",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 29800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 8000,
+    "startMonthIndex": 0,
+    "numberOfMonths": null,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "10",
+   "dailyAmount": null,
+   "maximumAmount": "10",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 10,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "평생할인",
+   "background": "linear-gradient(163deg, #ff9214 6.4191943416601%, rgb(237, 227, 43) 100%)",
+   "title": "평생 할인 요금제",
+   "description": "평생 할인 혜택",
+   "listTitle": "평생 할인",
+   "priority": 2,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 278,
+  "code": "PC0WB00033",
+  "planCode": "SKT_10GB",
+  "mnoCarrier": "SKT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 200건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자 수신처가 월 3,000개 회선을 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": false,
+   "wifiName": "SKT의"
+  },
+  "displayName": "라이트 10GB",
+  "carrierCode": "토스모바일SK",
+  "monthlyFee": 27800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 11800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "10",
+   "dailyAmount": null,
+   "maximumAmount": "10",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 10,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 33,
+   "overuseMessagePictureRate": 110,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "라이트",
+   "background": "linear-gradient(163deg, #00c9db 6.4191943416601%, #0fd789 100.00000000001006%)",
+   "title": "라이트 요금제",
+   "description": "저렴한 기본 요금",
+   "listTitle": "라이트",
+   "priority": 1,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 20,
+  "code": "LPZ0019546",
+  "planCode": "LGU_10GB",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "라이트 10GB",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 29800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 20800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "10",
+   "dailyAmount": null,
+   "maximumAmount": "10",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 10,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "라이트",
+   "background": "linear-gradient(163deg, #00c9db 6.4191943416601%, #0fd789 100.00000000001006%)",
+   "title": "라이트 요금제",
+   "description": "저렴한 기본 요금",
+   "listTitle": "라이트",
+   "priority": 1,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10563,
+  "code": "LPZ7101270",
+  "planCode": "LPZ7101270",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "페이스페이 10GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 23800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 14800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "10",
+   "dailyAmount": null,
+   "maximumAmount": "10",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 10,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "페이스페이",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "페이스페이",
+   "background": "linear-gradient(163deg, #5c84eb 0%, rgb(184, 201, 245) 100%)",
+   "title": "페이스페이",
+   "description": null,
+   "listTitle": "페이스페이",
+   "priority": 2,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10371,
+  "code": "LPZ1004543",
+  "planCode": "CU_10GB_PLUS",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "CU 10GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 29800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 13200,
+    "startMonthIndex": 0,
+    "numberOfMonths": 24,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "10",
+   "dailyAmount": null,
+   "maximumAmount": "10",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 10,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "LGU_CU_할인",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "CU할인",
+   "background": "linear-gradient(163deg, #8E08DB 6.4191943416601%, #1E43D7 100.00000000001006%)",
+   "title": "CU 할인 요금제",
+   "description": "편의점 20% 할인",
+   "listTitle": "CU 할인 요금제",
+   "priority": 3,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 2,
+  "code": "LPZ0019611",
+  "planCode": "LGU_7GB",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "라이트 7GB",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 24800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 16800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "7",
+   "dailyAmount": null,
+   "maximumAmount": "7",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 7,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "토스포인트_캐시백",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "라이트",
+   "background": "linear-gradient(163deg, #00c9db 6.4191943416601%, #0fd789 100.00000000001006%)",
+   "title": "라이트 요금제",
+   "description": "저렴한 기본 요금",
+   "listTitle": "라이트",
+   "priority": 1,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": "7GB",
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10561,
+  "code": "LPZ7101267",
+  "planCode": "LPZ7101267",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "페이스페이 7GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 20800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 12800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "7",
+   "dailyAmount": null,
+   "maximumAmount": "7",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 7,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "페이스페이",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "페이스페이",
+   "background": "linear-gradient(163deg, #5c84eb 0%, rgb(184, 201, 245) 100%)",
+   "title": "페이스페이",
+   "description": null,
+   "listTitle": "페이스페이",
+   "priority": 2,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 82,
+  "code": "PC0WB00014",
+  "planCode": "SKT_7GB",
+  "mnoCarrier": "SKT",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 일 200건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자 수신처가 월 3,000개 회선을 초과한 경우\n휴대폰 이외의 시스템을 통해 문자를 발송하는 경우\n제 3자에게 휴대전화를 임대하는 등 이용약관을 위반하는 경우",
+   "isSmallPaymentAvailable": false,
+   "wifiName": "SKT의"
+  },
+  "displayName": "라이트 7GB",
+  "carrierCode": "토스모바일SK",
+  "monthlyFee": 24800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 13800,
+    "startMonthIndex": 0,
+    "numberOfMonths": 7,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "7",
+   "dailyAmount": null,
+   "maximumAmount": "7",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 7,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 33,
+   "overuseMmsRate": 33,
+   "overuseMessagePictureRate": 110,
+   "overuseMessageVideoRate": null,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "라이트",
+   "background": "linear-gradient(163deg, #00c9db 6.4191943416601%, #0fd789 100.00000000001006%)",
+   "title": "라이트 요금제",
+   "description": "저렴한 기본 요금",
+   "listTitle": "라이트",
+   "priority": 1,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": "7GB",
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 282,
+  "code": "LPZ1001567",
+  "planCode": "LGU_7GB_LIFETIME",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "평생 할인 7GB",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 24800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 6000,
+    "startMonthIndex": 0,
+    "numberOfMonths": null,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "7",
+   "dailyAmount": null,
+   "maximumAmount": "7",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 7,
+  "benefit": null,
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "평생할인",
+   "background": "linear-gradient(163deg, #ff9214 6.4191943416601%, rgb(237, 227, 43) 100%)",
+   "title": "평생 할인 요금제",
+   "description": "평생 할인 혜택",
+   "listTitle": "평생 할인",
+   "priority": 2,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ },
+ {
+  "id": 10373,
+  "code": "LPZ1004546",
+  "planCode": "CU_7GB_PLUS",
+  "mnoCarrier": "LGU",
+  "mnoCarrierInfo": {
+   "callAndMessageOverChargeCondition": "1일 통화량이 10시간을 초과하는 횟수가 월 중 3회가 넘는 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성통화량이 월 10,000분을 초과한 경우 (영상통화는 음성통화의 1.66배로 계산)\n음성/영상통화 수신처가 월 1,000개 회선을 초과한 경우\n문자 사용 건수가 월 3,000건을 초과한 경우\n문자 사용 건수가 일 150건을 초과하는 횟수가 월 중 10회를 초과한 경우\n문자를 광고성 스팸 메시지 발송과 같이 상업적 목적으로 이용하거나, 물리적 장치 또는 자동발송 프로그램을 이용하는 경우",
+   "isSmallPaymentAvailable": true,
+   "wifiName": "U + ZONE"
+  },
+  "displayName": "CU 7GB+",
+  "carrierCode": "토스모바일LG",
+  "monthlyFee": 24800,
+  "promotionDiscountAmount": 0,
+  "network": "LTE",
+  "isWelfare": false,
+  "discountPolicyList": [
+   {
+    "amount": 9900,
+    "startMonthIndex": 0,
+    "numberOfMonths": 24,
+    "applyStartTs": "2026-08-26T20:00:01",
+    "applyEndTs": "2026-09-01T20:00:00"
+   }
+  ],
+  "productPromotions": [],
+  "dataUsage": {
+   "type": "NORMAL",
+   "basicAmount": "7",
+   "dailyAmount": null,
+   "maximumAmount": "7",
+   "speedLimit": 1,
+   "speedLimitUnit": "Mbps"
+  },
+  "callUsage": {
+   "type": "UNLIMITED",
+   "amount": null,
+   "extraAmount": 300
+  },
+  "messageUsage": {
+   "type": "UNLIMITED",
+   "amount": null
+  },
+  "hotspotLimit": 7,
+  "benefit": {
+   "hasMovieBenefit": false,
+   "hasFoldableBenefit": false,
+   "hasBliceBenefit": false,
+   "appliedBenefitType": "LGU_CU_할인",
+   "isWifiAvailable": false,
+   "tossPayCashBack": null,
+   "subsidyBenefit": null,
+   "unusedDataCashback": null
+  },
+  "overuse": {
+   "overuseCallRate": 1.98,
+   "overuseVideoCallRate": 3.3,
+   "overuseSmsRate": 22,
+   "overuseLmsRate": 22,
+   "overuseMmsRate": 44,
+   "overuseMessagePictureRate": 220,
+   "overuseMessageVideoRate": 440,
+   "overuseDataRate": 22.53
+  },
+  "costType": "정액",
+  "usimType": "유심이심가능",
+  "groupType": {
+   "type": "CU할인",
+   "background": "linear-gradient(163deg, #8E08DB 6.4191943416601%, #1E43D7 100.00000000001006%)",
+   "title": "CU 할인 요금제",
+   "description": "편의점 20% 할인",
+   "listTitle": "CU 할인 요금제",
+   "priority": 3,
+   "isSpecial": false
+  },
+  "type": "MVNO",
+  "category": null,
+  "recommendInfo": null,
+  "initialPromotionDiscountMonths": null
+ }
+]
