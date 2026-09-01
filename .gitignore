@@ -1,0 +1,6 @@
+# 폴더와 심볼릭 링크 둘 다 막는다 (갈래 규약 — 링크가 커밋에 섞인 사고 방지)
+node_modules/
+node_modules
+dist
+*.local
+.DS_Store
