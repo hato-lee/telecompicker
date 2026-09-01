@@ -107,6 +107,47 @@ export function ScreenVoice({ onNext }: { onNext: Next }) {
   )
 }
 
+const AGE_CHOICES: { label: string; sub: string; value: NonNullable<UserInput['age']> }[] = [
+  { label: '만 18세 이하', sub: '청소년 요금제까지 비교', value: { min: 0, max: 18 } },
+  { label: '만 19~34세', sub: '청년 요금제까지 비교', value: { min: 19, max: 34 } },
+  { label: '만 35~64세', sub: '', value: { min: 35, max: 64 } },
+  { label: '만 65세 이상', sub: '시니어 요금제까지 비교', value: { min: 65, max: null } },
+]
+
+export function ScreenAge({ onNext }: { onNext: Next }) {
+  const [custom, setCustom] = useState('')
+  return (
+    <section>
+      <h1>나이가 어떻게 되세요?</h1>
+      <p className="hint">
+        청년·시니어 전용처럼 나이에 따라 가입되는 요금제가 있어서 여쭤봐요. 나이는 저장하지 않아요.
+      </p>
+      <div className="btn-col">
+        {AGE_CHOICES.map((a) => (
+          <button key={a.label} className="choice" onClick={() => onNext({ age: a.value })}>
+            {a.label} {a.sub && <small>{a.sub}</small>}
+          </button>
+        ))}
+      </div>
+      <details className="side-door">
+        <summary>정확한 만 나이를 알려드릴게요</summary>
+        <input
+          inputMode="numeric"
+          placeholder="예: 27"
+          value={custom}
+          onChange={(e) => setCustom(e.target.value)}
+        />
+        <button
+          disabled={!/^\d{1,3}$/.test(custom) || Number(custom) > 120}
+          onClick={() => onNext({ age: { min: Number(custom), max: Number(custom) } })}
+        >
+          이 나이로
+        </button>
+      </details>
+    </section>
+  )
+}
+
 export function ScreenMvno({ onNext }: { onNext: Next }) {
   return (
     <section>

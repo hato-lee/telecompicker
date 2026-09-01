@@ -20,9 +20,13 @@ export const PlanSchema = z
       .strict()
       .nullable(), // 특가 없으면 null
     dataGB: z.number().nonnegative().nullable(), // 월 기본 데이터(GB). null = 무제한
+    dailyDataGB: z.number().positive().nullable(), // 매일 주는 데이터(GB, 「월 11GB + 매일 2GB」의 2). null = 없음 (게이트 2 결정 2026-09-01)
     throttleMbps: z.number().positive().nullable(), // 소진 후 속도. null = 소진 후 제공 없음
     voiceMinutes: z.number().int().nonnegative().nullable(), // 월 통화(분). null = 무제한
     smsIncluded: z.boolean(),
+    // 가입 가능 만 나이 (원문 문구 그대로 옮긴다 — 문구를 인용 못 하면 그 요금제는 담지 않는다)
+    ageMin: z.number().int().nonnegative().nullable(), // 예: 시니어 「만 65세 이상」 → 65. null = 하한 없음
+    ageMax: z.number().int().nonnegative().nullable(), // 예: 청년 「만 34세 이하」 → 34. null = 상한 없음
     sourceUrl: z.string().url(), // 원문(공시) 링크
     checkedAt: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
     memo: z.string().optional(),

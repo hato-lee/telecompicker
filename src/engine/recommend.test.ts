@@ -13,9 +13,12 @@ function plan(over: Partial<Plan>): Plan {
     monthlyFee: 20000,
     promo: null,
     dataGB: 20,
+    dailyDataGB: null,
     throttleMbps: null,
     voiceMinutes: null,
     smsIncluded: true,
+    ageMin: null,
+    ageMax: null,
     sourceUrl: 'https://example.com',
     checkedAt: '2026-09-01',
     ...over,
@@ -26,6 +29,7 @@ const input: UserInput = {
   currentMonthlyFee: 50000,
   dataGBNeeded: 15,
   voice: 'mid',
+  age: { min: 35, max: 64 },
   mvnoOk: true,
 }
 
@@ -56,6 +60,26 @@ describe('recommend', () => {
     const out = recommend(input, [a, b])
     expect(out.map((r) => r.plan.id)).toEqual(['h', 'g'])
     expect(out[0].annualSaving).toBe(50000 * 12 - 10000 * 12)
+  })
+  test('일 단위 데이터는 비교에만 월로 환산된다 (11GB + 매일 2GB ≥ 15GB)', () => {
+    const daily = plan({ id: 'j', dataGB: 11, dailyDataGB: 2 })
+    expect(recommend(input, [daily])).toHaveLength(1)
+  })
+  test('연령 전용은 나이 구간 전체가 조건 안일 때만 남는다', () => {
+    const youth = plan({ id: 'k', ageMax: 34 })
+    const senior = plan({ id: 'l', ageMin: 65 })
+    const anyone = plan({ id: 'm' })
+    // 35~64세 → 청년·시니어 다 빠진다
+    expect(recommend(input, [youth, senior, anyone]).map((r) => r.plan.id)).toEqual(['m'])
+    // 정확히 만 27세 → 청년(만 34세 이하)이 남는다
+    const at27 = { ...input, age: { min: 27, max: 27 } }
+    expect(recommend(at27, [youth, senior, anyone]).map((r) => r.plan.id).sort()).toEqual(['k', 'm'])
+    // 19~34 구간에 「만 29세 이하」 요금제 — 걸쳐 있으면 안전하게 뺀다
+    const under29 = plan({ id: 'n', ageMax: 29 })
+    const bracket = { ...input, age: { min: 19, max: 34 } }
+    expect(recommend(bracket, [under29]).map((r) => r.plan.id)).toEqual([])
+    // 나이를 안 밝히면 연령 전용은 전부 뺀다
+    expect(recommend({ ...input, age: null }, [youth, senior, anyone]).map((r) => r.plan.id)).toEqual(['m'])
   })
   test('지금보다 비싼 요금제도 목록엔 남는다 (화면이 「이미 좋아요」를 판단)', () => {
     const pricey = plan({ id: 'i', monthlyFee: 90000 })

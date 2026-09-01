@@ -12,9 +12,12 @@ const base: Plan = {
   monthlyFee: 20000,
   promo: null,
   dataGB: 11,
+  dailyDataGB: null,
   throttleMbps: 3,
   voiceMinutes: null,
   smsIncluded: true,
+  ageMin: null,
+  ageMax: null,
   sourceUrl: 'https://example.com',
   checkedAt: '2026-09-01',
 }

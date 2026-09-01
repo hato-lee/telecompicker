@@ -53,10 +53,22 @@ export function Result({ input, onRestart }: { input: UserInput; onRestart: () =
               )}
             </div>
             <div className="plan-detail">
-              데이터 {r.plan.dataGB === null ? '무제한' : `월 ${r.plan.dataGB}GB`}
+              데이터{' '}
+              {r.plan.dataGB === null
+                ? '무제한'
+                : r.plan.dailyDataGB !== null
+                  ? `월 ${r.plan.dataGB}GB + 매일 ${r.plan.dailyDataGB}GB`
+                  : `월 ${r.plan.dataGB}GB`}
               {r.plan.throttleMbps !== null && ` (다 쓰면 ${r.plan.throttleMbps}Mbps로 계속)`}
               {' · '}통화 {r.plan.voiceMinutes === null ? '무제한' : `월 ${r.plan.voiceMinutes}분`}
             </div>
+            {r.plan.carrierType === 'mno' && (
+              <div className="plan-detail">
+                참고: 24개월 선택약정을 하면 25% 할인 — 월 약{' '}
+                {won(Math.floor((r.plan.monthlyFee * (1 - RULES.mnoContractDiscountRate)) / 10) * 10)}
+                (계산과 순위는 약정 없는 정가 기준이에요)
+              </div>
+            )}
             <div className="plan-annual">
               1년 납부액 {won(r.annualCost)} → <strong>{won(r.annualSaving)} 아껴요</strong>
             </div>

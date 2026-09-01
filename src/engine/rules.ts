@@ -6,4 +6,8 @@ export const RULES = {
   voiceNeedMinutes: { low: 100, mid: 300, high: Infinity },
   // 결과 화면에 보여 줄 최대 개수
   topN: 10,
+  // 일 단위 데이터를 「충분한가」 비교에만 월로 환산할 때 쓰는 날수 (적게 세는 쪽 — 31일 아님)
+  daysPerMonth: 30,
+  // 3사 선택약정 할인율 (참고 표시용 — 계산·정렬엔 안 쓴다, 게이트 2 결정)
+  mnoContractDiscountRate: 0.25,
 } as const
