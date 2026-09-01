@@ -1,0 +1,4104 @@
+{
+  "checkedAt": "2026-09-01",
+  "api": "GET https://www.tworld.co.kr/core-product/v1/product/mobile/plan-overall-list?idxCtgCd=F01100&size=500&page=1&order=",
+  "totalCount": 110,
+  "note": "원문 응답에서 요금제별 혜택 HTML(prodBenfAreaList)만 덜어냈다. 나머지는 원문 그대로.",
+  "mobilePlanList": [
+    {
+      "prodId": "NA00009818",
+      "prodNm": "베스트 Max(Google AI)",
+      "prodSmryDesc": "구글 AI Pro 혜택이 기본으로 제공되는 구글 AI 전용 요금제",
+      "subTitNm": "Google AI와 OTT 최대 할인",
+      "basFeeInfo": "129000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "96750",
+      "shrDataQtyCtt": "140",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "Google AI"
+        },
+        {
+          "prodFltId": "F02094",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02091",
+          "prodFltNm": "유튜브 프리미엄"
+        },
+        {
+          "prodFltId": "F02092",
+          "prodFltNm": "넷플릭스"
+        },
+        {
+          "prodFltId": "F02102",
+          "prodFltNm": "티빙&웨이브"
+        },
+        {
+          "prodFltId": "F02093",
+          "prodFltNm": "디즈니+"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02079",
+          "prodFltNm": "YouTube Premium 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02104",
+          "prodFltNm": "Google AI"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009811",
+      "prodNm": "베스트 Pro(Google AI)",
+      "prodSmryDesc": "구글 AI에 추가 OTT 혜택까지 누릴 수 있는 구글 AI 전용 요금제",
+      "subTitNm": "Google AI와 OTT 할인 ",
+      "basFeeInfo": "119000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "89250",
+      "shrDataQtyCtt": "120",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "Google AI"
+        },
+        {
+          "prodFltId": "F02094",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02091",
+          "prodFltNm": "유튜브 프리미엄"
+        },
+        {
+          "prodFltId": "F02092",
+          "prodFltNm": "넷플릭스"
+        },
+        {
+          "prodFltId": "F02102",
+          "prodFltNm": "티빙&웨이브"
+        },
+        {
+          "prodFltId": "F02093",
+          "prodFltNm": "디즈니+"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02079",
+          "prodFltNm": "YouTube Premium 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02104",
+          "prodFltNm": "Google AI"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009814",
+      "prodNm": "베스트 Max(유튜브 프리미엄)",
+      "prodSmryDesc": "유튜브 프리미엄 에 추가 OTT 혜택까지 누릴 수 있는 유튜브 프리미엄 전용 요금제",
+      "subTitNm": "유튜브 프리미엄과 OTT 최대 할인",
+      "basFeeInfo": "129000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "96750",
+      "shrDataQtyCtt": "140",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02091",
+          "prodFltNm": "유튜브 프리미엄"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02079",
+          "prodFltNm": "YouTube Premium 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02107",
+          "prodFltNm": "유튜브 프리미엄"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009807",
+      "prodNm": "베스트 Pro(유튜브 프리미엄)",
+      "prodSmryDesc": "유튜브 프리미엄 에 추가 OTT 혜택까지 누릴 수 있는 유튜브 프리미엄 전용 요금제",
+      "subTitNm": "유튜브 프리미엄과 OTT 할인",
+      "basFeeInfo": "119000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "89250",
+      "shrDataQtyCtt": "120",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02091",
+          "prodFltNm": "유튜브 프리미엄"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02079",
+          "prodFltNm": "YouTube Premium 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02107",
+          "prodFltNm": "유튜브 프리미엄"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009815",
+      "prodNm": "베스트 Max(넷플릭스)",
+      "prodSmryDesc": "넷플릭스에 추가 OTT 혜택까지 누릴 수 있는 넷플릭스 전용 요금제",
+      "subTitNm": "넷플릭스와 OTT 최대 할인",
+      "basFeeInfo": "129000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "96750",
+      "shrDataQtyCtt": "140",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02092",
+          "prodFltNm": "넷플릭스"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02108",
+          "prodFltNm": "Netflix 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009808",
+      "prodNm": "베스트 Pro(넷플릭스)",
+      "prodSmryDesc": "넷플릭스에 추가 OTT 혜택까지 누릴 수 있는 넷플릭스 전용 요금제",
+      "subTitNm": "넷플릭스와 OTT 할인",
+      "basFeeInfo": "119000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "89250",
+      "shrDataQtyCtt": "120",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02092",
+          "prodFltNm": "넷플릭스"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02108",
+          "prodFltNm": "Netflix 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009817",
+      "prodNm": "베스트 Max(티빙&웨이브)",
+      "prodSmryDesc": "티빙, 웨이브에 추가 OTT 혜택까지 누릴 수 있는 티빙&웨이브 전용 요금제",
+      "subTitNm": "티빙&웨이브와 OTT 최대 할인",
+      "basFeeInfo": "129000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "96750",
+      "shrDataQtyCtt": "140",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02102",
+          "prodFltNm": "티빙&웨이브"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02110",
+          "prodFltNm": "티빙&웨이브 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009810",
+      "prodNm": "베스트 Pro(티빙&웨이브)",
+      "prodSmryDesc": "티빙, 웨이브에 추가 OTT 혜택까지 누릴 수 있는 티빙&웨이브 전용 요금제",
+      "subTitNm": "티빙&웨이브와 OTT 할인",
+      "basFeeInfo": "119000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "89250",
+      "shrDataQtyCtt": "120",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02102",
+          "prodFltNm": "티빙&웨이브"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02110",
+          "prodFltNm": "티빙&웨이브 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009816",
+      "prodNm": "베스트 Max(디즈니+)",
+      "prodSmryDesc": "디즈니+에 추가 OTT 혜택까지 누릴 수 있는 디즈니+ 전용 요금체",
+      "subTitNm": "디즈니+와 OTT 최대 할인",
+      "basFeeInfo": "129000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "96750",
+      "shrDataQtyCtt": "140",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02093",
+          "prodFltNm": "디즈니+"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02109",
+          "prodFltNm": "디즈니+ 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009809",
+      "prodNm": "베스트 Pro(디즈니+)",
+      "prodSmryDesc": "디즈니+에 추가 OTT 혜택까지 누릴 수 있는 디즈니+ 전용 요금제",
+      "subTitNm": "디즈니+와 OTT 할인",
+      "basFeeInfo": "119000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "89250",
+      "shrDataQtyCtt": "120",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02093",
+          "prodFltNm": "디즈니+"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02109",
+          "prodFltNm": "디즈니+ 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009801",
+      "prodNm": "베스트 109(유튜브 프리미엄)",
+      "prodSmryDesc": "유튜브 프리미엄을 기본 혜택으로 누릴 수 있는 유튜브 프리미엄 전용 요금제",
+      "subTitNm": "유튜브 프리미엄 할인",
+      "basFeeInfo": "109000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "81750",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02091",
+          "prodFltNm": "유튜브 프리미엄"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02079",
+          "prodFltNm": "YouTube Premium 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02107",
+          "prodFltNm": "유튜브 프리미엄"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009802",
+      "prodNm": "베스트 109(넷플릭스)",
+      "prodSmryDesc": "넷플릭스를 기본 혜택으로 누릴 수 있는 넷플릭스 전용 요금제",
+      "subTitNm": "넷플릭스 스탠다드 할인",
+      "basFeeInfo": "109000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "81750",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02092",
+          "prodFltNm": "넷플릭스"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02108",
+          "prodFltNm": "Netflix 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009797",
+      "prodNm": "베스트 99(넷플릭스)",
+      "prodSmryDesc": "넷플릭스를 기본 혜택으로 누릴 수 있는 넷플릭스 전용 요금제",
+      "subTitNm": "넷플릭스 광고형 스탠다드  최대 할인",
+      "basFeeInfo": "99000",
+      "basOfrVcallTmsCtt": " 무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "74250",
+      "shrDataQtyCtt": "80",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02092",
+          "prodFltNm": "넷플릭스"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02108",
+          "prodFltNm": "Netflix 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009793",
+      "prodNm": "베스트 89(넷플릭스)",
+      "prodSmryDesc": "넷플릭스를 기본 혜택으로 누릴 수 있는 넷플릭스 전용 요금제",
+      "subTitNm": "넷플릭스 광고형 스탠다드 할인",
+      "basFeeInfo": "89000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "66750",
+      "shrDataQtyCtt": "60",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02092",
+          "prodFltNm": "넷플릭스"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02108",
+          "prodFltNm": "Netflix 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009803",
+      "prodNm": "베스트 109(디즈니+)",
+      "prodSmryDesc": "디즈니+를 기본 혜택으로 누릴 수 있는 디즈니+ 전용 요금제",
+      "subTitNm": "디즈니+ 프리미엄 할인",
+      "basFeeInfo": "109000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "81750",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02093",
+          "prodFltNm": "디즈니+"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02109",
+          "prodFltNm": "디즈니+ 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009798",
+      "prodNm": "베스트 99(디즈니+)",
+      "prodSmryDesc": "디즈니+를 기본 혜택으로 누릴 수 있는 디즈니+ 전용 요금제",
+      "subTitNm": "디즈니+ 스탠다드 최대 할인",
+      "basFeeInfo": "99000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "74250",
+      "shrDataQtyCtt": "80",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02093",
+          "prodFltNm": "디즈니+"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02109",
+          "prodFltNm": "디즈니+ 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009794",
+      "prodNm": "베스트 89(디즈니+)",
+      "prodSmryDesc": "디즈니+를 기본 혜택으로 누릴 수 있는 디즈니+ 전용 요금제",
+      "subTitNm": "디즈니+ 스탠다드 할인",
+      "basFeeInfo": "89000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "66750",
+      "shrDataQtyCtt": "60",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02093",
+          "prodFltNm": "디즈니+"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02109",
+          "prodFltNm": "디즈니+ 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009804",
+      "prodNm": "베스트 109(티빙&웨이브)",
+      "prodSmryDesc": "티빙, 웨이브를 기본 혜택으로 누릴 수 있는 티빙&웨이브 전용 요금제",
+      "subTitNm": "티빙&웨이브 스탠다드 할인",
+      "basFeeInfo": "109000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "81750",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02102",
+          "prodFltNm": "티빙&웨이브"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02110",
+          "prodFltNm": "티빙&웨이브 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009799",
+      "prodNm": "베스트 99(티빙&웨이브)",
+      "prodSmryDesc": "티빙, 웨이브를 기본 혜택으로 누릴 수 있는 티빙&웨이브 전용 요금제",
+      "subTitNm": "티빙&웨이브 광고형 최대 할인",
+      "basFeeInfo": "99000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "74250",
+      "shrDataQtyCtt": "80",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02102",
+          "prodFltNm": "티빙&웨이브"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02110",
+          "prodFltNm": "티빙&웨이브 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009795",
+      "prodNm": "베스트 89(티빙&웨이브)",
+      "prodSmryDesc": "티빙, 웨이브를 기본 혜택으로 누릴 수 있는 티빙&웨이브 전용 요금제",
+      "subTitNm": "티빙&웨이브 광고형 할인",
+      "basFeeInfo": "89000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "66750",
+      "shrDataQtyCtt": "60",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F02102",
+          "prodFltNm": "티빙&웨이브"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02110",
+          "prodFltNm": "티빙&웨이브 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009813",
+      "prodNm": "베스트 Max(T 우주)",
+      "prodSmryDesc": "T 우주 Big 6 생활형 혜택을 누릴 수 있는 T 우주 전용 요금제",
+      "subTitNm": "T 우주 Big 6 제공",
+      "basFeeInfo": "129000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "96750",
+      "shrDataQtyCtt": "140",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02029",
+          "prodFltNm": "T 우주 생활형 혜택 받기"
+        },
+        {
+          "prodFltId": "F02111",
+          "prodFltNm": "T 우주패스"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009806",
+      "prodNm": "베스트 Pro(T 우주)",
+      "prodSmryDesc": "T 우주 Big 5 생활형 혜택을 누릴 수 있는 T 우주 전용 요금제",
+      "subTitNm": "T 우주 Big 5 제공",
+      "basFeeInfo": "119000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "89250",
+      "shrDataQtyCtt": "120",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02029",
+          "prodFltNm": "T 우주 생활형 혜택 받기"
+        },
+        {
+          "prodFltId": "F02111",
+          "prodFltNm": "T 우주패스"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009800",
+      "prodNm": "베스트 109(T 우주)",
+      "prodSmryDesc": "T 우주 Big 4 생활형 혜택을 누릴 수 있는 T 우주 전용 요금제",
+      "subTitNm": "T 우주 Big 4 제공",
+      "basFeeInfo": "109000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "81750",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02029",
+          "prodFltNm": "T 우주 생활형 혜택 받기"
+        },
+        {
+          "prodFltId": "F02111",
+          "prodFltNm": "T 우주패스"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009796",
+      "prodNm": "베스트 99(T 우주)",
+      "prodSmryDesc": "T 우주 Big 3 생활형 혜택을 누릴 수 있는 T 우주 전용 요금제",
+      "subTitNm": "T 우주 Big 3 제공 ",
+      "basFeeInfo": "99000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "74250",
+      "shrDataQtyCtt": "80",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02029",
+          "prodFltNm": "T 우주 생활형 혜택 받기"
+        },
+        {
+          "prodFltId": "F02111",
+          "prodFltNm": "T 우주패스"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009792",
+      "prodNm": "베스트 89(T 우주)",
+      "prodSmryDesc": "T 우주 Big 3 생활형 혜택(할인) 을 누릴 수 있는 T 우주 전용 요금제",
+      "subTitNm": "T 우주 Big 3 할인",
+      "basFeeInfo": "89000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "66750",
+      "shrDataQtyCtt": "60",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02029",
+          "prodFltNm": "T 우주 생활형 혜택 받기"
+        },
+        {
+          "prodFltId": "F02111",
+          "prodFltNm": "T 우주패스"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009819",
+      "prodNm": "베스트 Max(스마트기기)",
+      "prodSmryDesc": "2nd Device 할부금 혜택이 기본으로 제공되는 스마트기기 전용 요금제",
+      "subTitNm": "스마트기기 할부금 최대 할인",
+      "basFeeInfo": "129000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "96750",
+      "shrDataQtyCtt": "140",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02112",
+          "prodFltNm": "스마트기기 할부금 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009812",
+      "prodNm": "베스트 Pro(스마트기기)",
+      "prodSmryDesc": "2nd Device 할부금 혜택이 기본으로 제공되는 스마트기기 전용 요금제",
+      "subTitNm": "스마트기기 할부금 추가 할인",
+      "basFeeInfo": "119000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "89250",
+      "shrDataQtyCtt": "120",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02112",
+          "prodFltNm": "스마트기기 할부금 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009805",
+      "prodNm": "베스트 109(스마트기기)",
+      "prodSmryDesc": "2nd Device 할부금 혜택이 기본으로 제공되는 스마트기기 전용 요금제",
+      "subTitNm": "스마트기기 할부금 할인",
+      "basFeeInfo": "109000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "81750",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        },
+        {
+          "prodFltId": "F02112",
+          "prodFltNm": "스마트기기 할부금 혜택"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009791",
+      "prodNm": "라이트 79",
+      "prodSmryDesc": "여유롭게 데이터를 사용하는요금제",
+      "basFeeInfo": "79000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "250",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "59250",
+      "shrDataQtyCtt": "54",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 5Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "250",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01174",
+          "prodFltNm": "스마트기기 이용료 할인 받기"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009790",
+      "prodNm": "라이트 69",
+      "prodSmryDesc": "여유롭게 데이터를 사용하는 요금제",
+      "basFeeInfo": "69000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "110",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "51750",
+      "shrDataQtyCtt": "48",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 5Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "110",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009789",
+      "prodNm": "라이트 59 75GB업",
+      "prodSmryDesc": "필요할 때 충전하는 요금제",
+      "basFeeInfo": "68000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "99",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "51000",
+      "shrDataQtyCtt": "24",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 1Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "99",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01142",
+          "prodFltNm": "4~5만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009788",
+      "prodNm": "라이트 59 50GB업",
+      "prodSmryDesc": "필요할 때 충전하는 요금제",
+      "basFeeInfo": "66000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "74",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "49500",
+      "shrDataQtyCtt": "24",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 1Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "74",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01142",
+          "prodFltNm": "4~5만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009787",
+      "prodNm": "라이트 59 30GB업",
+      "prodSmryDesc": "필요할 때 충전하는 요금제",
+      "basFeeInfo": "64000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "54",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "48000",
+      "shrDataQtyCtt": "24",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 1Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "54",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01142",
+          "prodFltNm": "4~5만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009786",
+      "prodNm": "라이트 59 13GB업",
+      "prodSmryDesc": "필요할 때 충전하는 요금제",
+      "basFeeInfo": "62000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "37",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "46499",
+      "shrDataQtyCtt": "24",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 1Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "37",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01142",
+          "prodFltNm": "4~5만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009785",
+      "prodNm": "라이트 59",
+      "prodSmryDesc": "필요할 때 충전하는 요금제",
+      "basFeeInfo": "59000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "24",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "44250",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 1Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "24",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01142",
+          "prodFltNm": "4~5만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009784",
+      "prodNm": "라이트 55",
+      "prodSmryDesc": "필요할 때 충전하는 요금제",
+      "basFeeInfo": "55000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "15",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "41250",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 1Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "15",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01142",
+          "prodFltNm": "4~5만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009783",
+      "prodNm": "라이트 49",
+      "prodSmryDesc": "데이터 사용이 안심되는 요금제",
+      "basFeeInfo": "49000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "11",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "36750",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "11",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01142",
+          "prodFltNm": "4~5만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009782",
+      "prodNm": "라이트 45",
+      "prodSmryDesc": "데이터 사용이 안심되는 요금제",
+      "basFeeInfo": "45000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "8",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "33750",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "8",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01142",
+          "prodFltNm": "4~5만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009781",
+      "prodNm": "라이트 39",
+      "prodSmryDesc": "데이터 사용이 안심되는 요금제",
+      "basFeeInfo": "39000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본제공",
+      "basOfrGbDataQtyCtt": "6",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "29250",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "6",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01133",
+          "prodFltNm": "5~8GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009122",
+      "prodNm": "다이렉트5G 76(유튜브 프리미엄)",
+      "prodSmryDesc": "YouTube Premium 혜택이 기본으로 제공되는 YouTube Premium 전용 요금제",
+      "basFeeInfo": "76000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F02079",
+          "prodFltNm": "YouTube Premium 이용료 할인 받기"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008723",
+      "prodNm": "다이렉트5G 76(넷플릭스)",
+      "prodSmryDesc": "넷플릭스 혜택이 기본으로 제공되는 넷플릭스 전용 요금제",
+      "basFeeInfo": "76000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F02077",
+          "prodFltNm": "넷플릭스와 Wavve 할인"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008724",
+      "prodNm": "다이렉트5G 69(넷플릭스)",
+      "prodSmryDesc": "넷플릭스 혜택이 기본으로 제공되는 넷플릭스 전용 요금제",
+      "basFeeInfo": "69000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "80",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F02077",
+          "prodFltNm": "넷플릭스와 Wavve 할인"
+        },
+        {
+          "prodFltId": "F02076",
+          "prodFltNm": "Netflix와 Wavve를 동시에! 즐거운 스트리밍 생활"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008725",
+      "prodNm": "다이렉트5G 62(넷플릭스)",
+      "prodSmryDesc": "넷플릭스 혜택이 기본으로 제공되는 넷플릭스 전용 요금제",
+      "basFeeInfo": "62000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "60",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F02077",
+          "prodFltNm": "넷플릭스와 Wavve 할인"
+        },
+        {
+          "prodFltId": "F02076",
+          "prodFltNm": "Netflix와 Wavve를 동시에! 즐거운 스트리밍 생활"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008730",
+      "prodNm": "0 청년 다이렉트 69(넷플릭스)",
+      "prodSmryDesc": "넷플릭스 혜택이 기본으로 제공되는 넷플릭스 전용 요금제",
+      "basFeeInfo": "69000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01165",
+          "prodFltNm": "만 34세 이하"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F02077",
+          "prodFltNm": "넷플릭스와 Wavve 할인"
+        },
+        {
+          "prodFltId": "F02076",
+          "prodFltNm": "Netflix와 Wavve를 동시에! 즐거운 스트리밍 생활"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008731",
+      "prodNm": "0 청년 다이렉트 62(넷플릭스)",
+      "prodSmryDesc": "넷플릭스 혜택이 기본으로 제공되는 넷플릭스 전용 요금제",
+      "basFeeInfo": "62000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "80",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01165",
+          "prodFltNm": "만 34세 이하"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F02077",
+          "prodFltNm": "넷플릭스와 Wavve 할인"
+        },
+        {
+          "prodFltId": "F02076",
+          "prodFltNm": "Netflix와 Wavve를 동시에! 즐거운 스트리밍 생활"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009468",
+      "prodNm": "다이렉트5G 76(티빙)",
+      "prodSmryDesc": "TVING 혜택이 기본으로 제공되는 TVING 전용 요금제",
+      "basFeeInfo": "76000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009469",
+      "prodNm": "다이렉트5G 69(티빙)",
+      "prodSmryDesc": "TVING 혜택이 기본으로 제공되는 TVING 전용 요금제",
+      "basFeeInfo": "69000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "80",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009472",
+      "prodNm": "0 청년 다이렉트 69(티빙)",
+      "prodSmryDesc": "TVING 혜택이 기본으로 제공되는 TVING 전용 요금제",
+      "basFeeInfo": "69000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01165",
+          "prodFltNm": "만 34세 이하"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009127",
+      "prodNm": "다이렉트5G 76(디즈니+)",
+      "prodSmryDesc": "Disney+ 혜택이 기본으로 제공되는 Disney+ 전용 요금제",
+      "basFeeInfo": "76000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009128",
+      "prodNm": "다이렉트5G 69(디즈니+)",
+      "prodSmryDesc": "Disney+ 혜택이 기본으로 제공되는 Disney+ 전용 요금제",
+      "basFeeInfo": "69000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "80",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009131",
+      "prodNm": "0 청년 다이렉트 69(디즈니+)",
+      "prodSmryDesc": "Disney+ 혜택이 기본으로 제공되는 Disney+ 전용 요금제",
+      "basFeeInfo": "69000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01165",
+          "prodFltNm": "만 34세 이하"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009101",
+      "prodNm": "다이렉트5G 76(스마트기기)",
+      "prodSmryDesc": "2nd Device 할부금 혜택이 기본으로 제공되는 스마트기기 전용 요금제",
+      "basFeeInfo": "76000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00007492",
+      "prodNm": "ZEM플랜 퍼펙트",
+      "prodSmryDesc": "5G 어린이 요금제",
+      "basFeeInfo": "36000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "6",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "27000",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 1Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "6",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01166",
+          "prodFltNm": "만 12세 이하"
+        },
+        {
+          "prodFltId": "F01162",
+          "prodFltNm": "만 18세 이하"
+        },
+        {
+          "prodFltId": "F01132",
+          "prodFltNm": "2~5GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        },
+        {
+          "prodFltId": "F01184",
+          "prodFltNm": "우리 아이를 위한 주니어 요금제"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00007493",
+      "prodNm": "ZEM플랜 베스트",
+      "prodSmryDesc": "5G 어린이 요금제",
+      "basFeeInfo": "26000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "3",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "19500",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "100",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "3",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01166",
+          "prodFltNm": "만 12세 이하"
+        },
+        {
+          "prodFltId": "F01162",
+          "prodFltNm": "만 18세 이하"
+        },
+        {
+          "prodFltId": "F01132",
+          "prodFltNm": "2~5GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        },
+        {
+          "prodFltId": "F01184",
+          "prodFltNm": "우리 아이를 위한 주니어 요금제"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009872",
+      "prodNm": "Easy XL",
+      "prodSmryDesc": "유학·취업을 위해 한시적으로 체류 중인 외국인 고객님을 위한 요금제",
+      "basFeeInfo": "69000",
+      "basOfrVcallTmsCtt": "200",
+      "basOfrCharCntCtt": "200",
+      "basOfrGbDataQtyCtt": "110",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "51750",
+      "shrDataQtyCtt": "30",
+      "qosDataQtyCtt": "최대 5Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "110",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009873",
+      "prodNm": "Easy L",
+      "prodSmryDesc": "유학·취업을 위해 한시적으로 체류 중인 외국인 고객님을 위한 요금제",
+      "basFeeInfo": "59000",
+      "basOfrVcallTmsCtt": "200",
+      "basOfrCharCntCtt": "200",
+      "basOfrGbDataQtyCtt": "10",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "44250",
+      "shrDataQtyCtt": "0",
+      "qosDataQtyCtt": "최대 3Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "10",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009874",
+      "prodNm": "Easy M",
+      "prodSmryDesc": "유학·취업을 위해 한시적으로 체류 중인 외국인 고객님을 위한 요금제",
+      "basFeeInfo": "49000",
+      "basOfrVcallTmsCtt": "200",
+      "basOfrCharCntCtt": "200",
+      "basOfrGbDataQtyCtt": "3",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "36750",
+      "shrDataQtyCtt": "0",
+      "qosDataQtyCtt": "최대 3Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "3",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00009875",
+      "prodNm": "Easy S",
+      "prodSmryDesc": "유학·취업을 위해 한시적으로 체류 중인 외국인 고객님을 위한 요금제",
+      "basFeeInfo": "39000",
+      "basOfrVcallTmsCtt": "200",
+      "basOfrCharCntCtt": "200",
+      "basOfrGbDataQtyCtt": "1",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "29250",
+      "shrDataQtyCtt": "0",
+      "qosDataQtyCtt": "최대 1Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "1",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008685",
+      "prodNm": "다이렉트5G 76(T 우주)",
+      "prodSmryDesc": "T 다이렉트샵 고객님을 위한 전용 요금제",
+      "basFeeInfo": "76000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008100",
+      "prodNm": "다이렉트5G 69(T 우주)",
+      "prodSmryDesc": "T 다이렉트샵 고객님을 위한 전용 요금제",
+      "basFeeInfo": "69000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "80",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01176",
+          "prodFltNm": "데이터 무제한 요금제"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008104",
+      "prodNm": "다이렉트5G 62",
+      "prodSmryDesc": "T 다이렉트샵 고객님을 위한 전용 요금제",
+      "basFeeInfo": "62000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "60",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        },
+        {
+          "prodFltId": "F01176",
+          "prodFltNm": "데이터 무제한 요금제"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008099",
+      "prodNm": "다이렉트5G 55",
+      "prodSmryDesc": "T 다이렉트샵 고객님을 위한 전용 요금제",
+      "basFeeInfo": "55000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "250",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "54",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 5Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "250",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01142",
+          "prodFltNm": "4~5만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008098",
+      "prodNm": "다이렉트5G 48",
+      "prodSmryDesc": "T 다이렉트샵 고객님을 위한 전용 요금제",
+      "basFeeInfo": "48000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "110",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "48",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 5Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "110",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01142",
+          "prodFltNm": "4~5만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00007625",
+      "prodNm": "다이렉트5G 42",
+      "prodSmryDesc": "T 다이렉트샵 고객님을 위한 전용 요금제",
+      "basFeeInfo": "42000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "24",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 1Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "24",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00007164",
+      "prodNm": "다이렉트5G 38",
+      "prodSmryDesc": "T 다이렉트샵 고객님을 위한 전용 요금제",
+      "basFeeInfo": "38000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "15",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 1Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "15",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        },
+        {
+          "prodFltId": "F01152",
+          "prodFltNm": "집, 이동전화 무제한"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00007626",
+      "prodNm": "다이렉트5G 34",
+      "prodSmryDesc": "T 다이렉트샵 고객님을 위한 전용 요금제",
+      "basFeeInfo": "34000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "11",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "11",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01133",
+          "prodFltNm": "5~8GB"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008684",
+      "prodNm": "다이렉트5G 31",
+      "prodSmryDesc": "T 다이렉트샵 고객님을 위한 전용 요금제",
+      "basFeeInfo": "31000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "8",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "8",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008683",
+      "prodNm": "다이렉트5G 27",
+      "prodSmryDesc": "T 다이렉트샵 고객님을 위한 전용 요금제",
+      "basFeeInfo": "27000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "6",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "6",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01133",
+          "prodFltNm": "5~8GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008154",
+      "prodNm": "0 청년 다이렉트 69(T 우주)",
+      "prodSmryDesc": "만 34세 이하 청년을 위한 T 다이렉트샵 전용 요금제",
+      "basFeeInfo": "69000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "100",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01165",
+          "prodFltNm": "만 34세 이하"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008155",
+      "prodNm": "0 청년 다이렉트 62",
+      "prodSmryDesc": "만 34세 이하 청년을 위한 T 다이렉트샵 전용 요금제",
+      "basFeeInfo": "62000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "무제한",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "80",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "9999",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01165",
+          "prodFltNm": "만 34세 이하"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01143",
+          "prodFltNm": "6만원대~"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008156",
+      "prodNm": "0 청년 다이렉트 55",
+      "prodSmryDesc": "만 34세 이하 청년을 위한 T 다이렉트샵 전용 요금제",
+      "basFeeInfo": "55000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "300",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "60",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 5Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "300",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01165",
+          "prodFltNm": "만 34세 이하"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01142",
+          "prodFltNm": "4~5만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008157",
+      "prodNm": "0 청년 다이렉트 48",
+      "prodSmryDesc": "만 34세 이하 청년을 위한 T 다이렉트샵 전용 요금제",
+      "basFeeInfo": "48000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "160",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "50",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 5Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "160",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01165",
+          "prodFltNm": "만 34세 이하"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01142",
+          "prodFltNm": "4~5만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008158",
+      "prodNm": "0 청년 다이렉트 42",
+      "prodSmryDesc": "만 34세 이하 청년을 위한 T 다이렉트샵 전용 요금제",
+      "basFeeInfo": "42000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "36",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 1Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "36",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01165",
+          "prodFltNm": "만 34세 이하"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01142",
+          "prodFltNm": "4~5만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008160",
+      "prodNm": "0 청년 다이렉트 34",
+      "prodSmryDesc": "만 34세 이하 청년을 위한 T 다이렉트샵 전용 요금제",
+      "basFeeInfo": "34000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "15",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "15",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01165",
+          "prodFltNm": "만 34세 이하"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008285",
+      "prodNm": "0 청년 다이렉트 30",
+      "prodSmryDesc": "만 34세 이하 청년을 위한 T 다이렉트샵 전용 요금제",
+      "basFeeInfo": "30000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "8",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "300",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "8",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01165",
+          "prodFltNm": "만 34세 이하"
+        },
+        {
+          "prodFltId": "F01133",
+          "prodFltNm": "5~8GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00008075",
+      "prodNm": "마이투넘버",
+      "prodSmryDesc": "메인 회선의 데이터와 음성제공량을 공유해 사용할 수 있는 듀얼심단말 2nd 회선 전용 요금제",
+      "basFeeInfo": "8800",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "250",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0.244",
+      "prodFltList": [
+        {
+          "prodFltId": "F01124",
+          "prodFltNm": "태블릿/스마트 기기"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01131",
+          "prodFltNm": "~2GB"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00004761",
+      "prodNm": "LTE Watch(공유)",
+      "prodSmryDesc": "LTE Smart Watch 단말 전용 요금제 (공유형)",
+      "basFeeInfo": "12100",
+      "basOfrVcallTmsCtt": "50",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "250",
+      "selAgrmtAplyMfixAmt": "9075",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0.244",
+      "prodFltList": [
+        {
+          "prodFltId": "F01124",
+          "prodFltNm": "태블릿/스마트 기기"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        },
+        {
+          "prodFltId": "F01175",
+          "prodFltNm": "스마트 워치 요금제"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00005941",
+      "prodNm": "LTE Watch(공유II)",
+      "prodSmryDesc": "LTE Smart Watch 단말 전용 요금제 (공유II형)",
+      "basFeeInfo": "12100",
+      "basOfrVcallTmsCtt": "50",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "250",
+      "selAgrmtAplyMfixAmt": "9075",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0.244",
+      "prodFltList": [
+        {
+          "prodFltId": "F01124",
+          "prodFltNm": "태블릿/스마트 기기"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        },
+        {
+          "prodFltId": "F01175",
+          "prodFltNm": "스마트 워치 요금제"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00004997",
+      "prodNm": "LTE Watch(단독)",
+      "prodSmryDesc": "LTE Smart Watch 단말 전용 요금제 (단독가입형)",
+      "basFeeInfo": "12100",
+      "basOfrVcallTmsCtt": "50",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "250",
+      "selAgrmtAplyMfixAmt": "9075",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0.244",
+      "prodFltList": [
+        {
+          "prodFltId": "F01124",
+          "prodFltNm": "태블릿/스마트 기기"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        },
+        {
+          "prodFltId": "F01175",
+          "prodFltNm": "스마트 워치 요금제"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00006862",
+      "prodNm": "5G Tab 4GB(공유)",
+      "prodSmryDesc": "태블릿 전용 5G 요금제",
+      "basFeeInfo": "26000",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "4",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "19500",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "최대 1Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "4",
+      "prodFltList": [
+        {
+          "prodFltId": "F01124",
+          "prodFltNm": "태블릿/스마트 기기"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01132",
+          "prodFltNm": "2~5GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00006864",
+      "prodNm": "5G Tab 4GB(단독)",
+      "prodSmryDesc": "태블릿 전용 5G 요금제",
+      "basFeeInfo": "26000",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "4",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "19500",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "최대 1Mbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "4",
+      "prodFltList": [
+        {
+          "prodFltId": "F01124",
+          "prodFltNm": "태블릿/스마트 기기"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01132",
+          "prodFltNm": "2~5GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00005057",
+      "prodNm": "T Tab 9",
+      "prodSmryDesc": "별도의 요금 약정 가입 없이 저렴한 가격에 이용 가능한 LTE 태블릿 요금제",
+      "basFeeInfo": "9900",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "500",
+      "selAgrmtAplyMfixAmt": "7425",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0.488",
+      "prodFltList": [
+        {
+          "prodFltId": "F01124",
+          "prodFltNm": "태블릿/스마트 기기"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00005058",
+      "prodNm": "T Tab 18(공유)",
+      "prodSmryDesc": "내 마음대로 골라쓰는 무약정 태블릿 요금제(공유형)",
+      "basFeeInfo": "19800",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "1",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "14850",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "1",
+      "prodFltList": [
+        {
+          "prodFltId": "F01124",
+          "prodFltNm": "태블릿/스마트 기기"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00005069",
+      "prodNm": "T Tab 18",
+      "prodSmryDesc": "내 마음대로 골라쓰는 무약정 태블릿 요금제",
+      "basFeeInfo": "19800",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "1",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "14850",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "1",
+      "prodFltList": [
+        {
+          "prodFltId": "F01124",
+          "prodFltNm": "태블릿/스마트 기기"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00006548",
+      "prodNm": "태블릿 함께쓰기",
+      "prodSmryDesc": "스마트폰 데이터를 다른 스마트 기기와 함께 쓸 수 있는 요금제",
+      "basFeeInfo": "5000",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "함께쓰기",
+      "selAgrmtAplyMfixAmt": "3750",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "-2",
+      "prodFltList": [
+        {
+          "prodFltId": "F01124",
+          "prodFltNm": "태블릿/스마트 기기"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00006547",
+      "prodNm": "스마트폰 함께쓰기",
+      "prodSmryDesc": "스마트폰 데이터를 다른 스마트 기기와 함께 쓸 수 있는 요금제",
+      "basFeeInfo": "5000",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "함께쓰기",
+      "selAgrmtAplyMfixAmt": "3750",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "-2",
+      "prodFltList": [
+        {
+          "prodFltId": "F01124",
+          "prodFltNm": "태블릿/스마트 기기"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00006534",
+      "prodNm": "T플랜 세이브",
+      "prodSmryDesc": "음성·영상통화, 문자, 데이터를 이용할 수 있는 LTE 요금제",
+      "basFeeInfo": "33000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "1.5",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "24750",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "100",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "1.5",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01131",
+          "prodFltNm": "~2GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        },
+        {
+          "prodFltId": "F01152",
+          "prodFltNm": "집, 이동전화 무제한"
+        },
+        {
+          "prodFltId": "F01182",
+          "prodFltNm": "막강한 데이터와 콘텐츠 혜택, LTE 대표 요금제"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00007166",
+      "prodNm": "다이렉트LTE 22",
+      "prodSmryDesc": "약정없이 합리적인 월정액으로 가입 가능한 T 다이렉트 전용 요금제",
+      "basFeeInfo": "22000",
+      "basOfrVcallTmsCtt": "무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "1.8",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "100",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "1.8",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01131",
+          "prodFltNm": "~2GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        },
+        {
+          "prodFltId": "F01152",
+          "prodFltNm": "집, 이동전화 무제한"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00004837",
+      "prodNm": "T 포켓파이 20",
+      "prodSmryDesc": "최대 10Mbps의 속도로 무선 데이터를 사용하는 LTE-Wifi 서비스",
+      "basFeeInfo": "24750",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "20",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "20",
+      "prodFltList": [
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00004836",
+      "prodNm": "T 포켓파이 10",
+      "prodSmryDesc": "최대 10Mbps 속도로 무선 데이터를 사용할 수 있는 LTE-Wifi 서비스",
+      "basFeeInfo": "16500",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "10",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "10",
+      "prodFltList": [
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01134",
+          "prodFltNm": "8GB~"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00005362",
+      "prodNm": "손누리 3.0G",
+      "prodSmryDesc": "청각(언어)장애 고객을 위한 데이터 혜택이 강화된 무약정 요금제",
+      "basFeeInfo": "34650",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "3",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "25987",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "210",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "3",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01164",
+          "prodFltNm": "복지"
+        },
+        {
+          "prodFltId": "F01132",
+          "prodFltNm": "2~5GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00005365",
+      "prodNm": "소리누리 2.4G",
+      "prodSmryDesc": "시각장애 고객을 위한 음성혜택이 강화된 무약정 요금제",
+      "basFeeInfo": "34650",
+      "basOfrVcallTmsCtt": "상세 참고",
+      "basOfrCharCntCtt": "50",
+      "basOfrGbDataQtyCtt": "2.4",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "25987",
+      "shrDataQtyCtt": "0",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "2.4",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01164",
+          "prodFltNm": "복지"
+        },
+        {
+          "prodFltId": "F01132",
+          "prodFltNm": "2~5GB"
+        },
+        {
+          "prodFltId": "F01131",
+          "prodFltNm": "~2GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        },
+        {
+          "prodFltId": "F01151",
+          "prodFltNm": "T끼리 무제한"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00005361",
+      "prodNm": "손누리 1.5G",
+      "prodSmryDesc": "청각(언어)장애 고객을 위한 데이터 혜택이 강화된 무약정 요금제",
+      "basFeeInfo": "29700",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "1.5",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "22275",
+      "shrDataQtyCtt": "0",
+      "addTcCtt": "130",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "1.5",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01164",
+          "prodFltNm": "복지"
+        },
+        {
+          "prodFltId": "F01131",
+          "prodFltNm": "~2GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00005364",
+      "prodNm": "소리누리 1.2G",
+      "prodSmryDesc": "시각장애 고객을 위한 음성혜택이 강화된 무약정 요금제",
+      "basFeeInfo": "29700",
+      "basOfrVcallTmsCtt": "상세 참고",
+      "basOfrCharCntCtt": "50",
+      "basOfrGbDataQtyCtt": "1.2",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "22275",
+      "shrDataQtyCtt": "0",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "1.2",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01164",
+          "prodFltNm": "복지"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        },
+        {
+          "prodFltId": "F01151",
+          "prodFltNm": "T끼리 무제한"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00004891",
+      "prodNm": "ZEM플랜 스마트",
+      "prodSmryDesc": "만 12세 이하 어린이가 이용할 수 있는 스마트폰 요금제",
+      "basFeeInfo": "19800",
+      "basOfrVcallTmsCtt": "SK텔레콤 지정 2회선 무제한",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "1.5",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "14850",
+      "shrDataQtyCtt": "",
+      "addTcCtt": "60",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "1.5",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01166",
+          "prodFltNm": "만 12세 이하"
+        },
+        {
+          "prodFltId": "F01162",
+          "prodFltNm": "만 18세 이하"
+        },
+        {
+          "prodFltId": "F01131",
+          "prodFltNm": "~2GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        },
+        {
+          "prodFltId": "F01184",
+          "prodFltNm": "우리 아이를 위한 주니어 요금제"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00005479",
+      "prodNm": "뉴 T끼리 맞춤형(100분+250MB)",
+      "prodSmryDesc": "내 사용패턴에 맞게 데이터/음성을 이용하는 맞춤형 요금제",
+      "basFeeInfo": "27830",
+      "basOfrVcallTmsCtt": "상세 참고",
+      "basOfrCharCntCtt": "기본 제공",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "250",
+      "selAgrmtAplyMfixAmt": "20872",
+      "shrDataQtyCtt": "0",
+      "qosDataQtyCtt": "최대 400kbps",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0.244",
+      "prodFltList": [
+        {
+          "prodFltId": "F01713",
+          "prodFltNm": "5G"
+        },
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01131",
+          "prodFltNm": "~2GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        },
+        {
+          "prodFltId": "F01151",
+          "prodFltNm": "T끼리 무제한"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00005912",
+      "prodNm": "IoT 블랙박스 Basic",
+      "prodSmryDesc": "차량용 블랙박스에 SKT IoT 네트워크와 플랫폼을 연결하여 통신이 가능한 월정액 요금제",
+      "basFeeInfo": "1900",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "50",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0.048",
+      "prodFltList": [
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01131",
+          "prodFltNm": "~2GB"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00002200",
+      "prodNm": "표준요금제",
+      "prodSmryDesc": "일반적인 통화패턴의 이용고객을 위한 기본적인 요금제",
+      "basFeeInfo": "12100",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "50",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "9075",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0",
+      "prodFltList": [
+        {
+          "prodFltId": "F01121",
+          "prodFltNm": "LTE"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        },
+        {
+          "prodFltId": "F01141",
+          "prodFltNm": "~3만원대"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00004267",
+      "prodNm": "PPS스마트폰 프리미엄",
+      "prodSmryDesc": "PPS 스마트폰 요금제",
+      "basFeeInfo": "상세참조",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0",
+      "prodFltList": [
+        {
+          "prodFltId": "F01125",
+          "prodFltNm": "선불폰"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00004266",
+      "prodNm": "PPS스마트폰 레귤러",
+      "prodSmryDesc": "PPS 스마트폰 요금제",
+      "basFeeInfo": "상세참조",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0",
+      "prodFltList": [
+        {
+          "prodFltId": "F01125",
+          "prodFltNm": "선불폰"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00004265",
+      "prodNm": "PPS스마트폰 플러스",
+      "prodSmryDesc": "PPS 스마트폰 요금제",
+      "basFeeInfo": "상세참조",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0",
+      "prodFltList": [
+        {
+          "prodFltId": "F01125",
+          "prodFltNm": "선불폰"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00004264",
+      "prodNm": "PPS스마트폰 프랜즈",
+      "prodSmryDesc": "PPS 요금제",
+      "basFeeInfo": "상세참조",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0",
+      "prodFltList": [
+        {
+          "prodFltId": "F01125",
+          "prodFltNm": "선불폰"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00004263",
+      "prodNm": "PPS스마트폰 라이트",
+      "prodSmryDesc": "PPS 스마트폰 요금제",
+      "basFeeInfo": "상세참조",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0",
+      "prodFltList": [
+        {
+          "prodFltId": "F01125",
+          "prodFltNm": "선불폰"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00004252",
+      "prodNm": "PPS스마트폰 일반",
+      "prodSmryDesc": "PPS 스마트폰 요금제입니다.",
+      "basFeeInfo": "상세참조",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0",
+      "prodFltList": [
+        {
+          "prodFltId": "F01125",
+          "prodFltNm": "선불폰"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00003387",
+      "prodNm": "PPS프리미엄",
+      "prodSmryDesc": "기본료 500원/일, 음성통화료 2.3원/초인 선불요금제",
+      "basFeeInfo": "상세참조",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0",
+      "prodFltList": [
+        {
+          "prodFltId": "F01125",
+          "prodFltNm": "선불폰"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00003386",
+      "prodNm": "PPS레귤러",
+      "prodSmryDesc": "기본료 350원/일이고 음성통화료는 초당 2.7원인 선불요금제",
+      "basFeeInfo": "상세참조",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0",
+      "prodFltList": [
+        {
+          "prodFltId": "F01125",
+          "prodFltNm": "선불폰"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00002520",
+      "prodNm": "PPS플러스",
+      "prodSmryDesc": "266원의 일 기본료 부담으로 PPS일반요금제 대비 통화료 30% 할인",
+      "basFeeInfo": "상세참조",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0",
+      "prodFltList": [
+        {
+          "prodFltId": "F01125",
+          "prodFltNm": "선불폰"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00002519",
+      "prodNm": "PPS프랜즈",
+      "prodSmryDesc": "일 기본료 300원에 지정 3회선의 통화료가 PPS일반요금제 대비 50%",
+      "basFeeInfo": "상세참조",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0",
+      "prodFltList": [
+        {
+          "prodFltId": "F01125",
+          "prodFltNm": "선불폰"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00002518",
+      "prodNm": "PPS라이트",
+      "prodSmryDesc": "일 166원의 기본료를 내고 일반 선불폰 요금제보다 음성통화를 저렴하게 이용",
+      "basFeeInfo": "상세참조",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0",
+      "prodFltList": [
+        {
+          "prodFltId": "F01125",
+          "prodFltNm": "선불폰"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        }
+      ]
+    },
+    {
+      "prodId": "NA00002521",
+      "prodNm": "PPS일반요금제",
+      "prodSmryDesc": "PPS(선불이동전화서비스) 요금제 중 기본료가 없는 일반요금제",
+      "basFeeInfo": "상세참조",
+      "basOfrVcallTmsCtt": "",
+      "basOfrCharCntCtt": "",
+      "basOfrGbDataQtyCtt": "",
+      "basOfrMbDataQtyCtt": "",
+      "selAgrmtAplyMfixAmt": "0",
+      "shrDataQtyCtt": "",
+      "qosDataQtyCtt": "",
+      "fltCmprObjBasOfrGbDataQtyCtt": "0",
+      "prodFltList": [
+        {
+          "prodFltId": "F01125",
+          "prodFltNm": "선불폰"
+        },
+        {
+          "prodFltId": "F01161",
+          "prodFltNm": "나이 제한 없음"
+        }
+      ]
+    }
+  ]
+}
