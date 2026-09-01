@@ -23,6 +23,11 @@ describe('PlanSchema', () => {
   test('올바른 요금제를 받아들인다', () => {
     expect(() => PlanSchema.parse(valid)).not.toThrow()
   })
+  test('통합(5G/LTE) 요금제를 받아들인다', () => {
+    expect(() =>
+      PlanSchema.parse({ ...valid, id: 'kt-unified', generation: '5G/LTE' }),
+    ).not.toThrow()
+  })
   test('특가 요금제를 받아들인다', () => {
     expect(() =>
       PlanSchema.parse({

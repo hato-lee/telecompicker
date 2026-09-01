@@ -9,7 +9,7 @@ export const PlanSchema = z
     carrierType: z.enum(['mno', 'mvno']), // mno = 통신 3사, mvno = 알뜰폰
     network: z.enum(NETWORKS), // 쓰는 통신망
     name: z.string().min(1),
-    generation: z.enum(['5G', 'LTE']),
+    generation: z.enum(['5G', 'LTE', '5G/LTE']), // '5G/LTE' = 통합·겸용 (KT 통합요금제, SKT 베스트/라이트 — 2026-09-01 총괄 판정)
     monthlyFee: z.number().int().nonnegative(), // 제값(할인 없는 달의 월 요금, 원)
     promo: z
       .object({
