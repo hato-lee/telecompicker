@@ -15,6 +15,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=01",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: 신규 요금제 출시 / 분류: 완전 무제한 / 요금제 코드 10009"
@@ -35,6 +36,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=03",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 원문 문구: 음성/문자 무제한 / 분류: 음성 무제한 / 요금제 코드 10023"
@@ -55,6 +57,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=03",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 원문 문구: 음성/문자 무제한 / 분류: 음성 무제한 / 요금제 코드 10024"
@@ -75,6 +78,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=01",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 데이터 4GB 추가 제공 / 분류: 완전 무제한 / 요금제 코드 10041"
@@ -95,6 +99,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=05",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 5G 무제한 요금제 / 분류: 5G 요금제 / 요금제 코드 10045"
@@ -115,6 +120,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=01",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 데이터 4GB 추가 제공 / 분류: 완전 무제한 / 요금제 코드 10046"
@@ -135,6 +141,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=05",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 5G요금제 / 분류: 5G 요금제 / 요금제 코드 10260"
@@ -155,6 +162,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=05",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 5Mbps / 원문 문구: 5G요금제 / 분류: 5G 요금제 / 요금제 코드 10261"
@@ -175,6 +183,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=05",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 10Mbps / 원문 문구: 5G요금제 / 분류: 5G 요금제 / 요금제 코드 10262"
@@ -195,6 +204,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=01",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 모두기본데이터7GB+ / 분류: 완전 무제한 / 요금제 코드 10300"
@@ -215,6 +225,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: 배달의민족 제휴 / 분류: 제휴요금제 / 요금제 코드 10360"
@@ -235,6 +246,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: 요기요 제휴 / 분류: 제휴요금제 / 요금제 코드 10361"
@@ -255,6 +267,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=01",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 5Mbps / 원문 문구: 데이터 대용량 / 분류: 완전 무제한 / 요금제 코드 10400"
@@ -275,6 +288,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 신규 요금제 / 분류: 제휴요금제 / 요금제 코드 10460"
@@ -295,6 +309,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=01",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 신규요금제 / 분류: 완전 무제한 / 요금제 코드 10500"
@@ -315,6 +330,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=01",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 신규요금제 / 분류: 완전 무제한 / 요금제 코드 10501"
@@ -335,6 +351,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 5Mbps / 원문 문구: 블라이스 제휴 / 분류: 제휴요금제 / 요금제 코드 10520"
@@ -355,6 +372,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=02",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: . / 분류: 데이터 무제한 / 요금제 코드 10521"
@@ -375,6 +393,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=02",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: . / 분류: 데이터 무제한 / 요금제 코드 10524"
@@ -395,6 +414,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=05",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 5Mbps / 원문 문구: 5G 요금제 / 분류: 5G 요금제 / 요금제 코드 10525"
@@ -415,6 +435,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=05",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 5G 요금제 / 분류: 5G 요금제 / 요금제 코드 10526"
@@ -435,6 +456,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=05",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 5G 요금제 / 분류: 5G 요금제 / 요금제 코드 10540"
@@ -455,6 +477,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=05",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 5G 요금제 / 분류: 5G 요금제 / 요금제 코드 10541"
@@ -475,6 +498,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=05",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 5G 요금제 / 분류: 5G 요금제 / 요금제 코드 10542"
@@ -495,6 +519,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: 밀리의서재 제휴요금제 / 분류: 제휴요금제 / 요금제 코드 10561"
@@ -515,6 +540,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 밀리의서재 제휴요금제 / 분류: 제휴요금제 / 요금제 코드 10562"
@@ -535,6 +561,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 5Mbps / 원문 문구: 신규 제휴요금제 출시!! / 분류: 제휴요금제 / 요금제 코드 10740"
@@ -555,6 +582,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: 신규 제휴요금제 출시 / 분류: 제휴요금제 / 요금제 코드 10743"
@@ -575,6 +603,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: 신규 제휴요금제 출시 / 분류: 제휴요금제 / 요금제 코드 10744"
@@ -595,6 +624,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: 신규 제휴요금제 출시 / 분류: 제휴요금제 / 요금제 코드 10745"
@@ -615,6 +645,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: 신규 제휴요금제 출시 / 분류: 제휴요금제 / 요금제 코드 10746"
@@ -635,6 +666,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 1Mbps / 원문 문구: 신규 제휴요금제 출시 / 분류: 제휴요금제 / 요금제 코드 10747"
@@ -655,6 +687,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=01",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 5Mbps / 원문 문구: 매일 5GB씩 / 분류: 완전 무제한 / 요금제 코드 10421"
@@ -675,6 +708,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=01",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 5Mbps / 원문 문구: 매일5GB씩 / 분류: 완전 무제한 / 요금제 코드 10060"
@@ -695,6 +729,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=01",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: 기본제공량 소진시 일2GB 추가 / 분류: 완전 무제한 / 요금제 코드 10001"
@@ -715,6 +750,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: 신규 제휴요금제 출시 / 분류: 제휴요금제 / 요금제 코드 10742"
@@ -735,6 +771,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: 신규 제휴요금제 출시 / 분류: 제휴요금제 / 요금제 코드 10741"
@@ -755,6 +792,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: 밀리의서재 제휴요금제 / 분류: 제휴요금제 / 요금제 코드 10560"
@@ -775,6 +813,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.snowman.co.kr/portal/chageAdtnsvc/ppdChage/list?chageProdGroupDivCd=07",
   "checkedAt": "2026-09-01",
   "memo": "원문 목록은 「무약정」(engtMons=00)만 표시한다 — 기간 할인 표기가 없다 / 소진 후 속도제어: 최대 3Mbps / 원문 문구: 블라이스 제휴 / 분류: 제휴요금제 / 요금제 코드 10480"

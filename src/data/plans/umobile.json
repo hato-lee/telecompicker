@@ -15,6 +15,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=298",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,800원, 판매가 15,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(7+10)GB+1Mbps」 — 기본 7.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -35,6 +36,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=536",
   "checkedAt": "2026-09-01",
   "memo": "정가 41,400원, 판매가 17,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(7+10)GB+1Mbps」 — 기본 7.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -55,6 +57,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=27",
   "checkedAt": "2026-09-01",
   "memo": "정가 49,390원, 판매가 32,990원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「11GB+일2GB+10GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -75,6 +78,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=576",
   "checkedAt": "2026-09-01",
   "memo": "정가 26,000원, 판매가 8,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -95,6 +99,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=470",
   "checkedAt": "2026-09-01",
   "memo": "정가 46,600원, 판매가 38,200원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -115,6 +120,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=608",
   "checkedAt": "2026-09-01",
   "memo": "정가 44,000원, 판매가 16,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(15+10)GB+1Mbps」 — 기본 15.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -135,6 +141,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=300",
   "checkedAt": "2026-09-01",
   "memo": "정가 7,400원, 판매가 3,300원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -155,6 +162,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=358",
   "checkedAt": "2026-09-01",
   "memo": "정가 25,300원, 판매가 9,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -175,6 +183,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=197",
   "checkedAt": "2026-09-01",
   "memo": "정가 23,000원, 판매가 5,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -195,6 +204,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=163",
   "checkedAt": "2026-09-01",
   "memo": "정가 10,500원, 판매가 3,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -215,6 +225,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=200",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,000원, 판매가 9,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(6+10)GB」 — 기본 6.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -235,6 +246,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=241",
   "checkedAt": "2026-09-01",
   "memo": "정가 36,600원, 판매가 13,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(4.5+10)GB+1Mbps」 — 기본 4.5GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -255,6 +267,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=530",
   "checkedAt": "2026-09-01",
   "memo": "정가 13,000원, 판매가 4,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「미제공」 — 데이터 차단 요금제(dataGB 0)."
@@ -275,6 +288,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=452",
   "checkedAt": "2026-09-01",
   "memo": "정가 48,400원, 판매가 20,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(15+10)GB+1Mbps」 — 기본 15.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -295,6 +309,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=565",
   "checkedAt": "2026-09-01",
   "memo": "정가 25,400원, 판매가 8,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 이름은 YOUNG이지만 상세 유의사항에 나이 제한 문구가 없다 — 원문이 말하지 않아 담았다(총괄 판정 대기)."
@@ -315,6 +330,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=283",
   "checkedAt": "2026-09-01",
   "memo": "정가 24,200원, 판매가 7,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(5+10)GB」 — 기본 5.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -335,6 +351,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=282",
   "checkedAt": "2026-09-01",
   "memo": "정가 27,700원, 판매가 9,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(5+10)GB」 — 기본 5.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -355,6 +372,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=368",
   "checkedAt": "2026-09-01",
   "memo": "정가 32,400원, 판매가 9,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(10+10)GB」 — 기본 10.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -375,6 +393,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=280",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,200원, 판매가 12,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(10+10)GB」 — 기본 10.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -395,6 +414,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=616",
   "checkedAt": "2026-09-01",
   "memo": "정가 29,800원, 판매가 19,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(7+10)GB+1Mbps」 — 기본 7.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -415,6 +435,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=299",
   "checkedAt": "2026-09-01",
   "memo": "정가 33,500원, 판매가 7,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -435,6 +456,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=605",
   "checkedAt": "2026-09-01",
   "memo": "정가 28,400원, 판매가 18,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(7+10)GB+1Mbps」 — 기본 7.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -455,6 +477,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=281",
   "checkedAt": "2026-09-01",
   "memo": "정가 30,800원, 판매가 9,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(10+10)GB」 — 기본 10.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -475,6 +498,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=359",
   "checkedAt": "2026-09-01",
   "memo": "정가 17,800원, 판매가 7,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -495,6 +519,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=464",
   "checkedAt": "2026-09-01",
   "memo": "정가 23,800원, 판매가 6,000원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -515,6 +540,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=603",
   "checkedAt": "2026-09-01",
   "memo": "정가 43,890원, 판매가 33,990원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -535,6 +561,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=430",
   "checkedAt": "2026-09-01",
   "memo": "정가 53,000원, 판매가 40,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -555,6 +582,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=410",
   "checkedAt": "2026-09-01",
   "memo": "정가 41,950원, 판매가 18,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(10+10)GB+1Mbps」 — 기본 10.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -575,6 +603,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=591",
   "checkedAt": "2026-09-01",
   "memo": "정가 10,600원, 판매가 8,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문: 「본 요금제는 가입 익일부터 24개월 약정이 설정되며 약정 기간 내 해지 또는 요금제 변경 시 할인 반환금이 발생할 수 있습니다.」 — 24개월 약정 요금제."
@@ -595,6 +624,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=535",
   "checkedAt": "2026-09-01",
   "memo": "정가 50,000원, 판매가 21,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(15+10)GB+1Mbps」 — 기본 15.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -615,6 +645,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=203",
   "checkedAt": "2026-09-01",
   "memo": "정가 47,300원, 판매가 25,250원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -635,6 +666,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=604",
   "checkedAt": "2026-09-01",
   "memo": "정가 49,100원, 판매가 39,200원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -655,6 +687,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=278",
   "checkedAt": "2026-09-01",
   "memo": "정가 20,900원, 판매가 6,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -675,6 +708,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=198",
   "checkedAt": "2026-09-01",
   "memo": "정가 29,000원, 판매가 6,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -695,6 +729,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=607",
   "checkedAt": "2026-09-01",
   "memo": "정가 20,800원, 판매가 10,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -715,6 +750,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=463",
   "checkedAt": "2026-09-01",
   "memo": "정가 24,400원, 판매가 6,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -735,6 +771,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=347",
   "checkedAt": "2026-09-01",
   "memo": "정가 37,800원, 판매가 12,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(9+10)GB」 — 기본 9.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -755,6 +792,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=273",
   "checkedAt": "2026-09-01",
   "memo": "정가 55,000원, 판매가 27,450원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -775,6 +813,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=422",
   "checkedAt": "2026-09-01",
   "memo": "정가 23,500원, 판매가 11,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -795,6 +834,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=615",
   "checkedAt": "2026-09-01",
   "memo": "정가 28,200원, 판매가 18,300원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -815,6 +855,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=606",
   "checkedAt": "2026-09-01",
   "memo": "정가 26,800원, 판매가 16,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -835,6 +876,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=213",
   "checkedAt": "2026-09-01",
   "memo": "원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -855,6 +897,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=428",
   "checkedAt": "2026-09-01",
   "memo": "정가 50,000원, 판매가 37,850원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -875,6 +918,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=617",
   "checkedAt": "2026-09-01",
   "memo": "정가 45,290원, 판매가 35,390원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -895,6 +939,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=431",
   "checkedAt": "2026-09-01",
   "memo": "정가 54,500원, 판매가 42,100원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -915,6 +960,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=412",
   "checkedAt": "2026-09-01",
   "memo": "정가 37,000원, 판매가 13,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(15+10)GB」 — 기본 15.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -935,6 +981,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=429",
   "checkedAt": "2026-09-01",
   "memo": "정가 52,000원, 판매가 39,700원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -955,6 +1002,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=270",
   "checkedAt": "2026-09-01",
   "memo": "정가 58,700원, 판매가 47,300원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -975,6 +1023,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=189",
   "checkedAt": "2026-09-01",
   "memo": "정가 61,900원, 판매가 50,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -995,6 +1044,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=589",
   "checkedAt": "2026-09-01",
   "memo": "정가 11,000원, 판매가 8,800원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문: 「본 요금제는 가입 익일부터 24개월 약정이 설정되며 약정 기간 내 해지 또는 요금제 변경 시 할인 반환금이 발생할 수 있습니다.」 — 24개월 약정 요금제."
@@ -1015,6 +1065,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=558",
   "checkedAt": "2026-09-01",
   "memo": "정가 47,600원, 판매가 39,200원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 이름은 YOUNG이지만 상세 유의사항에 나이 제한 문구가 없다 — 원문이 말하지 않아 담았다(총괄 판정 대기)."
@@ -1035,6 +1086,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=533",
   "checkedAt": "2026-09-01",
   "memo": "정가 42,600원, 판매가 33,010원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1055,6 +1107,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=594",
   "checkedAt": "2026-09-01",
   "memo": "정가 40,400원, 판매가 38,200원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문: 「본 요금제는 가입 익일부터 24개월 약정이 설정되며 약정 기간 내 해지 또는 요금제 변경 시 할인 반환금이 발생할 수 있습니다.」 — 24개월 약정 요금제."
@@ -1075,6 +1128,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=609",
   "checkedAt": "2026-09-01",
   "memo": "정가 40,000원, 판매가 14,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(15+10)GB」 — 기본 15.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -1095,6 +1149,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=237",
   "checkedAt": "2026-09-01",
   "memo": "정가 48,900원, 판매가 26,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1115,6 +1170,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=240",
   "checkedAt": "2026-09-01",
   "memo": "정가 28,200원, 판매가 12,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1135,6 +1191,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=596",
   "checkedAt": "2026-09-01",
   "memo": "정가 18,100원, 판매가 15,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문: 「본 요금제는 가입 익일부터 24개월 약정이 설정되며 약정 기간 내 해지 또는 요금제 변경 시 할인 반환금이 발생할 수 있습니다.」 — 24개월 약정 요금제."
@@ -1155,6 +1212,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=560",
   "checkedAt": "2026-09-01",
   "memo": "정가 26,300원, 판매가 10,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 이름은 YOUNG이지만 상세 유의사항에 나이 제한 문구가 없다 — 원문이 말하지 않아 담았다(총괄 판정 대기)."
@@ -1175,6 +1233,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=559",
   "checkedAt": "2026-09-01",
   "memo": "정가 50,390원, 판매가 33,990원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 이름은 YOUNG이지만 상세 유의사항에 나이 제한 문구가 없다 — 원문이 말하지 않아 담았다(총괄 판정 대기). / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -1195,6 +1254,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=566",
   "checkedAt": "2026-09-01",
   "memo": "정가 43,550원, 판매가 19,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(10+10)GB+1Mbps」 — 기본 10.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -1215,6 +1275,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=545",
   "checkedAt": "2026-09-01",
   "memo": "정가 50,000원, 판매가 22,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1235,6 +1296,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=416",
   "checkedAt": "2026-09-01",
   "memo": "정가 48,300원, 판매가 36,650원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1255,6 +1317,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=462",
   "checkedAt": "2026-09-01",
   "memo": "정가 25,300원, 판매가 7,800원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1275,6 +1338,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=355",
   "checkedAt": "2026-09-01",
   "memo": "정가 22,500원, 판매가 9,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1295,6 +1359,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=443",
   "checkedAt": "2026-09-01",
   "memo": "정가 26,000원, 판매가 9,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1315,6 +1380,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=276",
   "checkedAt": "2026-09-01",
   "memo": "정가 27,500원, 판매가 10,120원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1335,6 +1401,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=595",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,190원, 판매가 32,990원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문: 「본 요금제는 가입 익일부터 24개월 약정이 설정되며 약정 기간 내 해지 또는 요금제 변경 시 할인 반환금이 발생할 수 있습니다.」 — 24개월 약정 요금제. / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -1355,6 +1422,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=619",
   "checkedAt": "2026-09-01",
   "memo": "정가 53,200원, 판매가 43,300원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1375,6 +1443,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=563",
   "checkedAt": "2026-09-01",
   "memo": "정가 36,000원, 판매가 10,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 이름은 YOUNG이지만 상세 유의사항에 나이 제한 문구가 없다 — 원문이 말하지 않아 담았다(총괄 판정 대기)."
@@ -1395,6 +1464,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=475",
   "checkedAt": "2026-09-01"
  },
@@ -1414,6 +1484,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=478",
   "checkedAt": "2026-09-01"
  },
@@ -1433,6 +1504,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=477",
   "checkedAt": "2026-09-01"
  },
@@ -1452,6 +1524,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=538",
   "checkedAt": "2026-09-01",
   "memo": "정가 50,390원, 판매가 33,990원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -1472,6 +1545,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=590",
   "checkedAt": "2026-09-01",
   "memo": "정가 15,000원, 판매가 12,800원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문: 「본 요금제는 가입 익일부터 24개월 약정이 설정되며 약정 기간 내 해지 또는 요금제 변경 시 할인 반환금이 발생할 수 있습니다.」 — 24개월 약정 요금제."
@@ -1492,6 +1566,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=561",
   "checkedAt": "2026-09-01",
   "memo": "정가 56,000원, 판매가 28,450원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 이름은 YOUNG이지만 상세 유의사항에 나이 제한 문구가 없다 — 원문이 말하지 않아 담았다(총괄 판정 대기)."
@@ -1512,6 +1587,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=562",
   "checkedAt": "2026-09-01",
   "memo": "정가 38,800원, 판매가 13,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 이름은 YOUNG이지만 상세 유의사항에 나이 제한 문구가 없다 — 원문이 말하지 않아 담았다(총괄 판정 대기)."
@@ -1532,6 +1608,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=564",
   "checkedAt": "2026-09-01",
   "memo": "정가 51,000원, 판매가 38,850원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 이름은 YOUNG이지만 상세 유의사항에 나이 제한 문구가 없다 — 원문이 말하지 않아 담았다(총괄 판정 대기)."
@@ -1552,6 +1629,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=521",
   "checkedAt": "2026-09-01",
   "memo": "정가 47,510원, 판매가 39,700원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1572,6 +1650,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=523",
   "checkedAt": "2026-09-01",
   "memo": "정가 49,400원, 판매가 22,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1592,6 +1671,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=526",
   "checkedAt": "2026-09-01",
   "memo": "정가 26,300원, 판매가 11,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1612,6 +1692,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=522",
   "checkedAt": "2026-09-01",
   "memo": "정가 49,390원, 판매가 34,490원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -1632,6 +1713,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=552",
   "checkedAt": "2026-09-01",
   "memo": "정가 42,950원, 판매가 19,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1652,6 +1734,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=547",
   "checkedAt": "2026-09-01",
   "memo": "정가 51,550원, 판매가 26,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(15+10)GB+3Mbps」 — 기본 15.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -1672,6 +1755,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=495",
   "checkedAt": "2026-09-01",
   "memo": "정가 49,000원, 판매가 22,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1692,6 +1776,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=497",
   "checkedAt": "2026-09-01",
   "memo": "정가 26,000원, 판매가 11,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1712,6 +1797,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=498",
   "checkedAt": "2026-09-01",
   "memo": "정가 36,000원, 판매가 14,000원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1732,6 +1818,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=532",
   "checkedAt": "2026-09-01",
   "memo": "정가 47,900원, 판매가 39,490원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1752,6 +1839,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=544",
   "checkedAt": "2026-09-01",
   "memo": "정가 26,900원, 판매가 11,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1772,6 +1860,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=543",
   "checkedAt": "2026-09-01",
   "memo": "정가 38,200원, 판매가 15,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1792,6 +1881,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=542",
   "checkedAt": "2026-09-01",
   "memo": "정가 51,000원, 판매가 34,600원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -1812,6 +1902,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=476",
   "checkedAt": "2026-09-01"
  },
@@ -1831,6 +1922,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=579",
   "checkedAt": "2026-09-01",
   "memo": "정가 52,800원, 판매가 29,300원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(15+10)GB+3Mbps」 — 기본 15.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -1851,6 +1943,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=578",
   "checkedAt": "2026-09-01",
   "memo": "정가 58,790원, 판매가 35,300원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -1871,6 +1964,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=580",
   "checkedAt": "2026-09-01",
   "memo": "정가 32,800원, 판매가 13,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1891,6 +1985,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=537",
   "checkedAt": "2026-09-01",
   "memo": "정가 47,600원, 판매가 39,200원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1911,6 +2006,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=539",
   "checkedAt": "2026-09-01",
   "memo": "정가 49,400원, 판매가 21,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1931,6 +2027,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=541",
   "checkedAt": "2026-09-01",
   "memo": "정가 26,300원, 판매가 10,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1951,6 +2048,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=540",
   "checkedAt": "2026-09-01",
   "memo": "정가 40,800원, 판매가 16,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1971,6 +2069,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=620",
   "checkedAt": "2026-09-01",
   "memo": "정가 59,600원, 판매가 49,700원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -1991,6 +2090,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=524",
   "checkedAt": "2026-09-01",
   "memo": "정가 42,950원, 판매가 20,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -2011,6 +2111,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=525",
   "checkedAt": "2026-09-01",
   "memo": "정가 36,600원, 판매가 15,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -2031,6 +2132,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=554",
   "checkedAt": "2026-09-01",
   "memo": "정가 48,300원, 판매가 25,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -2051,6 +2153,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=572",
   "checkedAt": "2026-09-01",
   "memo": "정가 43,300원, 판매가 19,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(7+10)GB+1Mbps」 — 기본 7.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -2071,6 +2174,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=557",
   "checkedAt": "2026-09-01",
   "memo": "정가 26,300원, 판매가 10,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -2091,6 +2195,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=571",
   "checkedAt": "2026-09-01",
   "memo": "정가 51,900원, 판매가 23,800원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(15+10)GB+1Mbps」 — 기본 15.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -2111,6 +2216,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=555",
   "checkedAt": "2026-09-01",
   "memo": "정가 24,500원, 판매가 12,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -2131,6 +2237,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=556",
   "checkedAt": "2026-09-01",
   "memo": "정가 50,390원, 판매가 33,990원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -2151,6 +2258,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=570",
   "checkedAt": "2026-09-01",
   "memo": "정가 51,290원, 판매가 35,190원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -2171,6 +2279,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=575",
   "checkedAt": "2026-09-01",
   "memo": "정가 26,300원, 판매가 10,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -2191,6 +2300,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=573",
   "checkedAt": "2026-09-01",
   "memo": "정가 41,700원, 판매가 17,800원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -2211,6 +2321,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=494",
   "checkedAt": "2026-09-01",
   "memo": "정가 50,000원, 판매가 34,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -2231,6 +2342,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=496",
   "checkedAt": "2026-09-01",
   "memo": "정가 40,000원, 판매가 17,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -2251,6 +2363,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=499",
   "checkedAt": "2026-09-01",
   "memo": "정가 28,000원, 판매가 12,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -2271,6 +2384,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=584",
   "checkedAt": "2026-09-01",
   "memo": "정가 52,600원, 판매가 40,700원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -2291,6 +2405,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=586",
   "checkedAt": "2026-09-01",
   "memo": "정가 36,700원, 판매가 24,000원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「(15+10)GB+1Mbps」 — 기본 15.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -2311,6 +2426,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=585",
   "checkedAt": "2026-09-01",
   "memo": "정가 47,400원, 판매가 35,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -2331,6 +2447,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=587",
   "checkedAt": "2026-09-01",
   "memo": "정가 30,300원, 판매가 18,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -2351,6 +2468,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=315",
   "checkedAt": "2026-09-01",
   "memo": "정가 49,390원, 판매가 34,300원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -2371,6 +2489,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=316",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,800원, 판매가 17,200원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -2391,6 +2510,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=546",
   "checkedAt": "2026-09-01",
   "memo": "정가 41,400원, 판매가 17,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능."
@@ -2411,6 +2531,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=614",
   "checkedAt": "2026-09-01",
   "memo": "정가 55,900원, 판매가 33,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로). / 원문 데이터 표기 「(7+10)GB+3Mbps」 — 기본 7.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -2431,6 +2552,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=346",
   "checkedAt": "2026-09-01",
   "memo": "정가 32,000원, 판매가 25,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로). / 원문 데이터 표기 「(5+10)GB」 — 기본 5.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -2451,6 +2573,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=291",
   "checkedAt": "2026-09-01",
   "memo": "정가 29,000원, 판매가 23,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로). / 원문 데이터 표기 「(5+10)GB」 — 기본 5.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -2471,6 +2594,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=461",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2491,6 +2615,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=290",
   "checkedAt": "2026-09-01",
   "memo": "정가 34,000원, 판매가 28,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로). / 원문 데이터 표기 「(10+10)GB」 — 기본 10.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -2511,6 +2636,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=292",
   "checkedAt": "2026-09-01",
   "memo": "정가 21,000원, 판매가 19,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2531,6 +2657,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=11",
   "checkedAt": "2026-09-01",
   "memo": "정가 60,390원, 판매가 49,000원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로). / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -2551,6 +2678,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=362",
   "checkedAt": "2026-09-01",
   "memo": "정가 20,900원, 판매가 19,000원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2571,6 +2699,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=345",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,000원, 판매가 30,200원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로). / 원문 데이터 표기 「(10+10)GB」 — 기본 10.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -2591,6 +2720,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=365",
   "checkedAt": "2026-09-01",
   "memo": "정가 25,900원, 판매가 22,600원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2611,6 +2741,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=548",
   "checkedAt": "2026-09-01",
   "memo": "정가 50,000원, 판매가 40,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로). / 원문 데이터 표기 「(15+10)GB+1Mbps」 — 기본 15.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -2631,6 +2762,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=534",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2651,6 +2783,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=550",
   "checkedAt": "2026-09-01",
   "memo": "정가 40,000원, 판매가 28,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2671,6 +2804,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=364",
   "checkedAt": "2026-09-01",
   "memo": "정가 32,900원, 판매가 26,300원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2691,6 +2825,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=361",
   "checkedAt": "2026-09-01",
   "memo": "정가 29,900원, 판매가 23,300원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2711,6 +2846,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=360",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,900원, 판매가 33,000원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2731,6 +2867,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=549",
   "checkedAt": "2026-09-01",
   "memo": "정가 41,400원, 판매가 34,900원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로). / 원문 데이터 표기 「(7+10)GB+1Mbps」 — 기본 7.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -2751,6 +2888,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=118",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2771,6 +2909,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=440",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2791,6 +2930,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=417",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2811,6 +2951,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=437",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2831,6 +2972,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=438",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2851,6 +2993,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=439",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2871,6 +3014,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=288",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2891,6 +3035,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=303",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2911,6 +3056,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=257",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2931,6 +3077,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=460",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2951,6 +3098,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=112",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2971,6 +3119,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=459",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -2991,6 +3140,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=531",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로). / 원문 데이터 표기 「미제공」 — 데이터 차단 요금제(dataGB 0)."
@@ -3011,6 +3161,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=121",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -3031,6 +3182,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=120",
   "checkedAt": "2026-09-01",
   "memo": "U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -3051,6 +3203,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=600",
   "checkedAt": "2026-09-01",
   "memo": "정가 47,300원, 판매가 37,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로). / 원문 데이터 표기 「(7+10)GB+1Mbps」 — 기본 7.0GB + 기간한정 추가 10.0GB. 추가분은 기간이 한정(원문 「[기간 한정 프로모션] 24개월 동안 매월 데이터 10GB 추가 제공」)이라 dataGB에 담지 않았다."
@@ -3071,6 +3224,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=602",
   "checkedAt": "2026-09-01",
   "memo": "정가 37,300원, 판매가 27,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -3091,6 +3245,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=601",
   "checkedAt": "2026-09-01",
   "memo": "정가 41,300원, 판매가 31,400원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로)."
@@ -3111,6 +3266,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=599",
   "checkedAt": "2026-09-01",
   "memo": "정가 61,400원, 판매가 51,500원 — 「평생 할인은 기본」(페이지 머리말). 상시 변동 가능. / U+유모바일 「휴대폰」 탭 요금제(기기 구매 가입 경로). / 원문 데이터 표기 「11GB+일2GB+3Mbps」 — 기본 제공량 소진 뒤 일 단위 추가 제공분은 담지 못했다(스키마에 그릇 없음). / 일 단위 추가분 라운드2 총괄 보정: 원문 pln-spc=11GB+일2GB+3Mbps"
@@ -3131,6 +3287,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=178",
   "checkedAt": "2026-09-01",
   "memo": "목록 카드 pln-spc 원문 표기 「일5GB+5Mbps」 — 월 기본 제공량 없이 매일 5GB만 주는 구조라 dataGB=0, dailyDataGB=5로 담았다(게이트 2 결정 2026-09-01). 정가(data-bscChrgAddVat) 45,900원, 판매가(data-discntAddVat) 38,200원을 monthlyFee로 담았다(「평생 할인은 기본」, U+유모바일 특가 판정 총괄 규칙). 원문에 살아있는 할인 기간(N개월) 문구 없음. 통화·문자 기본제공(무제한). 「인터넷 결합이 가능한 요금제」 문구가 있으나 결합이 필수 조건은 아니다(선택 혜택, 이번 범위 밖)."
@@ -3151,6 +3308,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=577",
   "checkedAt": "2026-09-01",
   "memo": "목록 카드 pln-spc 원문 표기 「일5GB+5Mbps」(카드 이름의 「150GB+」는 정렬용 대리값 data-ofrDataVal이며 원문 실제 제공량이 아니다 — 함정 문서 경고와 동일 패턴) — dataGB=0, dailyDataGB=5로 담았다. 정가 64,000원, 판매가 40,500원을 monthlyFee로 담았다(평생 할인). 부가 혜택 「매월 GS25 5천원 상품권(24개월)」은 별도 값이라 memo에만 남긴다. 통화·문자 기본제공."
@@ -3171,6 +3329,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=319",
   "checkedAt": "2026-09-01",
   "memo": "목록 카드 pln-spc 원문 표기 「일5GB+5Mbps」 — dataGB=0, dailyDataGB=5로 담았다. 정가=판매가 65,900원(할인 없음). 휴대폰(단말 등록) 채널 요금제이나 다른 36개 [휴대폰] 요금제와 같은 방식으로 담았다(단말값·결합 자체는 이번 범위 밖). 통화·문자 기본제공."
@@ -3191,6 +3350,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": 18,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=492",
   "checkedAt": "2026-09-01",
   "memo": "상세 원문 유의사항 인용: 「※ 만 18세 이하 개인 고객만 가입 가능한 틴에이저 전용 요금제 (25년 기준, 2006년 이후 출생 고객만 가입 가능)」 — ageMax=18로 담았다. 정가 25,400원, 판매가 8,900원을 monthlyFee로 담았다(평생 할인). 통화·문자 기본제공."
@@ -3211,6 +3371,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": 18,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=491",
   "checkedAt": "2026-09-01",
   "memo": "상세 원문 유의사항 인용: 「※ 만 18세 이하 개인 고객만 가입 가능한 틴에이저 전용 요금제 (25년 기준, 2006년 이후 출생 고객만 가입 가능)」 — ageMax=18로 담았다. 정가 32,700원, 판매가 12,900원을 monthlyFee로 담았다(평생 할인). 통화·문자 기본제공."
@@ -3231,6 +3392,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": 18,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=493",
   "checkedAt": "2026-09-01",
   "memo": "상세 원문 유의사항 인용: 「※ 만 18세 이하 개인 고객만 가입 가능한 틴에이저 전용 요금제 (25년 기준, 2006년 이후 출생 고객만 가입 가능)」 — ageMax=18로 담았다. 정가 17,900원, 판매가 6,900원을 monthlyFee로 담았다(평생 할인). 통화 100분, 문자 100건."
@@ -3251,6 +3413,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=245",
   "checkedAt": "2026-09-01",
   "memo": "목록 카드 배지 이미지 alt=\"bg_만65세\" + 상세 「이용조건 65세 이상 가입 가능 (1인1회선 한정)」을 근거로 ageMin=65로 담았다(본문은 「만」자가 빠져 있으나 배지가 「만65세」로 명시). 정가 9,300원, 판매가 3,900원을 monthlyFee로 담았다(평생 할인). 통화 100분, 문자 100건. 별도로 「교보다솜케어 건강상담(24개월)」 혜택이 있으나 요금 산정과 무관해 담지 않았다."
@@ -3271,6 +3434,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=489",
   "checkedAt": "2026-09-01",
   "memo": "목록 카드 배지 이미지 alt=\"bg_만65세\" + 상세 「이용조건 65세 이상 가입 가능 (1인1회선 한정)」을 근거로 ageMin=65로 담았다. 정가 19,000원, 판매가 6,900원을 monthlyFee로 담았다(평생 할인). 통화·문자 기본제공."
@@ -3291,6 +3455,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=490",
   "checkedAt": "2026-09-01",
   "memo": "목록 카드 배지 이미지 alt=\"bg_만65세\" + 상세 「이용조건 65세 이상 가입 가능 (1인1회선 한정)」을 근거로 ageMin=65로 담았다. 정가 22,100원, 판매가 8,900원을 monthlyFee로 담았다(평생 할인). 통화·문자 기본제공."
@@ -3311,6 +3476,7 @@
   "smsIncluded": true,
   "ageMin": 19,
   "ageMax": 29,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=272",
   "checkedAt": "2026-09-01",
   "memo": "상세 원문 유의사항 인용: 「본 요금제는 만 19세 이상부터 만 29세 이하만 가입이 가능합니다. (단, 가입 후 기준 나이를 초과하더라도 계속 이용 가능)」 — ageMin=19, ageMax=29로 담았다. 정가 55,000원, 판매가 27,450원을 monthlyFee로 담았다(평생 할인). 통화 300분, 문자 300건. ⚠️ 같은 「이십세」이름의 다른 4개 요금제(10GB+/500분·1GB+/통화기본·4.5GB+/통화기본·7GB+/통화기본)는 상세 원문 전체를 뒤져도 나이 제한 문구가 전혀 없어 이번에도 담지 않았다(원문 README의 「YOUNG」 판례와 동일 논리)."
@@ -3331,6 +3497,7 @@
   "smsIncluded": true,
   "ageMin": 19,
   "ageMax": 29,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=003&seq=253",
   "checkedAt": "2026-09-01",
   "memo": "상세 원문 유의사항 인용: 「본 요금제는 만 19세 이상부터 만 29세 이하만 가입이 가능합니다. (단, 가입 후 기준 나이를 초과하더라도 계속 이용 가능)」 — ageMin=19, ageMax=29로 담았다. 목록 카드 pln-spc 원문 표기 「11GB+일2GB+3Mbps」 — 기본 11GB + 매일 2GB 구조라 dataGB=11, dailyDataGB=2로 담았다(연령 전용과 일 단위가 겹치는 유일한 사례). 정가 49,390원, 판매가 33,900원을 monthlyFee로 담았다(평생 할인). 통화·문자 기본제공. data-ofrDataVal=71.0은 정렬용 대리값이라 쓰지 않았다."
@@ -3351,6 +3518,7 @@
   "smsIncluded": true,
   "ageMin": 4,
   "ageMax": 18,
+  "variantOf": null,
   "sourceUrl": "https://www.uplusumobile.com/product/pric/pricDetail?devKdCd=001&seq=90",
   "checkedAt": "2026-09-01",
   "memo": "상세 원문 유의사항 인용: 「이용조건 만 4세 이상, 만 18세 이하만 가입 가능 (1인 1회선 한정)」 — ageMin=4, ageMax=18로 담았다. 정가=판매가 32,890원(할인 없음). 데이터 750MB, 통화·문자 기본제공. 데이터 소진 시 최대 400kbps로 계속 사용 가능(원문 「최대 400kbp는 데이터 소진 시 카카오톡 텍스트 위주로 이용해요」). ⚠️ 이름·조건이 비슷한 [휴대폰] 「갤럭시틴즈」 3종(10GB+/1GB+/6GB+, 동일한 「만 4세 이상, 만 18세 이하」 문구)은 이름 자체가 특정 단말(갤럭시) 결합을 시사해 기기 조건이 섞인 것으로 보고 담지 않았다 — 총괄 지시에 따른 제외."

@@ -15,6 +15,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=370&rateAdsvcCd=PL235Q981",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,200원, 프로모션 요금 16,300원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 밀리의 서재 무료 구독 혜택 포함(외국인 국내인증 불가자·법인 제외)"
@@ -35,6 +36,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=376&rateAdsvcCd=PL236M153",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,600원, 프로모션 요금 19,000원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 밀리의 서재 무료 구독 혜택 포함(외국인 국내인증 불가자·법인 제외)"
@@ -55,6 +57,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=460&rateAdsvcCd=PL253A831",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,200원, 프로모션 요금 15,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -75,6 +78,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=468&rateAdsvcCd=PL234L649",
   "checkedAt": "2026-09-01",
   "memo": "정가 48,400원, 프로모션 요금 20,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -95,6 +99,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=467&rateAdsvcCd=PL21CM690",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,600원, 프로모션 요금 18,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -115,6 +120,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=490&rateAdsvcCd=PL2543169",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,600원, 프로모션 요금 21,200원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 네이버페이 포인트 적립 혜택 포함"
@@ -135,6 +141,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=491&rateAdsvcCd=PL2552581",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,600원, 프로모션 요금 21,700원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 지니뮤직 g포인트 적립 혜택 포함"
@@ -155,6 +162,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=512&rateAdsvcCd=PL259C341",
   "checkedAt": "2026-09-01",
   "memo": "정가 48,400원, 프로모션 요금 21,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 모아진 매거진 구독 혜택 포함"
@@ -175,6 +183,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=511&rateAdsvcCd=PL259C340",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,600원, 프로모션 요금 18,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 모아진 매거진 구독 혜택 포함"
@@ -195,6 +204,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=510&rateAdsvcCd=PL259C339",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,200원, 프로모션 요금 16,200원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 모아진 매거진 구독 혜택 포함"
@@ -215,6 +225,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=517&rateAdsvcCd=PL2595298",
   "checkedAt": "2026-09-01",
   "memo": "정가 66,000원, 프로모션 요금 41,700원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 지니뮤직 g포인트 적립 혜택 포함"
@@ -235,6 +246,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=516&rateAdsvcCd=PL2543167",
   "checkedAt": "2026-09-01",
   "memo": "정가 66,000원, 프로모션 요금 41,700원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 올리브영 모바일상품권 포인트 혜택 포함"
@@ -255,6 +267,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=515&rateAdsvcCd=PL2543168",
   "checkedAt": "2026-09-01",
   "memo": "정가 66,000원, 프로모션 요금 41,700원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 다이소 모바일상품권 포인트 혜택 포함"
@@ -275,6 +288,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=485&rateAdsvcCd=PL2565747",
   "checkedAt": "2026-09-01",
   "memo": "정가 66,000원, 프로모션 요금 38,200원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 모아진 매거진 구독 혜택 포함"
@@ -295,6 +309,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=532&rateAdsvcCd=PL259Q389",
   "checkedAt": "2026-09-01",
   "memo": "정가 48,400원, 프로모션 요금 22,200원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 밀리의 서재+후후 더블팩 혜택 포함"
@@ -315,6 +330,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=530&rateAdsvcCd=PL259Q388",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,600원, 프로모션 요금 19,700원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 밀리의 서재+후후 더블팩 혜택 포함"
@@ -335,6 +351,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=531&rateAdsvcCd=PL259Q386",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,200원, 프로모션 요금 17,000원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 밀리의 서재+후후 더블팩 혜택 포함"
@@ -355,6 +372,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=533&rateAdsvcCd=PL2635398",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,200원, 프로모션 요금 18,500원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 쿠팡캐시 적립 혜택 포함"
@@ -375,6 +393,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=536&rateAdsvcCd=PL2635400",
   "checkedAt": "2026-09-01",
   "memo": "정가 48,400원, 프로모션 요금 23,700원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 쿠팡캐시 적립 혜택 포함"
@@ -395,6 +414,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=535&rateAdsvcCd=PL2635399",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,600원, 프로모션 요금 21,200원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 쿠팡캐시 적립 혜택 포함"
@@ -415,6 +435,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=538&rateAdsvcCd=PL2634385",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,200원, 프로모션 요금 16,700원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. CU 결제 할인 혜택 포함"
@@ -435,6 +456,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=546&rateAdsvcCd=PL2635402",
   "checkedAt": "2026-09-01",
   "memo": "정가 66,000원, 프로모션 요금 40,500원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 쿠팡캐시 적립 혜택 포함"
@@ -455,6 +477,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=544&rateAdsvcCd=PL2635409",
   "checkedAt": "2026-09-01",
   "memo": "정가 66,000원, 프로모션 요금 40,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 웨이브 베이직(광고형) 무료 이용 혜택 포함"
@@ -475,6 +498,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=541&rateAdsvcCd=PL2635407",
   "checkedAt": "2026-09-01",
   "memo": "정가 48,400원, 프로모션 요금 23,200원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 웨이브 베이직(광고형) 무료 이용 혜택 포함"
@@ -495,6 +519,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=540&rateAdsvcCd=PL2635406",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,600원, 프로모션 요금 20,700원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 웨이브 베이직(광고형) 무료 이용 혜택 포함"
@@ -515,6 +540,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=539&rateAdsvcCd=PL2635405",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,200원, 프로모션 요금 18,000원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 웨이브 베이직(광고형) 무료 이용 혜택 포함"
@@ -535,6 +561,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=377&rateAdsvcCd=PL236M150",
   "checkedAt": "2026-09-01",
   "memo": "정가 48,400원, 프로모션 요금 21,500원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 밀리의 서재 무료 구독 혜택 포함(외국인 국내인증 불가자·법인 제외)"
@@ -555,6 +582,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=372&rateAdsvcCd=PL235Q972",
   "checkedAt": "2026-09-01",
   "memo": "정가 66,000원, 프로모션 요금 38,300원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 밀리의 서재 무료 구독 혜택 포함(외국인 국내인증 불가자·법인 제외)"
@@ -575,6 +603,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=448&rateAdsvcCd=PL247U554",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,600원, 프로모션 요금 19,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. CU 결제 할인 혜택 포함"
@@ -595,6 +624,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=430&rateAdsvcCd=PL245O249",
   "checkedAt": "2026-09-01",
   "memo": "정가 48,400원, 프로모션 요금 21,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. CU 결제 할인 혜택 포함"
@@ -615,6 +645,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=432&rateAdsvcCd=PL244N950",
   "checkedAt": "2026-09-01",
   "memo": "정가 66,000원, 프로모션 요금 38,200원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. CU 결제 할인 혜택 포함"
@@ -635,6 +666,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=10&rateAdsvcGdncSeq=9&rateAdsvcCd=PL208J932",
   "checkedAt": "2026-09-01",
   "memo": "정가 27,500원, 프로모션 요금 6,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -655,6 +687,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=10&rateAdsvcGdncSeq=10&rateAdsvcCd=PL208J933",
   "checkedAt": "2026-09-01",
   "memo": "정가 30,800원, 프로모션 요금 7,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -675,6 +708,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=10&rateAdsvcGdncSeq=265&rateAdsvcCd=PL222N233",
   "checkedAt": "2026-09-01",
   "memo": "정가 33,000원, 프로모션 요금 9,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -695,6 +729,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=10&rateAdsvcGdncSeq=266&rateAdsvcCd=PL222N234",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,000원, 프로모션 요금 11,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -715,6 +750,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=10&rateAdsvcGdncSeq=267&rateAdsvcCd=PL222N235",
   "checkedAt": "2026-09-01",
   "memo": "정가 37,000원, 프로모션 요금 12,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -735,6 +771,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=10&rateAdsvcGdncSeq=412&rateAdsvcCd=PL227J333",
   "checkedAt": "2026-09-01",
   "memo": "정가 40,000원, 프로모션 요금 14,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -755,6 +792,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=10&rateAdsvcGdncSeq=441&rateAdsvcCd=PL227J334",
   "checkedAt": "2026-09-01",
   "memo": "정가 43,000원, 프로모션 요금 16,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -775,6 +813,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=10&rateAdsvcGdncSeq=549&rateAdsvcCd=PL2615967",
   "checkedAt": "2026-09-01",
   "memo": "정가 46,000원, 프로모션 요금 18,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -795,6 +834,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=10&rateAdsvcGdncSeq=550&rateAdsvcCd=PL23AH863",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,600원, 프로모션 요금 20,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -815,6 +855,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=163&rateAdsvcGdncSeq=480&rateAdsvcCd=PL256N805",
   "checkedAt": "2026-09-01",
   "memo": "정가 30,000원, 프로모션 요금 13,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -835,6 +876,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=163&rateAdsvcGdncSeq=479&rateAdsvcCd=PL256N806",
   "checkedAt": "2026-09-01",
   "memo": "정가 33,000원, 프로모션 요금 16,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -855,6 +897,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=163&rateAdsvcGdncSeq=486&rateAdsvcCd=PL2574880",
   "checkedAt": "2026-09-01",
   "memo": "정가 36,000원, 프로모션 요금 18,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -875,6 +918,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=163&rateAdsvcGdncSeq=496&rateAdsvcCd=PL2543138",
   "checkedAt": "2026-09-01",
   "memo": "정가 27,000원, 프로모션 요금 12,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -895,6 +939,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=163&rateAdsvcGdncSeq=495&rateAdsvcCd=PL2543137",
   "checkedAt": "2026-09-01",
   "memo": "정가 25,000원, 프로모션 요금 11,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -915,6 +960,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=11&rateAdsvcGdncSeq=548&rateAdsvcCd=PL249N779",
   "checkedAt": "2026-09-01",
   "memo": "정가 40,000원, 프로모션 요금 16,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -935,6 +981,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=11&rateAdsvcGdncSeq=12&rateAdsvcCd=LTEVCFL25",
   "checkedAt": "2026-09-01",
   "memo": "정가 43,500원, 프로모션 요금 5,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -955,6 +1002,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=11&rateAdsvcGdncSeq=13&rateAdsvcCd=LTEVCFL45",
   "checkedAt": "2026-09-01",
   "memo": "정가 47,500원, 프로모션 요금 6,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -975,6 +1023,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=11&rateAdsvcGdncSeq=14&rateAdsvcCd=PL207R824",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,000원, 프로모션 요금 8,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -995,6 +1044,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=11&rateAdsvcGdncSeq=207&rateAdsvcCd=PL21CL644",
   "checkedAt": "2026-09-01",
   "memo": "정가 26,400원, 프로모션 요금 10,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1015,6 +1065,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=11&rateAdsvcGdncSeq=208&rateAdsvcCd=PL21CL645",
   "checkedAt": "2026-09-01",
   "memo": "정가 31,900원, 프로모션 요금 12,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1035,6 +1086,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=11&rateAdsvcGdncSeq=413&rateAdsvcCd=PL21CL646",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,200원, 프로모션 요금 14,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1055,6 +1107,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=14&rateAdsvcGdncSeq=30&rateAdsvcCd=PL212H918",
   "checkedAt": "2026-09-01",
   "memo": "정가 15,400원, 프로모션 요금 2,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1075,6 +1128,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=14&rateAdsvcGdncSeq=421&rateAdsvcCd=PL241F509",
   "checkedAt": "2026-09-01",
   "memo": "정가 18,500원, 프로모션 요금 3,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1095,6 +1149,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=14&rateAdsvcGdncSeq=422&rateAdsvcCd=PL241F510",
   "checkedAt": "2026-09-01",
   "memo": "정가 20,500원, 프로모션 요금 4,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1115,6 +1170,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=158&rateAdsvcGdncSeq=452&rateAdsvcCd=PL247N504",
   "checkedAt": "2026-09-01",
   "memo": "정가 24,000원, 프로모션 요금 6,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1135,6 +1191,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=158&rateAdsvcGdncSeq=451&rateAdsvcCd=PL247N506",
   "checkedAt": "2026-09-01",
   "memo": "정가 26,000원, 프로모션 요금 7,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1155,6 +1212,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=158&rateAdsvcGdncSeq=450&rateAdsvcCd=PL247N507",
   "checkedAt": "2026-09-01",
   "memo": "정가 28,000원, 프로모션 요금 8,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1175,6 +1233,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=158&rateAdsvcGdncSeq=449&rateAdsvcCd=PL247N508",
   "checkedAt": "2026-09-01",
   "memo": "정가 30,000원, 프로모션 요금 11,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1195,6 +1254,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=158&rateAdsvcGdncSeq=453&rateAdsvcCd=PL248N666",
   "checkedAt": "2026-09-01",
   "memo": "정가 33,000원, 프로모션 요금 13,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1215,6 +1275,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=158&rateAdsvcGdncSeq=547&rateAdsvcCd=PL249N777",
   "checkedAt": "2026-09-01",
   "memo": "정가 36,000원, 프로모션 요금 15,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1235,6 +1296,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=12&rateAdsvcGdncSeq=378&rateAdsvcCd=PL236N158",
   "checkedAt": "2026-09-01",
   "memo": "정가 47,300원, 프로모션 요금 25,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 밀리의 서재 무료 구독 혜택 포함(외국인 국내인증 불가자·법인 제외)"
@@ -1255,6 +1317,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=12&rateAdsvcGdncSeq=428&rateAdsvcCd=PL244N957",
   "checkedAt": "2026-09-01",
   "memo": "정가 47,300원, 프로모션 요금 25,300원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. CU 결제 할인 혜택 포함"
@@ -1275,6 +1338,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=12&rateAdsvcGdncSeq=429&rateAdsvcCd=PL245O253",
   "checkedAt": "2026-09-01",
   "memo": "정가 55,000원, 프로모션 요금 27,500원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. CU 결제 할인 혜택 포함"
@@ -1295,6 +1359,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=12&rateAdsvcGdncSeq=209&rateAdsvcCd=PL213Q207",
   "checkedAt": "2026-09-01",
   "memo": "정가 55,000원, 프로모션 요금 27,500원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1315,6 +1380,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=12&rateAdsvcGdncSeq=489&rateAdsvcCd=PL2543166",
   "checkedAt": "2026-09-01",
   "memo": "정가 56,100원, 프로모션 요금 27,600원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 다이소 모바일상품권 포인트 혜택 포함"
@@ -1335,6 +1401,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=12&rateAdsvcGdncSeq=492&rateAdsvcCd=PL2543165",
   "checkedAt": "2026-09-01",
   "memo": "정가 56,100원, 프로모션 요금 27,600원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 올리브영 모바일상품권 포인트 혜택 포함"
@@ -1355,6 +1422,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=12&rateAdsvcGdncSeq=487&rateAdsvcCd=PL2543139",
   "checkedAt": "2026-09-01",
   "memo": "정가 60,500원, 프로모션 요금 29,800원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 올리브영 모바일상품권 포인트 혜택 포함"
@@ -1375,6 +1443,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=12&rateAdsvcGdncSeq=488&rateAdsvcCd=PL2543136",
   "checkedAt": "2026-09-01",
   "memo": "정가 60,500원, 프로모션 요금 29,800원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 다이소 모바일상품권 포인트 혜택 포함"
@@ -1395,6 +1464,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=133&rateAdsvcGdncSeq=334&rateAdsvcCd=PL219G979",
   "checkedAt": "2026-09-01",
   "memo": "정가 36,000원, 프로모션 요금 12,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1415,6 +1485,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=133&rateAdsvcGdncSeq=335&rateAdsvcCd=PL219G980",
   "checkedAt": "2026-09-01",
   "memo": "정가 39,000원, 프로모션 요금 13,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1435,6 +1506,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=133&rateAdsvcGdncSeq=336&rateAdsvcCd=PL22BP539",
   "checkedAt": "2026-09-01",
   "memo": "정가 42,000원, 프로모션 요금 14,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1455,6 +1527,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=133&rateAdsvcGdncSeq=337&rateAdsvcCd=PL22BP542",
   "checkedAt": "2026-09-01",
   "memo": "정가 46,000원, 프로모션 요금 17,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1475,6 +1548,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=133&rateAdsvcGdncSeq=338&rateAdsvcCd=PL22BP541",
   "checkedAt": "2026-09-01",
   "memo": "정가 50,000원, 프로모션 요금 19,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1495,6 +1569,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=133&rateAdsvcGdncSeq=553&rateAdsvcCd=PL231P980",
   "checkedAt": "2026-09-01",
   "memo": "정가 55,000원, 프로모션 요금 22,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1515,6 +1590,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=69&rateAdsvcCd=M5GSLIMPP",
   "checkedAt": "2026-09-01",
   "memo": "정가 55,000원, 프로모션 요금 32,000원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1535,6 +1611,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=339&rateAdsvcCd=PL231V999",
   "checkedAt": "2026-09-01",
   "memo": "정가 61,000원, 프로모션 요금 36,700원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1555,6 +1632,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=373&rateAdsvcCd=PL234L658",
   "checkedAt": "2026-09-01",
   "memo": "정가 63,000원, 프로모션 요금 37,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1575,6 +1653,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=410&rateAdsvcCd=PL238P570",
   "checkedAt": "2026-09-01",
   "memo": "정가 64,000원, 프로모션 요금 39,100원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 밀리의 서재 무료 구독 혜택 포함(외국인 국내인증 불가자·법인 제외)"
@@ -1595,6 +1674,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=411&rateAdsvcCd=PL238P564",
   "checkedAt": "2026-09-01",
   "memo": "정가 66,000원, 프로모션 요금 40,300원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 밀리의 서재 무료 구독 혜택 포함(외국인 국내인증 불가자·법인 제외)"
@@ -1615,6 +1695,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=408&rateAdsvcCd=PL238P559",
   "checkedAt": "2026-09-01",
   "memo": "정가 69,000원, 프로모션 요금 41,500원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 밀리의 서재 무료 구독 혜택 포함(외국인 국내인증 불가자·법인 제외)"
@@ -1635,6 +1716,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=409&rateAdsvcCd=PL238P555",
   "checkedAt": "2026-09-01",
   "memo": "정가 77,000원, 프로모션 요금 47,700원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 밀리의 서재 무료 구독 혜택 포함(외국인 국내인증 불가자·법인 제외)"
@@ -1655,6 +1737,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=297&rateAdsvcCd=PL228Q684",
   "checkedAt": "2026-09-01",
   "memo": "정가 57,000원, 프로모션 요금 44,200원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 지니뮤직 g포인트 적립 혜택 포함"
@@ -1675,6 +1758,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=298&rateAdsvcCd=PL228Q688",
   "checkedAt": "2026-09-01",
   "memo": "정가 79,000원, 프로모션 요금 50,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 지니뮤직 g포인트 적립 혜택 포함"
@@ -1695,6 +1779,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=521&rateAdsvcCd=PL25C4809",
   "checkedAt": "2026-09-01",
   "memo": "정가 65,000원, 프로모션 요금 40,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 올리브영 모바일상품권 포인트 혜택 포함"
@@ -1715,6 +1800,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=522&rateAdsvcCd=PL25C4808",
   "checkedAt": "2026-09-01",
   "memo": "정가 65,000원, 프로모션 요금 40,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 다이소 모바일상품권 포인트 혜택 포함"
@@ -1735,6 +1821,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=520&rateAdsvcCd=PL25C4807",
   "checkedAt": "2026-09-01",
   "memo": "정가 65,000원, 프로모션 요금 40,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 네이버페이 포인트 적립 혜택 포함"
@@ -1755,6 +1842,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=524&rateAdsvcCd=PL25C4812",
   "checkedAt": "2026-09-01",
   "memo": "정가 66,000원, 프로모션 요금 41,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 올리브영 모바일상품권 포인트 혜택 포함"
@@ -1775,6 +1863,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=525&rateAdsvcCd=PL25C4811",
   "checkedAt": "2026-09-01",
   "memo": "정가 66,000원, 프로모션 요금 41,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 다이소 모바일상품권 포인트 혜택 포함"
@@ -1795,6 +1884,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=21&rateAdsvcGdncSeq=523&rateAdsvcCd=PL25C4810",
   "checkedAt": "2026-09-01",
   "memo": "정가 66,000원, 프로모션 요금 41,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 네이버페이 포인트 적립 혜택 포함"
@@ -1815,6 +1905,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=123&rateAdsvcGdncSeq=293&rateAdsvcCd=PL227J328",
   "checkedAt": "2026-09-01",
   "memo": "정가 20,000원, 프로모션 요금 5,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1835,6 +1926,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=123&rateAdsvcGdncSeq=294&rateAdsvcCd=PL222N230",
   "checkedAt": "2026-09-01",
   "memo": "정가 24,000원, 프로모션 요금 7,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1855,6 +1947,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=123&rateAdsvcGdncSeq=295&rateAdsvcCd=PL222N231",
   "checkedAt": "2026-09-01",
   "memo": "정가 30,000원, 프로모션 요금 9,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1875,6 +1968,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=123&rateAdsvcGdncSeq=296&rateAdsvcCd=PL228Q703",
   "checkedAt": "2026-09-01",
   "memo": "정가 36,000원, 프로모션 요금 12,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1895,6 +1989,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=123&rateAdsvcGdncSeq=330&rateAdsvcCd=PL22BP536",
   "checkedAt": "2026-09-01",
   "memo": "정가 40,000원, 프로모션 요금 14,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1915,6 +2010,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=123&rateAdsvcGdncSeq=551&rateAdsvcCd=PL231P981",
   "checkedAt": "2026-09-01",
   "memo": "정가 48,000원, 프로모션 요금 16,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1935,6 +2031,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=122&rateAdsvcGdncSeq=289&rateAdsvcCd=PL226S984",
   "checkedAt": "2026-09-01",
   "memo": "정가 28,000원, 프로모션 요금 6,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1955,6 +2052,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=122&rateAdsvcGdncSeq=290&rateAdsvcCd=PL221L939",
   "checkedAt": "2026-09-01",
   "memo": "정가 33,000원, 프로모션 요금 9,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1975,6 +2073,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=122&rateAdsvcGdncSeq=291&rateAdsvcCd=PL221L940",
   "checkedAt": "2026-09-01",
   "memo": "정가 42,000원, 프로모션 요금 11,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -1995,6 +2094,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=122&rateAdsvcGdncSeq=292&rateAdsvcCd=PL226S993",
   "checkedAt": "2026-09-01",
   "memo": "정가 44,000원, 프로모션 요금 13,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -2015,6 +2115,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=122&rateAdsvcGdncSeq=329&rateAdsvcCd=PL22BP535",
   "checkedAt": "2026-09-01",
   "memo": "정가 46,000원, 프로모션 요금 15,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -2035,6 +2136,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=122&rateAdsvcGdncSeq=552&rateAdsvcCd=PL231P978",
   "checkedAt": "2026-09-01",
   "memo": "정가 50,000원, 프로모션 요금 17,400원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능."
@@ -2055,6 +2157,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=168&rateAdsvcGdncSeq=406&rateAdsvcCd=PL238P571",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,200원, 프로모션 요금 18,500원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 네이버페이 포인트 적립 혜택 포함"
@@ -2075,6 +2178,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=168&rateAdsvcGdncSeq=473&rateAdsvcCd=PL2543170",
   "checkedAt": "2026-09-01",
   "memo": "정가 48,400원, 프로모션 요금 23,700원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 네이버페이 포인트 적립 혜택 포함"
@@ -2095,6 +2199,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=514&rateAdsvcCd=PL2543174",
   "checkedAt": "2026-09-01",
   "memo": "정가 51,000원, 프로모션 요금 35,600원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 원문 데이터 표기 「11GB+일2GB+최대3Mbps」 — 월 기본 11GB에 매일 2GB가 추가로 주어진다(dailyDataGB). 올리브영 모바일상품권 포인트 혜택 포함"
@@ -2115,6 +2220,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=513&rateAdsvcCd=PL2543175",
   "checkedAt": "2026-09-01",
   "memo": "정가 51,000원, 프로모션 요금 35,600원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 원문 데이터 표기 「11GB+일2GB+최대3Mbps」 — 월 기본 11GB에 매일 2GB가 추가로 주어진다(dailyDataGB). 다이소 모바일상품권 포인트 혜택 포함"
@@ -2135,6 +2241,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=518&rateAdsvcCd=PL2565746",
   "checkedAt": "2026-09-01",
   "memo": "정가 51,000원, 프로모션 요금 33,000원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 원문 데이터 표기 「11GB+일2GB+최대3Mbps」 — 월 기본 11GB에 매일 2GB가 추가로 주어진다(dailyDataGB). 모아진 매거진 구독 혜택 포함"
@@ -2155,6 +2262,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=545&rateAdsvcCd=PL2635401",
   "checkedAt": "2026-09-01",
   "memo": "정가 51,000원, 프로모션 요금 35,300원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 원문 데이터 표기 「11GB+일2GB+최대3Mbps」 — 월 기본 11GB에 매일 2GB가 추가로 주어진다(dailyDataGB). 쿠팡캐시 적립 혜택 포함"
@@ -2175,6 +2283,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=543&rateAdsvcCd=PL2635408",
   "checkedAt": "2026-09-01",
   "memo": "정가 51,000원, 프로모션 요금 35,200원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 원문 데이터 표기 「11GB+일2GB+최대3Mbps」 — 월 기본 11GB에 매일 2GB가 추가로 주어진다(dailyDataGB). 웨이브 베이직(광고형) 무료 이용 혜택 포함"
@@ -2195,6 +2304,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=371&rateAdsvcCd=PL233R494",
   "checkedAt": "2026-09-01",
   "memo": "정가 51,000원, 프로모션 요금 33,100원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 원문 데이터 표기 「11GB+일2GB+최대3Mbps」 — 월 기본 11GB에 매일 2GB가 추가로 주어진다(dailyDataGB). 밀리의 서재 무료 구독 혜택 포함(외국인 국내인증 불가자·법인 제외)"
@@ -2215,6 +2325,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=431&rateAdsvcCd=PL244N953",
   "checkedAt": "2026-09-01",
   "memo": "정가 51,000원, 프로모션 요금 33,000원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 원문 데이터 표기 「11GB+일2GB+최대3Mbps」 — 월 기본 11GB에 매일 2GB가 추가로 주어진다(dailyDataGB). CU 결제 할인 혜택 포함"
@@ -2235,6 +2346,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=9&rateAdsvcGdncSeq=420&rateAdsvcCd=PL242G635",
   "checkedAt": "2026-09-01",
   "memo": "정가 66,000원, 프로모션 요금 38,200원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 원문 데이터 표기 「일5GB+최대5Mbps」 — 월 기본 제공량은 없고 매일 5GB만 준다(dataGB=0, dailyDataGB=5)."
@@ -2255,6 +2367,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=17&rateAdsvcGdncSeq=51&rateAdsvcCd=PL203D127",
   "checkedAt": "2026-09-01",
   "memo": "정가 28,000원, 프로모션 요금 5,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 상세 팝업 원문 「만 65세 이상 개인 고객만 가입 가능한 시니어 전용 요금제」."
@@ -2275,6 +2388,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=17&rateAdsvcGdncSeq=52&rateAdsvcCd=PL203D126",
   "checkedAt": "2026-09-01",
   "memo": "정가 35,000원, 프로모션 요금 6,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 상세 팝업 원문 「만 65세 이상 개인 고객만 가입 가능한 시니어 전용 요금제」."
@@ -2295,6 +2409,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=17&rateAdsvcGdncSeq=210&rateAdsvcCd=PL21CM684",
   "checkedAt": "2026-09-01",
   "memo": "정가 24,000원, 프로모션 요금 7,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 상세 팝업 원문 「만 65세 이상 개인 고객만 가입 가능한 시니어 전용 요금제」."
@@ -2315,6 +2430,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=17&rateAdsvcGdncSeq=276&rateAdsvcCd=PL225K720",
   "checkedAt": "2026-09-01",
   "memo": "정가 25,000원, 프로모션 요금 6,500원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 상세 팝업 원문 「만 65세 이상 개인 고객만 가입 가능한 시니어 전용 요금제」. 후후 보이스피싱 차단 서비스 제공."
@@ -2335,6 +2451,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=17&rateAdsvcGdncSeq=327&rateAdsvcCd=PL22BP533",
   "checkedAt": "2026-09-01",
   "memo": "정가 27,000원, 프로모션 요금 7,500원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 상세 팝업 원문 「만 65세 이상 개인 고객만 가입 가능한 시니어 전용 요금제」. 후후 보이스피싱 차단 서비스 제공."
@@ -2355,6 +2472,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=17&rateAdsvcGdncSeq=277&rateAdsvcCd=PL225K721",
   "checkedAt": "2026-09-01",
   "memo": "정가 28,000원, 프로모션 요금 8,500원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 상세 팝업 원문 「만 65세 이상 개인 고객만 가입 가능한 시니어 전용 요금제」. 후후 보이스피싱 차단 서비스 제공."
@@ -2375,6 +2493,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=17&rateAdsvcGdncSeq=328&rateAdsvcCd=PL22BP534",
   "checkedAt": "2026-09-01",
   "memo": "정가 30,000원, 프로모션 요금 12,500원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 상세 팝업 원문 「만 65세 이상 개인 고객만 가입 가능한 시니어 전용 요금제」. 후후 보이스피싱 차단 서비스 제공."
@@ -2395,6 +2514,7 @@
   "smsIncluded": true,
   "ageMin": 4,
   "ageMax": 12,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=117&rateAdsvcGdncSeq=247&rateAdsvcCd=PL221L933",
   "checkedAt": "2026-09-01",
   "memo": "정가 20,000원, 프로모션 요금 5,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 상세 팝업 원문 「만 4세 ~ 만12세 개인 고객만 가입 가능한 키즈 전용 요금제(만 13세가 되는 날의 익월 1일 '모두다 맘껏 안심 2.5GB+' 요금제로 자동 전환)」."
@@ -2415,6 +2535,7 @@
   "smsIncluded": true,
   "ageMin": 4,
   "ageMax": 12,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=117&rateAdsvcGdncSeq=248&rateAdsvcCd=PL221L934",
   "checkedAt": "2026-09-01",
   "memo": "정가 22,000원, 프로모션 요금 6,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 상세 팝업 원문 「만 4세 ~ 만12세 개인 고객만 가입 가능한 키즈 전용 요금제(만 13세가 되는 날의 익월 1일 '모두다 맘껏 안심 4.5GB+' 요금제로 자동 전환)」."
@@ -2435,6 +2556,7 @@
   "smsIncluded": true,
   "ageMin": 4,
   "ageMax": 12,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=117&rateAdsvcGdncSeq=249&rateAdsvcCd=PL221L935",
   "checkedAt": "2026-09-01",
   "memo": "정가 28,000원, 프로모션 요금 10,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 상세 팝업 원문 「만 4세 ~ 만12세 개인 고객만 가입 가능한 키즈 전용 요금제(만 13세가 되는 날의 익월 1일 '모두다 맘껏 안심 4.5GB+' 요금제로 자동 전환)」."
@@ -2455,6 +2577,7 @@
   "smsIncluded": true,
   "ageMin": 4,
   "ageMax": 12,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=117&rateAdsvcGdncSeq=250&rateAdsvcCd=PL221L936",
   "checkedAt": "2026-09-01",
   "memo": "정가 30,000원, 프로모션 요금 11,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 상세 팝업 원문 「만 4세 ~ 만12세 개인 고객만 가입 가능한 키즈 전용 요금제(만 13세가 되는 날의 익월 1일 '모두다 맘껏 안심 4.5GB+' 요금제로 자동 전환)」."
@@ -2475,6 +2598,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": 19,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=18&rateAdsvcGdncSeq=457&rateAdsvcCd=PL24BR138",
   "checkedAt": "2026-09-01",
   "memo": "정가 20,900원, 프로모션 요금 5,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 상세 팝업 원문 「만 19세 미만 개인 고객만 가입 가능한 청소년 전용 요금제(만 19세가 되는 날의 익월 1일 '모두다 맘껏 안심+' 요금제로 자동 전환)」."
@@ -2495,6 +2619,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": 19,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=18&rateAdsvcGdncSeq=53&rateAdsvcCd=PL215K412",
   "checkedAt": "2026-09-01",
   "memo": "정가 32,000원, 프로모션 요금 14,300원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 상세 팝업 원문 「만19세 이하 개인 고객만 가입 가능한 청소년 전용 요금제(만 20세가 되는 날의 익월 1일 '모두다 맘껏 7.0GB+' 요금제로 자동 전환)」."
@@ -2515,6 +2640,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.ktmmobile.com/rate/rateLayer.do?rateAdsvcCtgCd=17&rateAdsvcGdncSeq=211&rateAdsvcCd=PL21CM685",
   "checkedAt": "2026-09-01",
   "memo": "정가 30,000원, 프로모션 요금 11,900원 — 「월정액은 실제 개통 시점의 판매가로 적용」(상세 유의사항). 상시 변동 가능. 나이 근거: 카테고리 원문 「만 65세 이상 시니어 고객님을 위한 전용 요금제」 인용(총괄 판정 2026-09-01) — 상세 팝업엔 자매 요금제와 달리 나이 문구가 빠져 있음(표기 누락 추정). 안전한 쪽(65세 미만에게 안 권함)으로 담음."

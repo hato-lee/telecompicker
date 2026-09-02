@@ -15,6 +15,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000190."
@@ -35,6 +36,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000303."
@@ -55,6 +57,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000387."
@@ -75,6 +78,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000030."
@@ -95,6 +99,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000191."
@@ -115,6 +120,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000232."
@@ -135,6 +141,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000233."
@@ -155,6 +162,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000388."
@@ -175,6 +183,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000231."
@@ -195,6 +204,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 100분(스키마에 그릇 없음). 원문 요금제코드 PDLB000198."
@@ -215,6 +225,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000199."
@@ -235,6 +246,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000200."
@@ -255,6 +267,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000270."
@@ -275,6 +288,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000266."
@@ -295,6 +309,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000267."
@@ -315,6 +330,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000268."
@@ -335,6 +351,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000269."
@@ -355,6 +372,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000377."
@@ -375,6 +393,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000376."
@@ -395,6 +414,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000395."
@@ -415,6 +435,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000394."
@@ -435,6 +456,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000393."
@@ -455,6 +477,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000391."
@@ -475,6 +498,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄에 「+일 2GB」 추가 제공이 더 있으나 담지 않았다 — 스키마에 일 단위 그릇이 없다(DECIDED 2026-09-01). 원문 분류 딱지 「혜택 요금제」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000392. / 일 단위 추가분 라운드2 총괄 보정: 원문 dedicatedDailyOfferValue=2GB(일)"
@@ -495,6 +519,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000215."
@@ -515,6 +540,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000174."
@@ -535,6 +561,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 원문 요금제코드 PDLB000060."
@@ -555,6 +582,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 원문 요금제코드 PDLB000301."
@@ -575,6 +603,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 원문 요금제코드 PDLB000302."
@@ -595,6 +624,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000266."
@@ -615,6 +645,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000216."
@@ -635,6 +666,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000052."
@@ -655,6 +687,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000217."
@@ -675,6 +708,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000177."
@@ -695,6 +729,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000218."
@@ -715,6 +750,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000159."
@@ -735,6 +771,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000050."
@@ -755,6 +792,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000123."
@@ -775,6 +813,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000054."
@@ -795,6 +834,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000158."
@@ -815,6 +855,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 200분(스키마에 그릇 없음). 원문 요금제코드 PDB0000131."
@@ -835,6 +876,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 200분(스키마에 그릇 없음). 원문 요금제코드 PDB0000132."
@@ -855,6 +897,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000338."
@@ -875,6 +918,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄에 「+일 2GB」 추가 제공이 더 있으나 담지 않았다 — 스키마에 일 단위 그릇이 없다(DECIDED 2026-09-01). 원문 분류 딱지 「혜택 요금제」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000340. / 일 단위 추가분 라운드2 총괄 보정: 원문 dedicatedDailyOfferValue=2GB(일)"
@@ -895,6 +939,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 원문 요금제코드 PDLB000341."
@@ -915,6 +960,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000339."
@@ -935,6 +981,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000337."
@@ -955,6 +1002,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000330."
@@ -975,6 +1023,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄에 「+일 2GB」 추가 제공이 더 있으나 담지 않았다 — 스키마에 일 단위 그릇이 없다(DECIDED 2026-09-01). 원문 분류 딱지 「혜택 요금제」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000332. / 일 단위 추가분 라운드2 총괄 보정: 원문 dedicatedDailyOfferValue=2GB(일)"
@@ -995,6 +1044,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 원문 요금제코드 PDLB000333."
@@ -1015,6 +1065,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000331."
@@ -1039,6 +1090,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「7개월간 추가할인 프로모션이 적용될 경우, 신규가입에 한 해 적용되며 요금제 변경 시 제외됩니다.」 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 110분(스키마에 그릇 없음). 원문 요금제코드 PDLB000334."
@@ -1059,6 +1111,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000329."
@@ -1079,6 +1132,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000198."
@@ -1099,6 +1153,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000061."
@@ -1119,6 +1174,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000194."
@@ -1139,6 +1195,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000196."
@@ -1159,6 +1216,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000273."
@@ -1179,6 +1237,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000216."
@@ -1199,6 +1258,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000264."
@@ -1219,6 +1279,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000315."
@@ -1239,6 +1300,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄에 「+일 2GB」 추가 제공이 더 있으나 담지 않았다 — 스키마에 일 단위 그릇이 없다(DECIDED 2026-09-01). 원문 분류 딱지 「혜택 요금제」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000317. / 일 단위 추가분 라운드2 총괄 보정: 원문 dedicatedDailyOfferValue=2GB(일)"
@@ -1259,6 +1321,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 원문 요금제코드 PDLB000318."
@@ -1279,6 +1342,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000316."
@@ -1299,6 +1363,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000314."
@@ -1319,6 +1384,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDB0000260."
@@ -1339,6 +1405,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000372."
@@ -1359,6 +1426,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000255."
@@ -1379,6 +1447,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000293."
@@ -1403,6 +1472,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「7개월간 추가할인 프로모션이 적용될 경우, 신규가입에 한 해 적용되며 요금제 변경 시 제외됩니다.」 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 110분(스키마에 그릇 없음). 원문 요금제코드 PDLB000212."
@@ -1423,6 +1493,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 150분(스키마에 그릇 없음). 원문 요금제코드 PDB0000265."
@@ -1443,6 +1514,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 110분(스키마에 그릇 없음). 원문 요금제코드 PDLB000119."
@@ -1463,6 +1535,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDB0000261."
@@ -1483,6 +1556,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000178."
@@ -1503,6 +1577,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000213."
@@ -1523,6 +1598,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000214."
@@ -1543,6 +1619,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDB0000279."
@@ -1563,6 +1640,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000179."
@@ -1583,6 +1661,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000408."
@@ -1603,6 +1682,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000407."
@@ -1623,6 +1703,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄에 「+일 2GB」 추가 제공이 더 있으나 담지 않았다 — 스키마에 일 단위 그릇이 없다(DECIDED 2026-09-01). 원문 분류 딱지 「혜택 요금제」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000406. / 일 단위 추가분 라운드2 총괄 보정: 원문 dedicatedDailyOfferValue=2GB(일)"
@@ -1647,6 +1728,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「7개월간 추가할인 프로모션이 적용될 경우, 신규가입에 한 해 적용되며 요금제 변경 시 제외됩니다.」 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 110분(스키마에 그릇 없음). 원문 요금제코드 PDLB000404."
@@ -1667,6 +1749,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000405."
@@ -1687,6 +1770,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄에 「+일 2GB」 추가 제공이 더 있으나 담지 않았다 — 스키마에 일 단위 그릇이 없다(DECIDED 2026-09-01). 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000411. / 일 단위 추가분 라운드2 총괄 보정: 원문 dedicatedDailyOfferValue=2GB(일)"
@@ -1711,6 +1795,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「7개월간 추가할인 프로모션이 적용될 경우, 신규가입에 한 해 적용되며 요금제 변경 시 제외됩니다.」 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 110분(스키마에 그릇 없음). 원문 요금제코드 PDLB000409."
@@ -1731,6 +1816,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 분류 딱지 「혜택 요금제」. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000410."
@@ -1751,6 +1837,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000074."
@@ -1771,6 +1858,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000115."
@@ -1791,6 +1879,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000083."
@@ -1811,6 +1900,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000110."
@@ -1831,6 +1921,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000027."
@@ -1851,6 +1942,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000114."
@@ -1871,6 +1963,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000117."
@@ -1891,6 +1984,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000116."
@@ -1911,6 +2005,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000151."
@@ -1931,6 +2026,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000269."
@@ -1951,6 +2047,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000126."
@@ -1971,6 +2068,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000219."
@@ -1991,6 +2089,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000220."
@@ -2011,6 +2110,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000045."
@@ -2031,6 +2131,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000044."
@@ -2051,6 +2152,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000049."
@@ -2071,6 +2173,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000042."
@@ -2091,6 +2194,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 110분(스키마에 그릇 없음). 원문 요금제코드 PDLB000326."
@@ -2111,6 +2215,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 50분(스키마에 그릇 없음). 원문 요금제코드 PDLB000037."
@@ -2131,6 +2236,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 30분(스키마에 그릇 없음). 원문 요금제코드 PDB0000127."
@@ -2151,6 +2257,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄에 「+일 2GB」 추가 제공이 더 있으나 담지 않았다 — 스키마에 일 단위 그릇이 없다(DECIDED 2026-09-01). 영상·부가통화 200분(스키마에 그릇 없음). 원문 요금제코드 PDB0000280. / 일 단위 추가분 라운드2 총괄 보정: 원문 dedicatedDailyOfferValue=2GB(일)"
@@ -2171,6 +2278,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄에 「+일 2GB」 추가 제공이 더 있으나 담지 않았다 — 스키마에 일 단위 그릇이 없다(DECIDED 2026-09-01). 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 영상·부가통화 300분(스키마에 그릇 없음). 원문 요금제코드 PDLB000041. / 일 단위 추가분 라운드2 총괄 보정: 원문 dedicatedDailyOfferValue=2GB(일)"
@@ -2191,6 +2299,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄에 「+일 2GB」 추가 제공이 더 있으나 담지 않았다 — 스키마에 일 단위 그릇이 없다(DECIDED 2026-09-01). 영상·부가통화 200분(스키마에 그릇 없음). 원문 요금제코드 PDB0000089. / 일 단위 추가분 라운드2 총괄 보정: 원문 dedicatedDailyOfferValue=2GB(일)"
@@ -2211,6 +2320,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 110분(스키마에 그릇 없음). 원문 요금제코드 PDLB000221."
@@ -2231,6 +2341,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 30분(스키마에 그릇 없음). 원문 요금제코드 PDB0000180."
@@ -2251,6 +2362,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 50분(스키마에 그릇 없음). 원문 요금제코드 PDLB000038."
@@ -2271,6 +2383,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 30분(스키마에 그릇 없음). 원문 요금제코드 PDB0000118."
@@ -2291,6 +2404,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 30분(스키마에 그릇 없음). 원문 요금제코드 PDB0000087."
@@ -2311,6 +2425,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDLB000222."
@@ -2331,6 +2446,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000241."
@@ -2351,6 +2467,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 요금제코드 PDB0000242."
@@ -2371,6 +2488,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 영상·부가통화 30분(스키마에 그릇 없음). 원문 요금제코드 PDB0000243."
@@ -2391,6 +2509,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄 「일5GB」 — 월 기본제공량은 없고 매일 5GB만 준다(dataGB=0, dailyDataGB=5). 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 요금제 혜택: 매월 10GB 추가 데이터(24개월)(스키마에 그릇 없음). 원문 요금제코드 PDLB000313."
@@ -2411,6 +2530,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄 「일5GB」 — 월 기본제공량은 없고 매일 5GB만 준다(dataGB=0, dailyDataGB=5). 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 요금제 혜택: 매월 5천원 쿠폰팩 + 매월 10GB 추가 데이터(24개월)(스키마에 그릇 없음). 원문 요금제코드 PDLB000336."
@@ -2431,6 +2551,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄 「일5GB」 — 월 기본제공량은 없고 매일 5GB만 준다(dataGB=0, dailyDataGB=5). 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 원문 요금제코드 PDLB000122."
@@ -2451,6 +2572,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄 「일5GB」 — 월 기본제공량은 없고 매일 5GB만 준다(dataGB=0, dailyDataGB=5). 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 요금제 혜택: 매월 5천원 쿠폰팩(53만5천원 혜택에 포함)(스키마에 그릇 없음). 원문 요금제코드 PDLB000328."
@@ -2471,6 +2593,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 원문 머리줄 「일5GB」 — 월 기본제공량은 없고 매일 5GB만 준다(dataGB=0, dailyDataGB=5). 원문 딱지 「U+결합할인」 대상 — 결합할인 값은 이번 범위 밖이라 담지 않았다. 요금제 혜택: 매월 Npay 1만원(24개월)(스키마에 그릇 없음). 원문 요금제코드 PDLB000390."
@@ -2491,6 +2614,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 연령제한 요금제 유의사항 원문 「시니어 요금제 : 만 65세 이상, 1인 1회선 한정」. 원문 요금제코드 PDLB000380."
@@ -2511,6 +2635,7 @@
   "smsIncluded": true,
   "ageMin": 4,
   "ageMax": 12,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 연령제한 요금제 유의사항 원문 「토이저러스 키즈 요금제 : 만 4세~만 12세 이하, 1인 1회선 한정」. 원문 요금제코드 PDLB000108."
@@ -2531,6 +2656,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 연령제한 요금제 유의사항 원문 「시니어 요금제 : 만 65세 이상, 1인 1회선 한정」. 원문 요금제코드 PDLB000176."
@@ -2551,6 +2677,7 @@
   "smsIncluded": true,
   "ageMin": 4,
   "ageMax": 18,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 연령제한 요금제 유의사항 원문 「청소년 요금제 : 만 4세~만 18세 이하, 1인 1회선 한정」. 원문 요금제코드 PDLB000306."
@@ -2571,6 +2698,7 @@
   "smsIncluded": true,
   "ageMin": 4,
   "ageMax": 18,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 연령제한 요금제 유의사항 원문 「청소년 요금제 : 만 4세~만 18세 이하, 1인 1회선 한정」. 원문 요금제코드 PDLB000068."
@@ -2591,6 +2719,7 @@
   "smsIncluded": true,
   "ageMin": 4,
   "ageMax": 18,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 연령제한 요금제 유의사항 원문 「청소년 요금제 : 만 4세~만 18세 이하, 1인 1회선 한정」. 원문 요금제코드 PDLB000304."
@@ -2615,6 +2744,7 @@
   "smsIncluded": true,
   "ageMin": 4,
   "ageMax": 18,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「7개월간 추가할인 프로모션이 적용될 경우, 신규가입에 한 해 적용되며 요금제 변경 시 제외됩니다.」 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 연령제한 요금제 유의사항 원문 「청소년 요금제 : 만 4세~만 18세 이하, 1인 1회선 한정」. 원문 요금제코드 PDLB000305."
@@ -2635,6 +2765,7 @@
   "smsIncluded": true,
   "ageMin": 4,
   "ageMax": 12,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 연령제한 요금제 유의사항 원문 「토이저러스 키즈 요금제 : 만 4세~만 12세 이하, 1인 1회선 한정」. 원문 요금제코드 PDLB000109."
@@ -2659,6 +2790,7 @@
   "smsIncluded": true,
   "ageMin": 4,
   "ageMax": 18,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「7개월간 추가할인 프로모션이 적용될 경우, 신규가입에 한 해 적용되며 요금제 변경 시 제외됩니다.」 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 연령제한 요금제 유의사항 원문 「청소년 요금제 : 만 4세~만 18세 이하, 1인 1회선 한정」. 원문 요금제코드 PDLB000382."
@@ -2679,6 +2811,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://direct.lghellovision.net/rate/rateViewUsim.do?pgNum=0301&rateGubun=U",
   "checkedAt": "2026-09-01",
   "memo": "원문 가격 옆 표시 「평생요금」 — 이 값이 계속 내는 월정액이다(기간 한정 할인 아님). 부가세: 원문 유의사항 「월 기본료 및 국내 통화료는 부가세 포함금액입니다」. 연령제한 요금제 유의사항 원문 「시니어 요금제 : 만 65세 이상, 1인 1회선 한정」. 원문 요금제코드 PDLB000175."

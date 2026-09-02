@@ -43,11 +43,15 @@ export function hasEnoughVoice(plan: Plan, voice: UserInput['voice']): boolean {
 
 export function recommend(input: UserInput, plans: Plan[]): Recommendation[] {
   const currentAnnual = input.currentMonthlyFee * 12
-  return plans
+  const eligible = plans
     .filter((p) => (input.mvnoOk ? true : p.carrierType === 'mno'))
     .filter((p) => hasEnoughData(p, input.dataGBNeeded))
     .filter((p) => hasEnoughVoice(p, input.voice))
     .filter((p) => isAgeEligible(p, input.age))
+  // 연령 자동 혜택 변종(KT 덤 등)이 자격에 들면, 같은 상품의 원판은 접는다 — 두 줄로 안 보이게
+  const superseded = new Set(eligible.map((p) => p.variantOf).filter((v): v is string => v !== null))
+  return eligible
+    .filter((p) => !superseded.has(p.id))
     .map((p) => {
       const cost = annualCost(p)
       return { plan: p, annualCost: cost, annualSaving: currentAnnual - cost }

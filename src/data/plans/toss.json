@@ -18,6 +18,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_125GB_5G_online?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「8개월 동안 월 19,800원 / 50,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 125GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -41,6 +42,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_12GB_5G_online?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 25,800원 / 40,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 12GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -64,6 +66,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_150GB_5G_online?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 19,800원 / 52,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 150GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -87,6 +90,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_180GB_5G_online?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 44,800원 / 56,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 180GB / 다 써도 10Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -110,6 +114,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_95GB_5G_online?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「8개월 동안 월 18,800원 / 47,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 95GB / 다 써도 3Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -133,6 +138,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/KT_5G_110GB?carrier=KT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 27,800원 / 49,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 110GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -153,6 +159,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/SKT_5G_110GB?carrier=SKT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면에 할인 표시 없음 — 제값 그대로. 데이터·통화·문자는 원문 상세 「데이터 110GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -176,6 +183,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/KT_5G_200GB?carrier=KT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 35,800원 / 54,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 200GB / 다 써도 10Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -196,6 +204,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/SKT_5G_200GB?carrier=SKT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면에 할인 표시 없음 — 제값 그대로. 데이터·통화·문자는 원문 상세 「데이터 200GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -216,6 +225,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/SKT_5G_24GB?carrier=SKT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면에 할인 표시 없음 — 제값 그대로. 데이터·통화·문자는 원문 상세 「데이터 24GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -239,6 +249,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/SKT_5G_250GB?carrier=SKT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 56,800원 / 59,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 250GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -262,6 +273,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/KT_5G_30GB?carrier=KT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 22,800원 / 43,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 30GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -282,6 +294,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/SKT_5G_54GB?carrier=SKT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면에 할인 표시 없음 — 제값 그대로. 데이터·통화·문자는 원문 상세 「데이터 54GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -305,6 +318,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_100GB?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「24개월 동안 월 41,800원 / 59,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 100GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -328,6 +342,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/SKT_100GB?carrier=SKT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 33,800원 / 59,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 100GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -351,6 +366,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_71GB?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「24개월 동안 월 39,800원 / 54,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00, 2026-09-01 15:4x 재확인 시점까지 변동 없음). ⭐ 화면 공시는 「71GB + 3Mbps 속도」(월 환산 최대치)로만 보여준다. 내부 통로(dataUsage)가 기본 11GB + 매일 2GB(DAILY_EXTRA)로 쪼개 줘서 그 쪼갬을 dataGB/dailyDataGB에 담았다 — 화면에 「일 2GB」라는 문구는 없다. 데이터 소진 후(월 최대 71GB 다 쓴 뒤) 속도는 원문 상세 「다 써도 3Mbps 속도」. 통화 · 문자 무제한. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다. (라운드 2 — 일 단위 데이터 그릇 신설, 게이트 2 결정 2026-09-01)"
@@ -374,6 +390,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/SKT_71GB?carrier=SKT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 28,800원 / 54,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00, 2026-09-01 15:4x 재확인 시점까지 변동 없음). ⭐ 화면 공시는 「71GB + 3Mbps 속도」(월 환산 최대치)로만 보여준다. 내부 통로(dataUsage)가 기본 11GB + 매일 2GB(DAILY_EXTRA)로 쪼개 줘서 그 쪼갬을 dataGB/dailyDataGB에 담았다 — 화면에 「일 2GB」라는 문구는 없다. 데이터 소진 후(월 최대 71GB 다 쓴 뒤) 속도는 원문 상세 「다 써도 3Mbps 속도」. 통화 · 문자 무제한. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다. (라운드 2 — 일 단위 데이터 그릇 신설, 게이트 2 결정 2026-09-01)"
@@ -397,6 +414,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/KT_100GB_CU?carrier=KT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 21,000원 / 59,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 100GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -420,6 +438,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/CU_100GB_PLUS?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「24개월 동안 월 31,100원 / 49,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 100GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -443,6 +462,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/KT_15GB_100MIN_CU?carrier=KT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 18,000원 / 35,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 15GB / 다 써도 3Mbps 속도 / 통화 100분 · 문자 100건」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -466,6 +486,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/CU_100M_15GB_PLUS?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「24개월 동안 월 21,500원 / 35,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 15GB / 다 써도 3Mbps 속도 / 통화 100분 · 문자 100건」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -489,6 +510,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/CU_10GB_PLUS?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「24개월 동안 월 16,600원 / 29,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 10GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -512,6 +534,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/KT_15GB_CU?carrier=KT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 17,000원 / 34,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 15GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -535,6 +558,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/KT_71GB_CU?carrier=KT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 21,000원 / 54,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00, 2026-09-01 15:4x 재확인 시점까지 변동 없음). ⭐ 화면 공시는 「71GB + 3Mbps 속도」(월 환산 최대치)로만 보여준다. 내부 통로(dataUsage)가 기본 11GB + 매일 2GB(DAILY_EXTRA)로 쪼개 줘서 그 쪼갬을 dataGB/dailyDataGB에 담았다 — 화면에 「일 2GB」라는 문구는 없다. 데이터 소진 후(월 최대 71GB 다 쓴 뒤) 속도는 원문 상세 「다 써도 3Mbps 속도」. 통화 · 문자 무제한. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다. (라운드 2 — 일 단위 데이터 그릇 신설, 게이트 2 결정 2026-09-01)"
@@ -558,6 +582,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/CU_71GB_PLUS?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「24개월 동안 월 27,200원 / 44,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00, 2026-09-01 15:4x 재확인 시점까지 변동 없음). ⭐ 화면 공시는 「71GB + 3Mbps 속도」(월 환산 최대치)로만 보여준다. 내부 통로(dataUsage)가 기본 11GB + 매일 2GB(DAILY_EXTRA)로 쪼개 줘서 그 쪼갬을 dataGB/dailyDataGB에 담았다 — 화면에 「일 2GB」라는 문구는 없다. 데이터 소진 후(월 최대 71GB 다 쓴 뒤) 속도는 원문 상세 「다 써도 3Mbps 속도」. 통화 · 문자 무제한. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다. (라운드 2 — 일 단위 데이터 그릇 신설, 게이트 2 결정 2026-09-01)"
@@ -581,6 +606,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/CU_7GB_PLUS?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「24개월 동안 월 14,900원 / 24,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 7GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -604,6 +630,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LPZ7101279?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 16,000원 / 43,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 100GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -627,6 +654,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LPZ7101273?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 13,000원 / 30,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 15GB / 다 써도 3Mbps 속도 / 통화 100분 · 문자 100건」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -650,6 +678,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LPZ7101270?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 9,000원 / 23,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 10GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -673,6 +702,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LPZ7101276?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 9,900원 / 38,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00, 2026-09-01 15:4x 재확인 시점까지 변동 없음). ⭐ 화면 공시는 「71GB + 3Mbps 속도」(월 환산 최대치)로만 보여준다. 내부 통로(dataUsage)가 기본 11GB + 매일 2GB(DAILY_EXTRA)로 쪼개 줘서 그 쪼갬을 dataGB/dailyDataGB에 담았다 — 화면에 「일 2GB」라는 문구는 없다. 데이터 소진 후(월 최대 71GB 다 쓴 뒤) 속도는 원문 상세 「다 써도 3Mbps 속도」. 통화 · 문자 무제한. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다. (라운드 2 — 일 단위 데이터 그릇 신설, 게이트 2 결정 2026-09-01)"
@@ -696,6 +726,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LPZ7101267?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 8,000원 / 20,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 7GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -716,6 +747,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_100GB_LIFETIME?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「평생 · 월 41,800원 / 49,800원」 — 기간 없는 평생 할인이라 할인가를 제값으로 담았다(정가 49,800원). 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 100GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -736,6 +768,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_10GB_LIFETIME?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「평생 · 월 21,800원 / 29,800원」 — 기간 없는 평생 할인이라 할인가를 제값으로 담았다(정가 29,800원). 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 10GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -756,6 +789,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_15GB_LIFETIME?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「평생 · 월 23,800원 / 34,800원」 — 기간 없는 평생 할인이라 할인가를 제값으로 담았다(정가 34,800원). 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 15GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -776,6 +810,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_71GB_LIFETIME?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「평생 · 월 36,800원 / 44,800원」 — 기간 없는 평생 할인이라 할인가를 제값으로 담았다(정가 44,800원). 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00, 2026-09-01 15:4x 재확인 시점까지 변동 없음). ⭐ 화면 공시는 「71GB + 3Mbps 속도」(월 환산 최대치)로만 보여준다. 내부 통로(dataUsage)가 기본 11GB + 매일 2GB(DAILY_EXTRA)로 쪼개 줘서 그 쪼갬을 dataGB/dailyDataGB에 담았다 — 화면에 「일 2GB」라는 문구는 없다. 데이터 소진 후(월 최대 71GB 다 쓴 뒤) 속도는 원문 상세 「다 써도 3Mbps 속도」. 통화 · 문자 무제한. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다. (라운드 2 — 일 단위 데이터 그릇 신설, 게이트 2 결정 2026-09-01)"
@@ -796,6 +831,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_7GB_LIFETIME?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「평생 · 월 18,800원 / 24,800원」 — 기간 없는 평생 할인이라 할인가를 제값으로 담았다(정가 24,800원). 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 7GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -819,6 +855,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_100GB_LITE?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 14,000원 / 49,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 100GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -842,6 +879,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/SKT_100GB_LITE?carrier=SKT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 24,000원 / 49,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 100GB / 다 써도 5Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -865,6 +903,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_10GB?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 9,000원 / 29,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 10GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -888,6 +927,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/SKT_10GB?carrier=SKT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 16,000원 / 27,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 10GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -911,6 +951,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_15GB?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 16,000원 / 35,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 15GB / 다 써도 3Mbps 속도 / 통화 100분 · 문자 100건」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -934,6 +975,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/SKT_15GB?carrier=SKT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 17,000원 / 35,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 15GB / 다 써도 3Mbps 속도 / 통화 100분 · 문자 100건」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -957,6 +999,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/KT_71GB_LITE?carrier=KT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「12개월 동안 월 25,000원 / 46,200원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00, 2026-09-01 15:4x 재확인 시점까지 변동 없음). ⭐ 화면 공시는 「71GB + 3Mbps 속도」(월 환산 최대치)로만 보여준다. 내부 통로(dataUsage)가 기본 11GB + 매일 2GB(DAILY_EXTRA)로 쪼개 줘서 그 쪼갬을 dataGB/dailyDataGB에 담았다 — 화면에 「일 2GB」라는 문구는 없다. 데이터 소진 후(월 최대 71GB 다 쓴 뒤) 속도는 원문 상세 「다 써도 3Mbps 속도」. 통화 · 문자 무제한. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다. (라운드 2 — 일 단위 데이터 그릇 신설, 게이트 2 결정 2026-09-01)"
@@ -980,6 +1023,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_71GB_LITE?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 9,900원 / 44,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00, 2026-09-01 15:4x 재확인 시점까지 변동 없음). ⭐ 화면 공시는 「71GB + 3Mbps 속도」(월 환산 최대치)로만 보여준다. 내부 통로(dataUsage)가 기본 11GB + 매일 2GB(DAILY_EXTRA)로 쪼개 줘서 그 쪼갬을 dataGB/dailyDataGB에 담았다 — 화면에 「일 2GB」라는 문구는 없다. 데이터 소진 후(월 최대 71GB 다 쓴 뒤) 속도는 원문 상세 「다 써도 3Mbps 속도」. 통화 · 문자 무제한. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다. (라운드 2 — 일 단위 데이터 그릇 신설, 게이트 2 결정 2026-09-01)"
@@ -1003,6 +1047,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/SKT_71GB_LITE?carrier=SKT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 18,000원 / 42,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00, 2026-09-01 15:4x 재확인 시점까지 변동 없음). ⭐ 화면 공시는 「71GB + 3Mbps 속도」(월 환산 최대치)로만 보여준다. 내부 통로(dataUsage)가 기본 11GB + 매일 2GB(DAILY_EXTRA)로 쪼개 줘서 그 쪼갬을 dataGB/dailyDataGB에 담았다 — 화면에 「일 2GB」라는 문구는 없다. 데이터 소진 후(월 최대 71GB 다 쓴 뒤) 속도는 원문 상세 「다 써도 3Mbps 속도」. 통화 · 문자 무제한. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다. (라운드 2 — 일 단위 데이터 그릇 신설, 게이트 2 결정 2026-09-01)"
@@ -1026,6 +1071,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/LGU_7GB?carrier=LGU",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 8,000원 / 24,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 7GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."
@@ -1049,6 +1095,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://tossmobile.co.kr/pricing/SKT_7GB?carrier=SKT",
   "checkedAt": "2026-09-01",
   "memo": "원문 요금제 화면 「7개월 동안 월 11,000원 / 24,800원」. 원문 상세 「할인 혜택은 9월 1일 오후 8시 0분까지 가입해야 받을 수 있어요」 — 이 할인은 가입 마감 시각이 붙어 있다(내부 통로 applyEndTs 2026-09-01T20:00:00). 데이터·통화·문자는 원문 상세 「데이터 7GB / 다 써도 1Mbps 속도 / 통화 · 문자 무제한」 그대로. 부가세 포함 여부를 원문이 말하지 않는다 — 화면 표시가를 그대로 담았다."

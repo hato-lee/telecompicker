@@ -19,6 +19,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=LGUP&chargePlanSn=LPZ0017801&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「12개월 후 13,200원」 (정가 31,900원) / 데이터 소진 후: 소진시 최대 1Mbps속도로 계속 사용"
@@ -43,6 +44,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=LGUP&chargePlanSn=LPZ0017810&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「12개월 후 13,200원」 (정가 30,800원)"
@@ -67,6 +69,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=LGUP&chargePlanSn=LPZ0018297&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「7개월 후 23,100원」 (정가 37,400원) / 데이터 소진 후: 소진시 최대 1Mbps속도로 계속 사용 / 영상/부가통화: 300분"
@@ -91,6 +94,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=LGUP&chargePlanSn=LPZ1002955&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「24개월 후 23,100원」 (정가 37,400원) / 데이터 소진 후: 초과시 1Mbps로 지속사용 가능 / 영상/부가통화: 300분"
@@ -115,6 +119,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=LGUP&chargePlanSn=LPZ1004749&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「24개월 후 44,000원」 (정가 45,100원) / 데이터 소진 후: 소진시 최대 5Mbps속도로 계속 사용 / 영상/부가통화: 300분"
@@ -139,6 +144,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=LGUP&chargePlanSn=LPZ1004750&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「7개월 후 44,000원」 (정가 45,100원) / 데이터 소진 후: 소진시 최대 5Mbps속도로 계속 사용 / 영상/부가통화: 300분"
@@ -163,6 +169,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=LGUP&chargePlanSn=LPZ7100987&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「6개월 후 12,100원」 (정가 27,500원)"
@@ -187,6 +194,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=SKT&chargePlanSn=PC0OB00120&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「7개월 후 44,000원」 (정가 47,300원) / 데이터 소진 후: 소진시 최대 5Mbps속도로 계속 사용 / 영상/부가통화: 300분"
@@ -211,6 +219,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=SKT&chargePlanSn=PC0OB00143&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「7개월 후 23,100원」 (정가 37,400원) / 데이터 소진 후: 소진시 최대 1Mbps속도로 계속 사용 / 영상/부가통화: 300분"
@@ -235,6 +244,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=SKT&chargePlanSn=PC0OB00151&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「7개월 후 13,200원」 (정가 30,800원)"
@@ -259,6 +269,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=SKT&chargePlanSn=PC0OB00152&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「7개월 후 11,000원」 (정가 27,500원)"
@@ -279,6 +290,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL22AQ415&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 6,600원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 16,500원(vat 포함)」이라고만 적는다 / 데이터 소진 후: 소진시 최대 1Mbps속도로 계속 사용"
@@ -299,6 +311,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL22AQ417&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 3,300원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 19,800원(vat 포함)」이라고만 적는다"
@@ -319,6 +332,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL239Q797&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 22,000원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 33,000원(vat 포함)」이라고만 적는다 / 데이터 소진 후: 소진시 최대 1Mbps속도로 계속 사용 / 영상/부가통화: 300분"
@@ -339,6 +353,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL239Q798&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 24,200원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 35,200원(vat 포함)」이라고만 적는다 / 데이터 소진 후: 소진시 최대 1Mbps속도로 계속 사용 / 영상/부가통화: 300분"
@@ -359,6 +374,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL239Q799&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 21,450원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 39,600원(vat 포함)」이라고만 적는다 / 데이터 소진 후: 소진시 최대 1Mbps속도로 계속 사용 / 영상/부가통화: 300분"
@@ -379,6 +395,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL239Q800&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 32,450원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 44,000원(vat 포함)」이라고만 적는다 / 데이터 소진 후: 소진시 최대 3Mbps속도로 계속 사용 / 영상/부가통화: 300분"
@@ -399,6 +416,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL239Q802&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 43,450원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 62,700원(vat 포함)」이라고만 적는다 / 데이터 소진 후: 소진시 최대 5Mbps속도로 계속 사용 / 영상/부가통화: 300분"
@@ -419,6 +437,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL239Q803&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 30,800원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 41,800원(vat 포함)」이라고만 적는다 / 데이터 소진 후: 소진시 최대 3Mbps속도로 계속 사용 / 영상/부가통화: 100분"
@@ -439,6 +458,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL239Q804&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 28,600원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 39,600원(vat 포함)」이라고만 적는다 / 데이터 소진 후: 소진시 최대 3Mbps속도로 계속 사용 / 영상/부가통화: 100분"
@@ -459,6 +479,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL255U729&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 20,900원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 35,750원(vat 포함)」이라고만 적는다 / 데이터 소진 후: 소진시 최대 1Mbps속도로 계속 사용 / 영상/부가통화: 300분"
@@ -479,6 +500,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL255U730&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 20,900원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 35,750원(vat 포함)」이라고만 적는다 / 데이터 소진 후: 소진시 최대 1Mbps속도로 계속 사용 / 영상/부가통화: 300분"
@@ -499,6 +521,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=SONLTU1GB&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 3,300원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 25,300원(vat 포함)」이라고만 적는다"
@@ -519,6 +542,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL239Q801&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 8,000원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 45,100원(vat 포함)」이라고만 적는다 / 데이터 소진 후: 소진시 매일2GB+최대3Mbps"
@@ -539,6 +563,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL254F419&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 10,000원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 49,500원(vat 포함)」이라고만 적는다 / 데이터 소진 후: 일/2GB+소진시 최대3Mbps속도로 계속 사용"
@@ -559,6 +584,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=KT&chargePlanSn=PL2543212&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "프로모션 적용가 10,000원이 보이나 기간을 원문이 말하지 않는다. 상세 페이지는 「월정액 : 49,500원(vat 포함)」이라고만 적는다 / 데이터 소진 후: 일/2GB+소진시 최대3Mbps속도로 계속 사용"
@@ -583,6 +609,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=LGUP&chargePlanSn=LPZ1002952&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「24개월 후 39,600원」 (정가 41,800원) / 데이터 소진 후: 일/2GB+소진시 최대3Mbps속도로 계속 사용"
@@ -607,6 +634,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=LGUP&chargePlanSn=LPZ7100587&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「7개월 후 44,000원」 (정가 45,100원) / 데이터 소진 후: 일/5GB 제공+소진시 최대 5Mbps속도로 계속 사용"
@@ -631,6 +659,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "http://www.s1mobile.co.kr/home/plan/rateView.do?rateDv=U&mno=LGUP&chargePlanSn=LPZ7100589&pageNo=1",
   "checkedAt": "2026-09-01",
   "memo": "원문 카드 문구: 「24개월 후 44,000원」 (정가 45,100원) / 데이터 소진 후: 일/5GB 제공+소진시 최대 5Mbps속도로 계속 사용"

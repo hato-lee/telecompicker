@@ -17,6 +17,7 @@ const valid = {
   smsIncluded: true,
   ageMin: null,
   ageMax: null,
+  variantOf: null,
   sourceUrl: 'https://example.com/notice',
   checkedAt: '2026-09-01',
   memo: '스키마 검사용 합성 예제 — 실제 요금제 아님',

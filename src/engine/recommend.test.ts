@@ -19,6 +19,7 @@ function plan(over: Partial<Plan>): Plan {
     smsIncluded: true,
     ageMin: null,
     ageMax: null,
+    variantOf: null,
     sourceUrl: 'https://example.com',
     checkedAt: '2026-09-01',
     ...over,
@@ -80,6 +81,16 @@ describe('recommend', () => {
     expect(recommend(bracket, [under29]).map((r) => r.plan.id)).toEqual([])
     // 나이를 안 밝히면 연령 전용은 전부 뺀다
     expect(recommend({ ...input, age: null }, [youth, senior, anyone]).map((r) => r.plan.id)).toEqual(['m'])
+  })
+  test('연령 변종(덤)이 자격에 들면 원판은 접힌다', () => {
+    const base = plan({ id: 'base-7gb', dataGB: 7, dailyDataGB: null })
+    const dum = plan({ id: 'base-7gb-ydum', dataGB: 14, ageMin: 19, ageMax: 34, variantOf: 'base-7gb', dailyDataGB: null })
+    // 27세: 덤 자격 → 원판 접히고 덤만
+    const at27 = { ...input, dataGBNeeded: 5, age: { min: 27, max: 27 } }
+    expect(recommend(at27, [base, dum]).map((r) => r.plan.id)).toEqual(['base-7gb-ydum'])
+    // 50세: 덤 자격 없음 → 원판만
+    const at50 = { ...input, dataGBNeeded: 5, age: { min: 50, max: 50 } }
+    expect(recommend(at50, [base, dum]).map((r) => r.plan.id)).toEqual(['base-7gb'])
   })
   test('지금보다 비싼 요금제도 목록엔 남는다 (화면이 「이미 좋아요」를 판단)', () => {
     const pricey = plan({ id: 'i', monthlyFee: 90000 })

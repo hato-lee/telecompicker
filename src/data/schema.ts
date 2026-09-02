@@ -27,6 +27,8 @@ export const PlanSchema = z
     // 가입 가능 만 나이 (원문 문구 그대로 옮긴다 — 문구를 인용 못 하면 그 요금제는 담지 않는다)
     ageMin: z.number().int().nonnegative().nullable(), // 예: 시니어 「만 65세 이상」 → 65. null = 하한 없음
     ageMax: z.number().int().nonnegative().nullable(), // 예: 청년 「만 34세 이하」 → 34. null = 상한 없음
+    // 연령 자동 혜택 변종(예: KT Y덤). 원판 요금제 id — 추천 목록에 변종이 있으면 원판은 접는다 (2026-09-02 결정)
+    variantOf: z.string().regex(/^[a-z0-9-]+$/).nullable(),
     sourceUrl: z.string().url(), // 원문(공시) 링크
     checkedAt: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
     memo: z.string().optional(),

@@ -18,6 +18,7 @@ const base: Plan = {
   smsIncluded: true,
   ageMin: null,
   ageMax: null,
+  variantOf: null,
   sourceUrl: 'https://example.com',
   checkedAt: '2026-09-01',
 }

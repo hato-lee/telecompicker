@@ -15,6 +15,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=PHONE&prodCd=PD00000226",
   "checkedAt": "2026-09-01",
   "memo": "원문에 「약정 할인 후 기본료 38,500원」이 보이나 약정 기간을 원문이 말하지 않는다. 안전한 쪽으로 기본료(정가) 49,500원을 담았다."
@@ -35,6 +36,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=PHONE&prodCd=PD00000230",
   "checkedAt": "2026-09-01",
   "memo": "원문에 「약정 할인 후 기본료 16,500원」이 보이나 약정 기간을 원문이 말하지 않는다. 안전한 쪽으로 기본료(정가) 22,000원을 담았다."
@@ -55,6 +57,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=PHONE&prodCd=PD00000231",
   "checkedAt": "2026-09-01",
   "memo": "원문에 「약정 할인 후 기본료 13,200원」이 보이나 약정 기간을 원문이 말하지 않는다. 안전한 쪽으로 기본료(정가) 18,700원을 담았다."
@@ -75,6 +78,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=PHONE&prodCd=PD00000239",
   "checkedAt": "2026-09-01",
   "memo": "원문에 「약정 할인 후 기본료 31,900원」이 보이나 약정 기간을 원문이 말하지 않는다. 안전한 쪽으로 기본료(정가) 37,400원을 담았다."
@@ -95,6 +99,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=PHONE&prodCd=PD00000240",
   "checkedAt": "2026-09-01",
   "memo": "원문에 「약정 할인 후 기본료 28,600원」이 보이나 약정 기간을 원문이 말하지 않는다. 안전한 쪽으로 기본료(정가) 34,100원을 담았다."
@@ -115,6 +120,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=PHONE&prodCd=PD00000321",
   "checkedAt": "2026-09-01",
   "memo": "상세에 유심요금제 공통 「평생 적용」 문구가 있으나 이 요금제엔 할인 후 기본료 표시가 없다 — 기본료가 곧 판매가."
@@ -135,6 +141,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=PHONE&prodCd=PD00000322",
   "checkedAt": "2026-09-01",
   "memo": "상세에 유심요금제 공통 「평생 적용」 문구가 있으나 이 요금제엔 할인 후 기본료 표시가 없다 — 기본료가 곧 판매가."
@@ -155,6 +162,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=PHONE&prodCd=PD00000362",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(36,300원)를 월정액으로 담았다. 원문 기본료(정가)는 50,600원."
@@ -175,6 +183,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=PHONE&prodCd=PD00000363",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(30,800원)를 월정액으로 담았다. 원문 기본료(정가)는 45,100원."
@@ -195,6 +204,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=PHONE&prodCd=PD00000365",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(19,800원)를 월정액으로 담았다. 원문 기본료(정가)는 34,100원."
@@ -215,6 +225,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00463",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(28,600원)를 월정액으로 담았다. 원문 기본료(정가)는 49,500원."
@@ -235,6 +246,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00464",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(20,000원)를 월정액으로 담았다. 원문 기본료(정가)는 50,600원."
@@ -255,6 +267,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00465",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(40,900원)를 월정액으로 담았다. 원문 기본료(정가)는 57,200원."
@@ -275,6 +288,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00466",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(39,100원)를 월정액으로 담았다. 원문 기본료(정가)는 55,000원."
@@ -295,6 +309,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00467",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(37,900원)를 월정액으로 담았다. 원문 기본료(정가)는 52,800원."
@@ -315,6 +330,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00488",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(5,500원)를 월정액으로 담았다. 원문 기본료(정가)는 27,500원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기)."
@@ -335,6 +351,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00489",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(6,600원)를 월정액으로 담았다. 원문 기본료(정가)는 33,000원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기)."
@@ -355,6 +372,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00490",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(8,800원)를 월정액으로 담았다. 원문 기본료(정가)는 38,500원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기)."
@@ -375,6 +393,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00491",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(11,900원)를 월정액으로 담았다. 원문 기본료(정가)는 41,800원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기)."
@@ -395,6 +414,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00492",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(33,000원)를 월정액으로 담았다. 원문 기본료(정가)는 49,060원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기). / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터=11GB 기본제공 후 소진 시 매일 2GB 추가 제공"
@@ -415,6 +435,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00493",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(16,900원)를 월정액으로 담았다. 원문 기본료(정가)는 48,400원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기)."
@@ -435,6 +456,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00494",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(24,200원)를 월정액으로 담았다. 원문 기본료(정가)는 47,300원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기)."
@@ -455,6 +477,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00496",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(27,500원)를 월정액으로 담았다. 원문 기본료(정가)는 49,500원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기)."
@@ -475,6 +498,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00497",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(40,900원)를 월정액으로 담았다. 원문 기본료(정가)는 55,000원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기)."
@@ -495,6 +519,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00498",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(11,000원)를 월정액으로 담았다. 원문 기본료(정가)는 40,700원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기)."
@@ -515,6 +540,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00499",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(12,100원)를 월정액으로 담았다. 원문 기본료(정가)는 40,700원."
@@ -535,6 +561,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00500",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(9,920원)를 월정액으로 담았다. 원문 기본료(정가)는 33,000원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기)."
@@ -555,6 +582,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00501",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(18,900원)를 월정액으로 담았다. 원문 기본료(정가)는 50,600원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기)."
@@ -575,6 +603,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00540",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(15,900원)를 월정액으로 담았다. 원문 기본료(정가)는 47,300원."
@@ -595,6 +624,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00541",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(15,000원)를 월정액으로 담았다. 원문 기본료(정가)는 45,100원."
@@ -615,6 +645,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00542",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(13,900원)를 월정액으로 담았다. 원문 기본료(정가)는 45,100원. / 원문: 「셀프 전용 요금제는 미성년자,외국인,개인사업자,번호이동 3개월 제한 고객님의 경우 가입이 불가능합니다.」 — 특정 대상 전용이 아니라 일반 성인 누구나 가입 가능해 담았다(총괄 판정 대기)."
@@ -635,6 +666,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00545",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(8,900원)를 월정액으로 담았다. 원문 기본료(정가)는 30,800원."
@@ -655,6 +687,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00557",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(36,700원)를 월정액으로 담았다. 원문 기본료(정가)는 50,600원."
@@ -675,6 +708,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00583",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(19,900원)를 월정액으로 담았다. 원문 기본료(정가)는 49,500원."
@@ -695,6 +729,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00584",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(16,900원)를 월정액으로 담았다. 원문 기본료(정가)는 47,300원."
@@ -715,6 +750,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00585",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(13,900원)를 월정액으로 담았다. 원문 기본료(정가)는 44,000원."
@@ -735,6 +771,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00586",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(12,900원)를 월정액으로 담았다. 원문 기본료(정가)는 36,300원."
@@ -755,6 +792,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PC0RB00587",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(11,900원)를 월정액으로 담았다. 원문 기본료(정가)는 34,100원."
@@ -775,6 +813,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000174",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(34,100원)를 월정액으로 담았다. 원문 기본료(정가)는 49,060원. / 일 단위 추가분 라운드2 총괄 보정: 원문 데이터=11GB 기본제공 후 소진 시 매일 2GB 추가 제공"
@@ -795,6 +834,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000284",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(3,900원)를 월정액으로 담았다. 원문 기본료(정가)는 14,300원."
@@ -815,6 +855,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000285",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(4,900원)를 월정액으로 담았다. 원문 기본료(정가)는 22,000원."
@@ -835,6 +876,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000287",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(7,900원)를 월정액으로 담았다. 원문 기본료(정가)는 27,500원."
@@ -855,6 +897,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000292",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(25,300원)를 월정액으로 담았다. 원문 기본료(정가)는 47,300원."
@@ -875,6 +918,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000296",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(42,000원)를 월정액으로 담았다. 원문 기본료(정가)는 55,000원."
@@ -895,6 +939,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000316",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(47,700원)를 월정액으로 담았다. 원문 기본료(정가)는 66,000원."
@@ -915,6 +960,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000317",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(32,450원)를 월정액으로 담았다. 원문 기본료(정가)는 44,000원."
@@ -935,6 +981,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000318",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(6,600원)를 월정액으로 담았다. 원문 기본료(정가)는 27,500원."
@@ -955,6 +1002,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000319",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(7,700원)를 월정액으로 담았다. 원문 기본료(정가)는 33,000원."
@@ -975,6 +1023,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000320",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(9,900원)를 월정액으로 담았다. 원문 기본료(정가)는 38,500원."
@@ -995,6 +1044,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000341",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(2,900원)를 월정액으로 담았다. 원문 기본료(정가)는 9,900원."
@@ -1015,6 +1065,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000378",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(18,000원)를 월정액으로 담았다. 원문 기본료(정가)는 48,400원."
@@ -1035,6 +1086,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000398",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(41,500원)를 월정액으로 담았다. 원문 기본료(정가)는 59,400원."
@@ -1055,6 +1107,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000401",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(13,000원)를 월정액으로 담았다. 원문 기본료(정가)는 41,800원."
@@ -1075,6 +1128,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000402",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(10,200원)를 월정액으로 담았다. 원문 기본료(정가)는 33,000원."
@@ -1095,6 +1149,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000415",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(10,120원)를 월정액으로 담았다. 원문 기본료(정가)는 33,000원."
@@ -1115,6 +1170,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000417",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(12,900원)를 월정액으로 담았다. 원문 기본료(정가)는 44,000원."
@@ -1135,6 +1191,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000418",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(34,900원)를 월정액으로 담았다. 원문 기본료(정가)는 48,400원."
@@ -1159,6 +1216,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000420",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월간 3,300원, 13개월차부터 4,400원 청구」 — 기간이 명시돼 promo로 담았다."
@@ -1183,6 +1241,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000421",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월간 1,900원, 13개월차부터 3,300원 청구」 — 기간이 명시돼 promo로 담았다."
@@ -1203,6 +1262,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=USIM&prodCd=PD00000430",
   "checkedAt": "2026-09-01",
   "memo": "원문 유의사항 「유심요금제 프로모션 할인 혜택은 해지 전까지 평생 적용되며, 가입 첫달은 일할 할인 계산됩니다.」 — 기간 제한이 없으므로 판매가(11,000원)를 월정액으로 담았다. 원문 기본료(정가)는 33,000원."
@@ -1223,6 +1283,7 @@
   "smsIncluded": true,
   "ageMin": 60,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.sk7mobile.com/prod/data/callingPlanView.do?refCode=PHONE&prodCd=PD00000283",
   "checkedAt": "2026-09-01",
   "memo": "상세(PD00000283, 카테고리 PROD_LTE_TYPE_006 「어르신/복지」) 유의사항 원문 인용: 「만 60세 이상에 한해 가입이 가능(1인 1회선 한정)합니다」 — ageMin=60으로 담았다. 데이터 500MB·음성 기본제공(무제한)·문자 기본제공. 「기본료 22,000원」이 정가, 「약정 할인 후 기본료 16,500원」은 다른 5개 약정할인 항목과 같은 사유(약정 기간을 원문이 말하지 않음)로 monthlyFee는 정가 22,000원을 담았다. 소진 후 속도제어·추가제공 문구가 없고 요율표에 22.5원/MB 초과과금만 있어 throttleMbps는 null(소진 후 제공 없음)로 담았다."

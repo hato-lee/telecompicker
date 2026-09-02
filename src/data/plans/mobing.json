@@ -18,6 +18,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0012247&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -41,6 +42,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0012281&promoSeq=9103",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 7,700원 반영(원문 termAll=1200개월) / 특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -64,6 +66,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0012298&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -84,6 +87,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0012395&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -107,6 +111,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0012397&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -127,6 +132,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0012398&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 9,900원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -150,6 +156,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0012399&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -170,6 +177,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0012401&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 16,500원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -190,6 +198,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0012405&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -213,6 +222,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0012406&promoSeq=9103",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 8,800원 반영(원문 termAll=1200개월) / 특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -236,6 +246,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0016985&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 6,600원 반영(원문 termAll=1200개월) / 특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -256,6 +267,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0017078&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -276,6 +288,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0017080&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,700원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -296,6 +309,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0017081&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -316,6 +330,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0017335&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -336,6 +351,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0017338&promoSeq=7041",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 19,800원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -356,6 +372,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0017342&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -380,6 +397,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0017344&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 7,700원 반영(원문 termAll=1200개월) / 특가 20개월(원문 termShort=20) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -403,6 +421,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0017409&promoSeq=9103",
   "checkedAt": "2026-09-01",
   "memo": "특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -423,6 +442,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0017588&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -443,6 +463,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0017590&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 20,000원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -466,6 +487,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0017937&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 2,200원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -486,6 +508,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0018558&promoSeq=7041",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 12,400원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -510,6 +533,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0018905&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 13,000원 반영(원문 termAll=1200개월) / 특가 8개월(원문 termShort=8) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -530,6 +554,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0018906&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -550,6 +575,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0018907&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -573,6 +599,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0018908&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 8,000원 반영(원문 termAll=1200개월) / 특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -597,6 +624,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0018909&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 10,000원 반영(원문 termAll=1200개월) / 특가 8개월(원문 termShort=8) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -617,6 +645,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0018910&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -637,6 +666,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0018911&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -661,6 +691,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0019323&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 15,400원 반영(원문 termAll=1200개월) / 특가 10개월(원문 termShort=10) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -681,6 +712,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0019324&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -701,6 +733,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0019333&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 25,300원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -721,6 +754,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0019334&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -741,6 +775,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0019337&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 15,200원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -761,6 +796,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0019338&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 27,500원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -784,6 +820,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0019438&promoSeq=9103",
   "checkedAt": "2026-09-01",
   "memo": "특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -807,6 +844,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0019549&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -830,6 +868,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0019720&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 5,500원 반영(원문 termAll=1200개월) / 특가 12개월(원문 termShort=12) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -853,6 +892,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0019722&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 5,500원 반영(원문 termAll=1200개월) / 특가 12개월(원문 termShort=12) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -876,6 +916,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0019724&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "특가 12개월(원문 termShort=12) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -899,6 +940,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1002913&promoSeq=9103",
   "checkedAt": "2026-09-01",
   "memo": "특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -922,6 +964,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1002916&promoSeq=9103",
   "checkedAt": "2026-09-01",
   "memo": "특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -945,6 +988,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1004631&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 12,100원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -968,6 +1012,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1004632&promoSeq=9103",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 12,100원 반영(원문 termAll=1200개월) / 특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -991,6 +1036,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1005560&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 14,000원 반영(원문 termAll=1200개월) / 특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1014,6 +1060,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1005561&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1037,6 +1084,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1005563&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 1,200원 반영(원문 termAll=1200개월) / 특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1060,6 +1108,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1005565&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 12,000원 반영(원문 termAll=1200개월) / 특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1080,6 +1129,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1005849&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1100,6 +1150,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1005850&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 30,300원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1120,6 +1171,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1005851&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 34,400원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1140,6 +1192,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1007778&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 25,300원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1160,6 +1213,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1007779&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 30,800원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1184,6 +1238,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1007780&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 23,800원 반영(원문 termAll=1200개월) / 특가 8개월(원문 termShort=8) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1208,6 +1263,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1007781&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 24,000원 반영(원문 termAll=1200개월) / 특가 8개월(원문 termShort=8) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1231,6 +1287,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ7100495&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1254,6 +1311,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ7100496&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1278,6 +1336,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ7100929&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 25,300원 반영(원문 termAll=1200개월) / 특가 6개월(원문 termShort=6) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1302,6 +1361,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ7100961&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 19,800원 반영(원문 termAll=1200개월) / 특가 6개월(원문 termShort=6) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1322,6 +1382,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ7101124&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 19,200원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1346,6 +1407,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ7101125&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 12개월(원문 termShort=12) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1370,6 +1432,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ7101126&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1390,6 +1453,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ7101127&promoSeq=9102",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 36,000원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1410,6 +1474,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=P075PSAV04&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1430,6 +1495,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00039&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1450,6 +1516,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00051&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1470,6 +1537,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00061&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1493,6 +1561,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00111&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 9,900원 반영(원문 termAll=1200개월) / 특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1513,6 +1582,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00113&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1533,6 +1603,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00138&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1553,6 +1624,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00142&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1573,6 +1645,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00143&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1593,6 +1666,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00162&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 25,800원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1617,6 +1691,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00163&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 6,600원 반영(원문 termAll=1200개월) / 특가 12개월(원문 termShort=12) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1637,6 +1712,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00180&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1657,6 +1733,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00182&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1677,6 +1754,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00208&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 53,900원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1701,6 +1779,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00209&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 22,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1724,6 +1803,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00215&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 5,500원 반영(원문 termAll=1200개월) / 특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1744,6 +1824,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00217&promoSeq=9107",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 8,000원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1764,6 +1845,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00218&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1784,6 +1866,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00219&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1807,6 +1890,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00220&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 8,800원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1830,6 +1914,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00221&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 3,300원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1853,6 +1938,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00224&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 7,700원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1876,6 +1962,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00225&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1899,6 +1986,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00227&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1919,6 +2007,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00228&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 19,600원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1939,6 +2028,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00230&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 8,200원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1962,6 +2052,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00231&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 16,400원 반영(원문 termAll=1200개월) / 특가 12개월(원문 termShort=12) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -1982,6 +2073,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00232&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2005,6 +2097,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00233&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 12개월(원문 termShort=12) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2025,6 +2118,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00234&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2045,6 +2139,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00237&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2068,6 +2163,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00245&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 7,700원 반영(원문 termAll=1200개월) / 특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2092,6 +2188,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00246&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 22,000원 반영(원문 termAll=1200개월) / 특가 12개월(원문 termShort=12) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2112,6 +2209,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00247&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2132,6 +2230,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00251&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2152,6 +2251,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00253&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 30,200원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2175,6 +2275,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00257&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 13,000원 반영(원문 termAll=1200개월) / 특가 12개월(원문 termShort=12) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2195,6 +2296,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00258&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2215,6 +2317,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00259&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 17,900원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2235,6 +2338,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00260&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2259,6 +2363,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00268&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 18,700원 반영(원문 termAll=1200개월) / 특가 12개월(원문 termShort=12) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2279,6 +2384,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00269&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 33,500원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2299,6 +2405,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00270&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 28,100원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2322,6 +2429,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00271&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 12,300원 반영(원문 termAll=1200개월) / 특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2342,6 +2450,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00275&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2362,6 +2471,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00276&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2386,6 +2496,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00278&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 19,800원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문 문구: 초특가 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2406,6 +2517,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00285&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 56,700원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2426,6 +2538,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00286&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 51,900원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2446,6 +2559,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00287&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 50,000원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2466,6 +2580,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00288&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 45,200원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2486,6 +2601,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00289&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 43,300원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2506,6 +2622,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00290&promoSeq=9105",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 38,500원 반영(원문 termAll=1200개월) / 원문 문구: 평생 할인 요금제 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2529,6 +2646,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00300&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2552,6 +2670,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00302&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2575,6 +2694,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00303&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2598,6 +2718,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00304&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2621,6 +2742,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00305&promoSeq=9106",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2644,6 +2766,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00307&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2667,6 +2790,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00309&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2690,6 +2814,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00310&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2713,6 +2838,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00311&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2736,6 +2862,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00312&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2756,6 +2883,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL207T840&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2776,6 +2904,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL207T843&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2796,6 +2925,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL212Q125&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 19,800원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2816,6 +2946,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL212Q126&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 22,000원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2836,6 +2967,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL214L292&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 17,600원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2856,6 +2988,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL216N586&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2879,6 +3012,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL225R820&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 5개월(원문 termShort=5) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2899,6 +3033,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL225R821&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 30,800원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2919,6 +3054,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL228Q686&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2943,6 +3079,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL228Q690&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 12개월(원문 termShort=12) / 원문 문구: g포인트 월 8000P 지급 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2966,6 +3103,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL229Q107&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 5개월(원문 termShort=5) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -2989,6 +3127,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL229Q108&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 19,800원 반영(원문 termAll=1200개월) / 특가 5개월(원문 termShort=5) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3009,6 +3148,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL22AK282&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 29,700원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3029,6 +3169,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL22AK283&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 26,400원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3049,6 +3190,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL22C1645&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3069,6 +3211,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL231V101&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3092,6 +3235,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL232O297&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3115,6 +3259,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL232O298&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3138,6 +3283,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL233E402&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3161,6 +3307,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL233E403&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3184,6 +3331,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL234L643&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3207,6 +3355,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL234L651&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3227,6 +3376,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL235P944&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3250,6 +3400,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL235Q948&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 12개월(원문 termShort=12) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3270,6 +3421,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL235Q956&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3290,6 +3442,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL235Q964&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3314,6 +3467,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL235Q974&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문 문구: 밀리의서재 전자책 월 정기구독 제공 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3338,6 +3492,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL235Q982&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문 문구: 밀리의서재 전자책 월 정기구독 제공 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3361,6 +3516,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL236Q186&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 24개월(원문 termShort=24) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3384,6 +3540,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL236Q189&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3408,6 +3565,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL237K290&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 5,500원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문 문구: 웨이브베이직 이용권 지급 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3431,6 +3589,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL238P557&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 12개월(원문 termShort=12) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3451,6 +3610,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL238P561&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3471,6 +3631,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL238P566&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3491,6 +3652,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL238P567&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3515,6 +3677,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL238P573&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 13,200원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문 문구: 네이버페이 월5,000P 지급 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3539,6 +3702,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL238P577&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 4,400원 반영(원문 termAll=1200개월) / 특가 24개월(원문 termShort=24) / 원문 문구: 네이버페이 월5,000P 지급 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3562,6 +3726,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL239Q807&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 12개월(원문 termShort=12) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3585,6 +3750,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL239Q808&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 12개월(원문 termShort=12) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3605,6 +3771,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL23B2959&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3628,6 +3795,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL23B2960&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 1,100원 반영(원문 termAll=1200개월) / 특가 5개월(원문 termShort=5) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3651,6 +3819,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL23B2961&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 5개월(원문 termShort=5) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3671,6 +3840,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL23BT237&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 18,700원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3694,6 +3864,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL23BT238&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 15,400원 반영(원문 termAll=1200개월) / 특가 5개월(원문 termShort=5) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3718,6 +3889,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL241N544&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문 문구: g포인트 월 8000P 지급 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3742,6 +3914,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL242M655&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문 문구: 네이버페이 월5,000P 지급 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3766,6 +3939,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL243S888&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문 문구: 밀리의서재 전자책 월 정기구독 제공 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3790,6 +3964,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL243S890&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문 문구: 밀리의서재 전자책 월 정기구독 제공 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3814,6 +3989,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL245O250&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문 문구: 1인당 월 할인금액 5,000원 한도 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3838,6 +4014,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL245O254&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문 문구: 1인당 월 할인금액 5,000원 한도 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3858,6 +4035,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL245S309&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 22,000원 반영(원문 termAll=1200개월) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3881,6 +4059,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL245S312&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3905,6 +4084,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL247T525&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 12개월(원문 termShort=12) / 원문 문구: g포인트 월 8000P 지급 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3929,6 +4109,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL247U574&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문 문구: 1인당 월 할인금액 5,000원 한도 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3952,6 +4133,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL2536728&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3975,6 +4157,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL2536729&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 11,000원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -3999,6 +4182,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL2544246&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문 문구: 다이소모바일상품권 월 5,000P 지급 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4023,6 +4207,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL2544248&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문 문구: 다이소모바일상품권 월 5,000P 지급 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4047,6 +4232,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL2552577&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문 문구: 다이소모바일상품권 월 5,000P 지급 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4071,6 +4257,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL2552578&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 7개월(원문 termShort=7) / 원문 문구: 다이소모바일상품권 월 5,000P 지급 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4095,6 +4282,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL2552579&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "특가 24개월(원문 termShort=24) / 원문 문구: 다이소모바일상품권 월 5,000P 지급 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4119,6 +4307,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL25A1457&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 8,800원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문 문구: 국내 매거진을 무제한 이용 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4143,6 +4332,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL25A1460&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "평생 할인 7,700원 반영(원문 termAll=1200개월) / 특가 7개월(원문 termShort=7) / 원문 문구: 국내 매거진을 무제한 이용 / 원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4166,6 +4356,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00226&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4189,6 +4380,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL223V438&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4212,6 +4404,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00301&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4235,6 +4428,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00308&promoSeq=9104",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4258,6 +4452,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00306&promoSeq=9106",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4281,6 +4476,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL25A1459&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4304,6 +4500,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL2544250&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4327,6 +4524,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL246O427&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4350,6 +4548,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL236Q190&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4373,6 +4572,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL223V439&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4396,6 +4596,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL242M658&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4419,6 +4620,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL22CQ784&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4442,6 +4644,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL2413473&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4465,6 +4668,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL2413471&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4488,6 +4692,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1002921&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4511,6 +4716,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0019707&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4534,6 +4740,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0017075&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4557,6 +4764,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1005564&promoSeq=9101",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4580,6 +4788,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ0019437&promoSeq=9103",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4603,6 +4812,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=LPZ1004629&promoSeq=9103",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4623,6 +4833,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00261&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4643,6 +4854,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00056&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상"
@@ -4663,6 +4875,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": 19,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL21CL648&promoSeq=9006",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상 / 가입연령 원문 인용: 「만 19세 이하의 청소년 가입자에 한해서만 가입이 가능합니다.」"
@@ -4686,6 +4899,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL2223139&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상 / 가입연령 원문 인용: 「만 65세 이상의 가입자에 한해서만 가입이 가능합니다.」"
@@ -4709,6 +4923,7 @@
   "smsIncluded": true,
   "ageMin": 65,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL2223138&promoSeq=9007",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상 / 가입연령 원문 인용: 「만 65세 이상의 가입자에 한해서만 가입이 가능합니다.」"
@@ -4729,6 +4944,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": 18,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00037&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상 / 가입연령 원문 인용: 「만 18세 이하의 청소년 가입자에 한해서만 가입이 가능합니다.」"
@@ -4749,6 +4965,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": 18,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00036&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상 / 가입연령 원문 인용: 「만 18세 이하의 청소년 가입자에 한해서만 가입이 가능합니다.」"
@@ -4769,6 +4986,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": 18,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PC0LB00008&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상 / 가입연령 원문 인용: 「만 18세 이하의 청소년 가입자에 한해서만 가입이 가능합니다.」"
@@ -4789,6 +5007,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": 19,
+  "variantOf": null,
   "sourceUrl": "https://www.mobing.co.kr/product/plan/view?planID=PL21CL649&promoSeq=",
   "checkedAt": "2026-09-01",
   "memo": "원문: 프로모션 할인요금은 신규가입/번호이동 고객 대상 / 가입연령 원문 인용: 「만 19세 이하의 청소년 가입자에 한해서만 가입이 가능합니다.」"

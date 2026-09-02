@@ -18,6 +18,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=GHSDT300M&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 29,590원 / 부가통화: 30분"
@@ -38,6 +39,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=GHSDY1H1G&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -58,6 +60,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=GHSDY1H2G&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -78,6 +81,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=GHSDY1H3M&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -98,6 +102,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=GHSDY1H5M&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -118,6 +123,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=GHSDYK10G&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -138,6 +144,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=GHSST200M&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -158,6 +165,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=GHSSTDT01&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 50분"
@@ -181,6 +189,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=GHSSTDT15&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 29,700원 / 부가통화: 무제한"
@@ -204,6 +213,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2604221&agent_code=KSP09007",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 23,100원 / 부가통화: 300분"
@@ -227,6 +237,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2604222&agent_code=KSP09007",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 17,600원"
@@ -250,6 +261,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2604223&agent_code=KSP09007",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 20,900원 / 부가통화: 300분"
@@ -273,6 +285,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2612009&agent_code=KSP0111",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 23,100원 / 부가통화: 300분"
@@ -296,6 +309,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2612011&agent_code=KSP0111",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 20,900원 / 부가통화: 300분"
@@ -319,6 +333,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2612012&agent_code=KSP09011",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 23,100원 / 부가통화: 300분"
@@ -342,6 +357,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2612014&agent_code=KSP09011",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 20,900원 / 부가통화: 300분"
@@ -365,6 +381,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2612015&agent_code=KSP09011",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 17,600원"
@@ -388,6 +405,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2612016&agent_code=KSP0111",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 17,600원"
@@ -411,6 +429,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2612017&agent_code=KSP090112",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 23,100원 / 부가통화: 300분"
@@ -434,6 +453,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2612019&agent_code=KSP090112",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 20,900원 / 부가통화: 300분"
@@ -457,6 +477,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2612020&agent_code=KSP090112",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 17,600원"
@@ -477,6 +498,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012209&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 300분"
@@ -500,6 +522,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012215&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 31,900원 / 부가통화: 무제한"
@@ -520,6 +543,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012216&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 110분"
@@ -540,6 +564,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012218&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 300분"
@@ -560,6 +585,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012219&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -583,6 +609,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012220&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 62,700원 / 부가통화: 300분"
@@ -606,6 +633,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012221&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 40,700원 / 부가통화: 300분"
@@ -629,6 +657,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012222&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 18,700원 / 부가통화: 300분"
@@ -652,6 +681,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012223&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 17,600원"
@@ -675,6 +705,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012224&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 41,800원 / 부가통화: 300분"
@@ -698,6 +729,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012225&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 11,000원"
@@ -721,6 +753,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012226&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 48,400원 / 부가통화: 300분"
@@ -744,6 +777,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012227&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 33,000원 / 부가통화: 무제한"
@@ -767,6 +801,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012228&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 9,900원"
@@ -790,6 +825,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012229&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 20,900원 / 부가통화: 300분"
@@ -813,6 +849,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012230&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 23,100원 / 부가통화: 300분"
@@ -836,6 +873,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012231&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 12,100원"
@@ -859,6 +897,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012233&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 12,100원"
@@ -879,6 +918,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012234&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 110분"
@@ -902,6 +942,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012272&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 46,200원 / 부가통화: 300분"
@@ -925,6 +966,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012273&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 47,300원 / 부가통화: 300분"
@@ -948,6 +990,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012276&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 45,100원 / 부가통화: 300분"
@@ -968,6 +1011,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0015069&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 50분"
@@ -991,6 +1035,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0015126&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 4,950원"
@@ -1011,6 +1056,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0015144&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1031,6 +1077,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0015219&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1051,6 +1098,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0015917&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1071,6 +1119,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0015926&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1091,6 +1140,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0015927&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1111,6 +1161,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0015929&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1131,6 +1182,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0015930&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1151,6 +1203,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0015932&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1171,6 +1224,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0015934&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1191,6 +1245,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0016003&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1211,6 +1266,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0016004&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 추가 데이터: 데이터 차단"
@@ -1231,6 +1287,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0016005&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1251,6 +1308,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0016006&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1271,6 +1329,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0017639&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1291,6 +1350,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0017642&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1311,6 +1371,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0017644&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1331,6 +1392,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0017645&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1351,6 +1413,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0018006&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문에 할인 기간 표기가 없다 — 표시가를 그대로 담았다"
@@ -1371,6 +1434,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0018716&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1391,6 +1455,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0019062&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1411,6 +1476,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0019063&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1431,6 +1497,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0019064&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1451,6 +1518,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0019655&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1471,6 +1539,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0019657&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1491,6 +1560,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0019660&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1511,6 +1581,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0019662&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -1534,6 +1605,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1000876&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 31,900원 / 부가통화: 무제한"
@@ -1557,6 +1629,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1000877&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 23,100원 / 부가통화: 300분"
@@ -1580,6 +1653,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1002606&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 5,500원"
@@ -1603,6 +1677,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1002620&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 12,500원"
@@ -1626,6 +1701,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1002621&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 7,700원"
@@ -1649,6 +1725,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1002624&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 19,250원"
@@ -1672,6 +1749,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1004857&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 26,400원 / 부가통화: 300분"
@@ -1695,6 +1773,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1004859&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 46,200원 / 부가통화: 300분"
@@ -1718,6 +1797,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1005213&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 14,850원"
@@ -1741,6 +1821,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1005217&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 9,900원 / 부가통화: 300분"
@@ -1764,6 +1845,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1005218&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 13,200원 / 부가통화: 110분"
@@ -1787,6 +1869,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1005226&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 11,000원"
@@ -1810,6 +1893,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1006047&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 12,100원 / 부가통화: 110분"
@@ -1833,6 +1917,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1006048&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 14,300원 / 부가통화: 110분"
@@ -1856,6 +1941,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1006056&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 48,400원 / 부가통화: 300분"
@@ -1879,6 +1965,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1006114&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 46,200원 / 부가통화: 300분"
@@ -1902,6 +1989,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1008009&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 44,000원 / 부가통화: 300분"
@@ -1925,6 +2013,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1008010&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 46,200원 / 부가통화: 300분"
@@ -1948,6 +2037,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1008011&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 48,400원 / 부가통화: 300분"
@@ -1968,6 +2058,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ101078&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문에 할인 기간 표기가 없다 — 표시가를 그대로 담았다 / 부가통화: 300분"
@@ -1991,6 +2082,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7100605&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 46,200원 / 부가통화: 300분"
@@ -2014,6 +2106,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7100606&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 46,200원 / 부가통화: 300분"
@@ -2037,6 +2130,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7100607&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 46,200원 / 부가통화: 300분"
@@ -2060,6 +2154,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7100617&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 12,100원 / 부가통화: 110분"
@@ -2083,6 +2178,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7100618&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 12,100원 / 부가통화: 110분"
@@ -2106,6 +2202,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7100843&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 26,400원 / 부가통화: 300분"
@@ -2129,6 +2226,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7100844&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 29,700원 / 부가통화: 300분"
@@ -2152,6 +2250,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7100845&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 29,700원 / 부가통화: 300분"
@@ -2172,6 +2271,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7100851&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문에 할인 기간 표기가 없다 — 표시가를 그대로 담았다"
@@ -2195,6 +2295,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7100918&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 18,700원"
@@ -2218,6 +2319,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7100949&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 27,500원"
@@ -2241,6 +2343,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101076&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 42,900원 / 부가통화: 300분"
@@ -2264,6 +2367,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101077&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 44,000원 / 부가통화: 300분"
@@ -2287,6 +2391,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101087&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 14,300원 / 부가통화: 110분"
@@ -2307,6 +2412,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101088&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 300분"
@@ -2327,6 +2433,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101089&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 110분"
@@ -2350,6 +2457,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101091&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 14,850원"
@@ -2370,6 +2478,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101092&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2390,6 +2499,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101093&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2413,6 +2523,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101095&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 19,800원"
@@ -2436,6 +2547,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101096&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 16,500원"
@@ -2459,6 +2571,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101101&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 48,400원 / 부가통화: 300분"
@@ -2479,6 +2592,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101102&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 300분"
@@ -2502,6 +2616,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101104&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 46,200원 / 부가통화: 300분"
@@ -2522,6 +2637,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00045&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2542,6 +2658,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00067&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2562,6 +2679,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00070&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2582,6 +2700,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00071&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2602,6 +2721,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00076&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2622,6 +2742,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00082&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문에 할인 기간 표기가 없다 — 표시가를 그대로 담았다"
@@ -2642,6 +2763,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00084&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 100분"
@@ -2662,6 +2784,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00095&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2682,6 +2805,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00096&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2702,6 +2826,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00100&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 100분"
@@ -2722,6 +2847,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00101&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 150분"
@@ -2742,6 +2868,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00102&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 300분"
@@ -2762,6 +2889,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00104&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2785,6 +2913,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00117&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 53,100원 / 부가통화: 300분"
@@ -2808,6 +2937,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00118&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 36,300원 / 부가통화: 300분"
@@ -2828,6 +2958,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00139&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2848,6 +2979,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00144&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2868,6 +3000,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00145&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2888,6 +3021,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00146&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -2911,6 +3045,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00147&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 15,400원"
@@ -2934,6 +3069,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00148&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 14,300원"
@@ -2957,6 +3093,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00149&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 4,400원"
@@ -2980,6 +3117,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00150&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 4,900원"
@@ -3003,6 +3141,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00151&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「4개월」 할인, 이후 8,800원"
@@ -3026,6 +3165,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00152&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「4개월」 할인, 이후 7,700원"
@@ -3046,6 +3186,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00153&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문에 할인 기간 표기가 없다 — 표시가를 그대로 담았다"
@@ -3066,6 +3207,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00156&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -3086,6 +3228,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00157&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -3109,6 +3252,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00171&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 11,000원"
@@ -3132,6 +3276,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00172&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 4,100원"
@@ -3155,6 +3300,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00173&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「4개월」 할인, 이후 9,900원"
@@ -3178,6 +3324,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00174&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 5,500원"
@@ -3201,6 +3348,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00175&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 16,500원"
@@ -3224,6 +3372,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00176&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 11,000원"
@@ -3247,6 +3396,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00177&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 3,600원"
@@ -3270,6 +3420,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00178&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 4,100원"
@@ -3293,6 +3444,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00179&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 4,800원"
@@ -3316,6 +3468,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00180&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「4개월」 할인, 이후 5,500원"
@@ -3339,6 +3492,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00181&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 3,500원"
@@ -3362,6 +3516,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00182&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 47,300원 / 부가통화: 300분"
@@ -3385,6 +3540,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00184&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 44,000원 / 부가통화: 300분"
@@ -3408,6 +3564,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00185&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 34,100원 / 부가통화: 300분"
@@ -3431,6 +3588,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00186&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 38,500원"
@@ -3451,6 +3609,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00187&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -3474,6 +3633,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00188&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 33,000원"
@@ -3494,6 +3654,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00189&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -3517,6 +3678,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00190&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 29,700원"
@@ -3537,6 +3699,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00191&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -3560,6 +3723,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00192&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 19,800원"
@@ -3583,6 +3747,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00193&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 23,100원"
@@ -3606,6 +3771,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00194&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 19,800원"
@@ -3629,6 +3795,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00195&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 11,000원"
@@ -3652,6 +3819,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00196&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 9,900원"
@@ -3675,6 +3843,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00197&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 8,800원"
@@ -3695,6 +3864,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00198&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -3715,6 +3885,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00199&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -3735,6 +3906,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00200&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -3755,6 +3927,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00201&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -3775,6 +3948,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00202&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -3798,6 +3972,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00203&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 49,500원"
@@ -3818,6 +3993,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00204&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -3841,6 +4017,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00205&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 14,300원 / 부가통화: 100분"
@@ -3864,6 +4041,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00206&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 37,400원 / 부가통화: 300분"
@@ -3887,6 +4065,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00208&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 47,300원 / 부가통화: 300분"
@@ -3910,6 +4089,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00209&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 46,200원 / 부가통화: 300분"
@@ -3933,6 +4113,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00210&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 45,100원 / 부가통화: 300분"
@@ -3956,6 +4137,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00211&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 49,500원 / 부가통화: 300분"
@@ -3979,6 +4161,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00212&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 36,300원"
@@ -4002,6 +4185,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00213&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 31,900원 / 부가통화: 무제한"
@@ -4025,6 +4209,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00215&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 24,200원 / 부가통화: 300분"
@@ -4045,6 +4230,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00220&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4068,6 +4254,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00221&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 24,200원 / 부가통화: 300분"
@@ -4091,6 +4278,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00222&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 31,900원 / 부가통화: 무제한"
@@ -4111,6 +4299,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00223&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4131,6 +4320,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00224&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4154,6 +4344,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00225&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 19,250원"
@@ -4177,6 +4368,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00226&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 9,900원"
@@ -4200,6 +4392,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00227&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 15,400원"
@@ -4223,6 +4416,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00228&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 9,900원"
@@ -4246,6 +4440,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00229&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 14,850원"
@@ -4269,6 +4464,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00231&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 29,700원"
@@ -4292,6 +4488,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00232&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 16,500원"
@@ -4315,6 +4512,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00233&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「12개월」 할인, 이후 16,500원"
@@ -4335,6 +4533,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00234&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4355,6 +4554,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00235&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4375,6 +4575,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00236&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 0분"
@@ -4395,6 +4596,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00237&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4415,6 +4617,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00238&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4435,6 +4638,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00239&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4455,6 +4659,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00240&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4475,6 +4680,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00241&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4495,6 +4701,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00242&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4518,6 +4725,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00243&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 44,550원 / 부가통화: 300분"
@@ -4541,6 +4749,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00244&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 31,900원 / 부가통화: 300분"
@@ -4564,6 +4773,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00245&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 29,700원 / 부가통화: 300분"
@@ -4587,6 +4797,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00257&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 49,500원 / 부가통화: 300분"
@@ -4610,6 +4821,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00259&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 49,500원 / 부가통화: 300분"
@@ -4633,6 +4845,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00261&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 49,500원 / 부가통화: 300분"
@@ -4656,6 +4869,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00263&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 49,500원 / 부가통화: 300분"
@@ -4679,6 +4893,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL19AS359&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 47,000원 / 부가통화: 300분"
@@ -4702,6 +4917,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL19BF483&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 61,500원 / 부가통화: 300분"
@@ -4725,6 +4941,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL222O251&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 25,300원 / 부가통화: 300분"
@@ -4745,6 +4962,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL222O252&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4768,6 +4986,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL228T743&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 33,000원 / 부가통화: 무제한"
@@ -4791,6 +5010,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL232N265&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 45,100원 / 부가통화: 300분"
@@ -4811,6 +5031,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL232N267&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 50분"
@@ -4831,6 +5052,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL232N268&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 50분"
@@ -4851,6 +5073,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL233O455&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 50분"
@@ -4871,6 +5094,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL233O457&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 50분"
@@ -4891,6 +5115,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL233O459&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 50분"
@@ -4914,6 +5139,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL234O665&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 33,000원 / 부가통화: 무제한"
@@ -4937,6 +5163,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL234O666&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 46,200원 / 부가통화: 300분"
@@ -4957,6 +5184,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL234O667&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4977,6 +5205,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL234O668&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -4997,6 +5226,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL234O669&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5020,6 +5250,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL234P687&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 33,000원 / 부가통화: 무제한"
@@ -5043,6 +5274,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL234P689&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 24,200원 / 부가통화: 300분"
@@ -5066,6 +5298,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL234P690&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 49,500원 / 부가통화: 300분"
@@ -5086,6 +5319,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL235P941&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 300분"
@@ -5109,6 +5343,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL235P942&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 27,500원 / 부가통화: 300분"
@@ -5132,6 +5367,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL235P943&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 26,400원 / 부가통화: 300분"
@@ -5155,6 +5391,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL235Q952&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 53,900원 / 부가통화: 300분"
@@ -5178,6 +5415,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL235Q960&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 50,600원 / 부가통화: 300분"
@@ -5201,6 +5439,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL235Q968&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 47,300원 / 부가통화: 300분"
@@ -5224,6 +5463,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL24AU904&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 33,000원 / 부가통화: 무제한"
@@ -5247,6 +5487,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL24AU905&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 24,200원 / 부가통화: 300분"
@@ -5270,6 +5511,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL24AU910&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 33,000원 / 부가통화: 무제한"
@@ -5293,6 +5535,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL25C3792&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 49,200원 / 부가통화: 300분"
@@ -5316,6 +5559,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL261Q166&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 49,200원 / 부가통화: 300분"
@@ -5339,6 +5583,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL261Q169&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 49,200원 / 부가통화: 300분"
@@ -5362,6 +5607,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL261Q170&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 49,200원 / 부가통화: 300분"
@@ -5385,6 +5631,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL261Q173&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 49,200원 / 부가통화: 300분"
@@ -5408,6 +5655,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL261Q175&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「18개월」 할인, 이후 49,200원 / 부가통화: 300분"
@@ -5428,6 +5676,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019002&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5448,6 +5697,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019004&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5468,6 +5718,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019005&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5488,6 +5739,7 @@
   "smsIncluded": false,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019006&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5508,6 +5760,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019008&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5528,6 +5781,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019010&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5548,6 +5802,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019011&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5568,6 +5823,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019012&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5588,6 +5844,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019014&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5608,6 +5865,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019016&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5628,6 +5886,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019017&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5648,6 +5907,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019018&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5668,6 +5928,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019020&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5688,6 +5949,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019022&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5708,6 +5970,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019023&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5728,6 +5991,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=SKT2019024&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다"
@@ -5751,6 +6015,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101099&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -5771,6 +6036,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1005215&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「평생(life)」 할인 — 할인가를 제값으로 담았다 / 부가통화: 300분"
@@ -5794,6 +6060,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012213&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -5817,6 +6084,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1000875&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -5840,6 +6108,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1004858&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 46,200원 / 부가통화: 300분"
@@ -5863,6 +6132,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL24AU903&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 40,590원 / 부가통화: 300분"
@@ -5886,6 +6156,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL261Q174&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 40,590원 / 부가통화: 300분"
@@ -5909,6 +6180,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL25C3793&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 40,590원 / 부가통화: 300분"
@@ -5932,6 +6204,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL234O663&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -5955,6 +6228,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL24AU908&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 40,590원 / 부가통화: 300분"
@@ -5978,6 +6252,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL226T137&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 40,300원 / 부가통화: 300분"
@@ -6001,6 +6276,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL234P688&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 40,590원 / 부가통화: 300분"
@@ -6024,6 +6300,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL22BS563&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 40,700원 / 부가통화: 300분"
@@ -6047,6 +6324,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL228T745&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 40,590원 / 부가통화: 300분"
@@ -6070,6 +6348,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL228T744&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 40,590원 / 부가통화: 300분"
@@ -6093,6 +6372,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL251M368&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 40,590원 / 부가통화: 300분"
@@ -6116,6 +6396,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2612010&agent_code=KSP0111",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -6139,6 +6420,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1006051&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -6162,6 +6444,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2612013&agent_code=KSP09011",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -6185,6 +6468,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2612018&agent_code=KSP090112",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -6208,6 +6492,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LGU2604224&agent_code=KSP09007",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -6231,6 +6516,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00256&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -6254,6 +6540,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00258&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -6277,6 +6564,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00262&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -6300,6 +6588,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00260&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -6323,6 +6612,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ1006052&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 41,800원 / 부가통화: 300분"
@@ -6346,6 +6636,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7101097&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 41,800원 / 부가통화: 300분"
@@ -6369,6 +6660,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7100601&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -6392,6 +6684,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ7100602&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「24개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -6415,6 +6708,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PC0NB00214&agent_code=KSD0268",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 39,600원 / 부가통화: 300분"
@@ -6438,6 +6732,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=LPZ0012217&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 46,200원 / 부가통화: 300분"
@@ -6461,6 +6756,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL19AS361&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「6개월」 할인, 이후 38,500원 / 부가통화: 200분"
@@ -6484,6 +6780,7 @@
   "smsIncluded": true,
   "ageMin": null,
   "ageMax": null,
+  "variantOf": null,
   "sourceUrl": "https://www.eyagi.co.kr/shop/plan/detail.php?comm_code=PL234O664&agent_code=KSD0002",
   "checkedAt": "2026-09-01",
   "memo": "원문 「7개월」 할인, 이후 44,000원 / 부가통화: 300분"
